@@ -1,0 +1,604 @@
+{
+ "generated": "2026-10-02",
+ "fact_checked": "2026-10-02",
+ "note": "Elevations and summit coordinates are from the Geospatial Information Authority of Japan (GSI) list 'Nihon no omona sangaku hyoko ichiran - 1003 peaks' (CSV dated 2026-03-31). Other facts were checked against the cited source URL; Japanese Wikipedia used as a cross-check. Category 'seiko-documented' is used only where a Seiko-owned page states the fact. Every item carries verified + verification_note.",
+ "elevation_reference": "https://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41139.html",
+ "mountains": [
+  {
+   "name_en": "Mount Fuji",
+   "name_jp": "富士山",
+   "romaji": "Fujisan",
+   "elevation_m": 3776,
+   "elevation_source": "GSI 1003-peaks list (Kengamine, 3,776 m). Japanese Wikipedia gives 3,776.12 m for the highest point; the earlier 3,776.24 m figure is superseded.",
+   "lat": 35.360738,
+   "lon": 138.727373,
+   "prefecture": "Yamanashi / Shizuoka",
+   "range": "Isolated stratovolcano (not part of the Japanese Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation, coordinates and prefectures match GSI CSV. Elevation corrected from 3776.24 to 3776.",
+   "facts": [
+    {
+     "text": "Highest mountain in Japan; inscribed as a UNESCO World Heritage cultural site on 22 June 2013 ('Fujisan, sacred place and source of artistic inspiration').",
+     "source": "https://en.wikipedia.org/wiki/Mount_Fuji",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Confirmed by English and Japanese Wikipedia; height consistent with GSI."
+    },
+    {
+     "text": "British envoy Rutherford Alcock made the first recorded foreign ascent in 1860; the ban on women climbing was lifted in 1872.",
+     "source": "https://ja.wikipedia.org/wiki/富士山",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Both dates confirmed in Japanese Wikipedia (Alcock via Yoshida route, 1860; nyonin kinsei lifted by Meiji government 1872)."
+    },
+    {
+     "text": "One of Japan's 'Three Holy Mountains' (Sanreizan) with Mount Tate and Mount Haku.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Tate",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Stated verbatim in the Mount Tate article."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Fuji",
+    "https://ja.wikipedia.org/wiki/富士山"
+   ]
+  },
+  {
+   "name_en": "Mount Hotaka (Okuhotaka-dake)",
+   "name_jp": "奥穂高岳",
+   "romaji": "Okuhotaka-dake",
+   "elevation_m": 3190,
+   "elevation_source": "GSI 1003-peaks list",
+   "lat": 36.289226,
+   "lon": 137.647988,
+   "prefecture": "Nagano / Gifu",
+   "range": "Hida Mountains (Northern Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation and coordinates now taken from the GSI Okuhotaka-dake summit point (previous coordinates were from the massif article and differed by ~0.001 deg).",
+   "facts": [
+    {
+     "text": "Third highest mountain in Japan after Fuji and Kita; highest in Nagano and Gifu prefectures and highest in the Northern Alps.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Hotakadake",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Consistent with English/Japanese Wikipedia and GSI elevations (3,776 > 3,193 > 3,190)."
+    },
+    {
+     "text": "First recorded ascent of Okuhotaka in 1906 (English Wikipedia names Gunji Abe).",
+     "source": "https://en.wikipedia.org/wiki/Mount_Hotakadake",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Year 1906 in both English and Japanese Wikipedia; climber name only checked against English Wikipedia."
+    },
+    {
+     "text": "Walter Weston climbed Mae-hotaka in 1893 and Okuhotaka in 1912 (per English Wikipedia).",
+     "source": "https://en.wikipedia.org/wiki/Mount_Hotakadake",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Matches source text; not checked against a primary source."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Hotakadake",
+    "https://ja.wikipedia.org/wiki/穂高岳"
+   ]
+  },
+  {
+   "name_en": "Mount Yari (Yari-ga-take)",
+   "name_jp": "槍ヶ岳",
+   "romaji": "Yari-ga-take",
+   "elevation_m": 3180,
+   "elevation_source": "GSI 1003-peaks list",
+   "lat": 36.342024,
+   "lon": 137.647643,
+   "prefecture": "Nagano / Gifu",
+   "range": "Hida Mountains (Northern Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation/coords from GSI. GSI places the summit point in Nagano; the mountain straddles Nagano and Gifu per Japanese Wikipedia. Japan's 5th highest per Japanese Wikipedia.",
+   "facts": [
+    {
+     "text": "Nicknamed 'the Matterhorn of Japan' for its pointed shape; name means 'spear peak'.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Yari",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Stated in source."
+    },
+    {
+     "text": "First recorded ascent by the monk Banryu in 1828. William Gowland was the first non-Japanese to summit, in 1878. Walter Weston climbed it in the early 1890s.",
+     "source": "https://www.ndl.go.jp/kaleido/e/entry/18/1.html",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Gowland 1878 confirmed by National Diet Library. Exact day of Banryu's ascent removed (English Wikipedia says 28 July; Japanese Wikipedia gives lunar-calendar 20th day of 7th month). Weston's year conflicts (1891 English Wikipedia vs August 1892 Japanese Wikipedia), so no year given."
+    },
+    {
+     "text": "Source of the Azusa River, which becomes the Shinano River (Japan's longest).",
+     "source": "https://en.wikipedia.org/wiki/Mount_Yari",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Stated in source."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Yari",
+    "https://ja.wikipedia.org/wiki/槍ヶ岳",
+    "https://www.ndl.go.jp/kaleido/e/entry/18/1.html"
+   ]
+  },
+  {
+   "name_en": "Mount Tate (Tateyama)",
+   "name_jp": "立山",
+   "romaji": "Tateyama",
+   "elevation_m": 3015,
+   "elevation_source": "GSI 1003-peaks list (highest point Onanji-yama)",
+   "lat": 36.575959,
+   "lon": 137.619808,
+   "prefecture": "Toyama",
+   "range": "Hida Mountains (Northern Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation, coordinates (Onanji-yama) and prefecture match GSI.",
+   "facts": [
+    {
+     "text": "Three peaks: Onanji-yama (3,015 m), Oyama (3,003 m), Fuji-no-Oritate (2,999 m); Oyama Shrine stands on Oyama.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Tate",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Heights confirmed in English and Japanese Wikipedia; Onanji 3,015 m matches GSI."
+    },
+    {
+     "text": "One of Japan's three holy mountains; by tradition first climbed by Saeki no Ariyori around the start of the 8th century.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Tate",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Japanese Wikipedia dates the founding legend to 701 (Taiho 1) and notes it is legendary, not documented history; phrased as tradition."
+    },
+    {
+     "text": "Glaciers such as the Gozenzawa and Kuranosuke glaciers on Tateyama are among the few existing glaciers recognised in Japan. The area became part of Chubu-Sangaku National Park on 4 December 1934.",
+     "source": "https://ja.wikipedia.org/wiki/立山",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Rephrased: English Wikipedia's claim that these are the 'only' glaciers in Japan is outdated; Japanese Wikipedia says 'among the few'. Park date from English Wikipedia."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Tate",
+    "https://ja.wikipedia.org/wiki/立山"
+   ]
+  },
+  {
+   "name_en": "Mount Tanigawa (Tanigawa-dake)",
+   "name_jp": "谷川岳",
+   "romaji": "Tanigawa-dake",
+   "elevation_m": 1977,
+   "elevation_source": "GSI 1003-peaks list (Oki-no-Mimi, highest of the twin summits; Toma-no-Mimi 1,963 m per Japanese Wikipedia)",
+   "lat": 36.837115,
+   "lon": 138.930157,
+   "prefecture": "Gunma / Niigata",
+   "range": "Mikuni Mountains",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation, coordinates (Oki-no-Mimi) and prefectures match GSI.",
+   "facts": [
+    {
+     "text": "About 805 people are recorded as having died on Tanigawa-dake since statistics began in 1931 (when the Joetsu Line opened), giving it the nickname 'mountain of demons' (ma no yama).",
+     "source": "https://ja.wikipedia.org/wiki/谷川岳",
+     "category": "japanese-context",
+     "verified": false,
+     "verification_note": "Figure appears in both Wikipedias but with different as-of dates (Japanese: through 2012; English: December 2014). The underlying Gunma Prefecture police tally was not located. The Everest comparison was removed (unsupported), and the widely repeated Guinness World Records claim appears only on trivia sites, so do not use it."
+    },
+    {
+     "text": "One of the 100 Famous Japanese Mountains; it sits where weather systems from the Asian continent and the Pacific meet.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Tanigawa",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Both points stated in source."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Tanigawa",
+    "https://ja.wikipedia.org/wiki/谷川岳"
+   ]
+  },
+  {
+   "name_en": "Mount Kita (Kita-dake)",
+   "name_jp": "北岳",
+   "romaji": "Kita-dake",
+   "elevation_m": 3193,
+   "elevation_source": "GSI 1003-peaks list (Japanese Wikipedia: 3,193.2 m)",
+   "lat": 35.674314,
+   "lon": 138.238828,
+   "prefecture": "Yamanashi",
+   "range": "Akaishi Mountains (Southern Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Coordinates corrected to GSI summit (old value was ~200 m off in longitude).",
+   "facts": [
+    {
+     "text": "Second highest mountain in Japan after Fuji, and therefore the highest peak in the Japanese Alps.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Kita",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Second-highest stated in source; 'highest in the Alps' follows from GSI heights since Fuji is not in the Alps."
+    },
+    {
+     "text": "The endemic plant Callianthemum hondoense (kitadake-so) grows only here; the east face has the roughly 600 m Kitadake Buttress, described as Japan's highest rock face.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Kita",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Confirmed in English and Japanese Wikipedia."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Kita",
+    "https://ja.wikipedia.org/wiki/北岳"
+   ]
+  },
+  {
+   "name_en": "Mount Ontake",
+   "name_jp": "御嶽山",
+   "romaji": "Ontake-san",
+   "elevation_m": 3067,
+   "elevation_source": "GSI 1003-peaks list (Kengamine)",
+   "lat": 35.893014,
+   "lon": 137.480439,
+   "prefecture": "Nagano / Gifu",
+   "range": "Ontake volcano (separate from the Kiso Mountains)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "GSI places the Kengamine summit point in Nagano; the mountain straddles Nagano and Gifu per Japanese Wikipedia.",
+   "facts": [
+    {
+     "text": "Second-highest volcano in Japan after Fuji; a sacred mountain of mountain-worship traditions.",
+     "source": "https://ja.wikipedia.org/wiki/御嶽山",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Rank confirmed in Japanese Wikipedia."
+    },
+    {
+     "text": "The phreatic eruption of 27 September 2014 left 58 dead and 5 missing, many of them hikers near the summit; it was Japan's worst postwar volcanic disaster.",
+     "source": "https://ja.wikipedia.org/wiki/御嶽山",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Corrected: earlier text said '63 killed'; the source gives 58 dead plus 5 missing (63 total victims)."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Ontake",
+    "https://ja.wikipedia.org/wiki/御嶽山"
+   ]
+  },
+  {
+   "name_en": "Mount Shirouma (Hakuba)",
+   "name_jp": "白馬岳",
+   "romaji": "Shirouma-dake",
+   "elevation_m": 2932,
+   "elevation_source": "GSI 1003-peaks list (Japanese Wikipedia: 2,932.24 m)",
+   "lat": 36.75851,
+   "lon": 137.758555,
+   "prefecture": "Nagano / Toyama",
+   "range": "Hida Mountains (Northern Alps)",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Matches GSI; coordinates refined slightly.",
+   "facts": [
+    {
+     "text": "Highest peak of the Hakuba section of the Hida Mountains; one of the 100 Famous Japanese Mountains.",
+     "source": "https://en.wikipedia.org/wiki/Mount_Shirouma",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Stated in source."
+    },
+    {
+     "text": "The Hakuba (Shirouma) Daisekkei is one of Japan's largest year-round snow valleys; the first recorded ascent was in 1883.",
+     "source": "https://ja.wikipedia.org/wiki/白馬岳",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Both Wikipedias give 1883 (Japanese Wikipedia names Kubota and Watanabe's party)."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Mount_Shirouma",
+    "https://ja.wikipedia.org/wiki/白馬岳"
+   ]
+  },
+  {
+   "name_en": "Kamikochi",
+   "name_jp": "上高地",
+   "romaji": "Kamikochi",
+   "elevation_m": 1500,
+   "elevation_source": "Japanese Wikipedia: about 1,500 m (English Wikipedia: valley floor ~1,400 m south to ~1,600 m north). Valley, not in GSI peak list.",
+   "lat": 36.246944,
+   "lon": 137.633333,
+   "prefecture": "Nagano",
+   "range": "Hida Mountains (Northern Alps); valley, not a peak",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Approximate elevation and coordinates (36°14'49\"N 137°38'00\"E) per Japanese Wikipedia.",
+   "facts": [
+    {
+     "text": "Highland valley in Chubu-Sangaku National Park, designated a Special Natural Monument and Special Place of Scenic Beauty.",
+     "source": "https://en.wikipedia.org/wiki/Kamikochi",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Confirmed in English and Japanese Wikipedia."
+    },
+    {
+     "text": "The annual Weston Festival in early June honours Walter Weston; a memorial relief to him stands in Kamikochi.",
+     "source": "https://en.wikipedia.org/wiki/Kamikochi",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Festival confirmed in both Wikipedias. That the Japanese Alpine Club erected the relief was not confirmed in the fetched text, so that attribution was removed."
+    },
+    {
+     "text": "Private cars were first restricted in summer 1975; year-round (in-season) restrictions began in 1996. Access is by shuttle bus or taxi through the Kama Tunnel.",
+     "source": "https://ja.wikipedia.org/wiki/上高地",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Corrected from '1994' (English Wikipedia). Japanese Wikipedia and Ministry of the Environment material give 1975 (seasonal) and 1996 (full season)."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Kamikochi",
+    "https://ja.wikipedia.org/wiki/上高地",
+    "https://www.env.go.jp/park/chubu/effort.html"
+   ]
+  },
+  {
+   "name_en": "Daisetsuzan / Mount Asahi (Asahi-dake)",
+   "name_jp": "大雪山 / 旭岳",
+   "romaji": "Daisetsuzan / Asahi-dake",
+   "elevation_m": 2291,
+   "elevation_source": "GSI 1003-peaks list (listed as 大雪山（ヌタプカウシペ）＜旭岳＞)",
+   "lat": 43.663582,
+   "lon": 142.854138,
+   "prefecture": "Hokkaido",
+   "range": "Daisetsuzan volcanic group, Ishikari Mountains",
+   "category": "japanese-context",
+   "verified": true,
+   "verification_note": "Elevation corrected 2290 -> 2291 and approximate coordinates replaced with GSI summit point.",
+   "facts": [
+    {
+     "text": "Asahi-dake is the highest mountain in Hokkaido.",
+     "source": "https://ja.wikipedia.org/wiki/旭岳",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Confirmed in both Wikipedias."
+    },
+    {
+     "text": "English Wikipedia gives the Ainu name Kamui-mintara ('playground of the gods'); GSI and Japanese Wikipedia instead give Nutapukaushipe for the Daisetsuzan massif.",
+     "source": "https://en.wikipedia.org/wiki/Asahi-dake",
+     "category": "japanese-context",
+     "verified": false,
+     "verification_note": "Sources disagree on the Ainu name; Kamui-mintara is usually applied to the whole Daisetsuzan area, not Asahi-dake specifically. Do not publish as settled."
+    },
+    {
+     "text": "Daisetsuzan National Park was established on 4 December 1934 and covers 2,267.64 km2.",
+     "source": "https://en.wikipedia.org/wiki/Daisetsuzan_National_Park",
+     "category": "japanese-context",
+     "verified": true,
+     "verification_note": "Stated in source."
+    }
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Asahi-dake",
+    "https://ja.wikipedia.org/wiki/旭岳",
+    "https://en.wikipedia.org/wiki/Daisetsuzan_National_Park"
+   ]
+  }
+ ],
+ "context_facts": [
+  {
+   "id": "mountainous",
+   "category": "japanese-context",
+   "claim": "About 70% of Japan's land area is mountainous, according to the Geospatial Information Authority of Japan (GSI, MLIT). The often-quoted 73% figure is a secondary-source number.",
+   "sources": [
+    "https://www.gsi.go.jp/common/000141651.pdf"
+   ],
+   "verified": true,
+   "verification_note": "GSI presentation (MLIT/GSI Applied Geography Dept.) states 国土の約70％が山地である ('about 70% of the national land is mountains'). The 73% figure (US State Department background note) was not confirmed in an official Japanese source and has been replaced."
+  },
+  {
+   "id": "alps-naming",
+   "category": "japanese-context",
+   "claim": "The term 'Japanese Alps' was first used by William Gowland, an English metallurgist at the Osaka Mint (in Japan 1872-1888). Writing in A Handbook for Travellers in Central & Northern Japan (ed. Ernest Satow), he said the Hida range 'might perhaps be termed the Japanese Alps'. Walter Weston, an English missionary in Japan at intervals between 1888 and 1915, popularised the name with Mountaineering and Exploration in the Japanese Alps (1896) and is remembered as the 'father of the Japanese Alps'.",
+   "sources": [
+    "https://www.ndl.go.jp/kaleido/e/entry/18/1.html",
+    "https://en.wikipedia.org/wiki/Japanese_Alps",
+    "https://en.wikipedia.org/wiki/Walter_Weston"
+   ],
+   "verified": true,
+   "verification_note": "Confirmed by the National Diet Library. English Wikipedia's '1860s' date is wrong (Gowland only arrived in 1872), so no year is given for the coinage. The first edition of the Satow/Hawes handbook is generally dated 1881, but that was not confirmed on the NDL page."
+  },
+  {
+   "id": "jac",
+   "category": "japanese-context",
+   "claim": "The Japanese Alpine Club (Nihon Sangakukai) was founded in 1905 (Meiji 38) by Kojima Usui and others, inspired by Weston and the (British) Alpine Club; it was Japan's first mountaineering organisation. Its journal Sangaku began in 1906.",
+   "sources": [
+    "https://jac1.or.jp/wp-content/uploads/2016/04/history.pdf",
+    "https://ndl.go.jp/kaleido/entry/18/3.html",
+    "https://en.wikipedia.org/wiki/Japanese_Alpine_Club"
+   ],
+   "verified": true,
+   "verification_note": "1905 confirmed by the club's own history document and by the National Diet Library. Wikipedia's Walter Weston article saying 1906 is an error (1906 is when the journal began). The 14 October date is in secondary sources only."
+  },
+  {
+   "id": "manaslu",
+   "category": "japanese-context",
+   "claim": "Manaslu (8,163 m) was first climbed on 9 May 1956 by Toshio Imanishi and Gyalzen Norbu on a Japanese expedition led by Yuko (Aritsune) Maki, a landmark of postwar Japanese mountaineering.",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Manaslu"
+   ],
+   "verified": true,
+   "verification_note": "Date, climbers and leader confirmed. The 'landmark' wording is editorial."
+  },
+  {
+   "id": "mountain-day",
+   "category": "japanese-context",
+   "claim": "Mountain Day (Yama no Hi) falls on 11 August. It was created by a 2014 amendment to the Act on National Holidays, first observed in 2016, with the legal purpose 'to gain opportunities to become familiar with mountains and to appreciate their blessings'. Mountaineering organisations formed a committee in 2010 to lobby for it.",
+   "sources": [
+    "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+    "https://www.nippon.com/en/guide-to-japan/gu051003/"
+   ],
+   "verified": true,
+   "verification_note": "Date and purpose confirmed by the Cabinet Office holiday page; 2014 amendment, 2016 first observance and 2010 campaign confirmed by nippon.com."
+  },
+  {
+   "id": "seiko-origin",
+   "category": "seiko-documented",
+   "claim": "Seiko says the Alpinist was introduced in 1959 'to meet the needs of mountain climbers and recreational field sports enthusiasts' and was the first Seiko watch made with sports in mind. Seiko's heritage page calls the 1959 Laurel Alpinist 'the ancestor of Seiko sports watches', developed 'in anticipation of a growing trekking and mountaineering boom in Japan'. Seiko's Alpinist product page adds that it appeared 'as mountaineering and skiing gained popularity'.",
+   "sources": [
+    "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+    "https://www.seikowatches.com/sg-en/special/heritage/",
+    "https://www.seikowatches.com/us-en/products/prospex/alpinist-design"
+   ],
+   "verified": true,
+   "verification_note": "All three Seiko pages fetched and quoted. 1959 is the date on Seiko's English pages."
+  },
+  {
+   "id": "seiko-features",
+   "category": "seiko-documented",
+   "claim": "Original features per Seiko: a screw-back case to keep out dust and sand, luminous indexes and hands, and mountain-shaped markers at 3, 6, 9 and 12 o'clock that represented the four main compass points and evoked the name Alpinist. Seiko says the specially designed 12 o'clock marker 'allowed the time to be read safely and correctly at any angle'.",
+   "sources": [
+    "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+   ],
+   "verified": true,
+   "verification_note": "Every point quoted from the Seiko press release."
+  },
+  {
+   "id": "seiko-yamaotoko",
+   "category": "seiko-documented",
+   "claim": "Seiko's German-language news page on the Prospex Alpinist relaunch says the original model was introduced in 1961 for Japanese mountain explorers and climbers, known in Japanese as 'Yama-otoko' ('mountain men'), rendered in English as 'Alpinist'.",
+   "sources": [
+    "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist"
+   ],
+   "verified": true,
+   "verification_note": "Confirmed on the German Seiko page only. It conflicts with the 1959 date on Seiko's English pages and with the US product page; no English-language Seiko page uses 'Yama-otoko'. Use 1959 as Seiko's main date and present 'Yama-otoko' only with this attribution."
+  },
+  {
+   "id": "seiko-museum",
+   "category": "seiko-documented",
+   "claim": "The Seiko Museum opened in 1981 for Seiko's centennial and moved to Ginza in 2020 (as The Seiko Museum Ginza), marking the 160th anniversary of founder Kintaro Hattori's birth; Ginza is where he was born and started his business. The About page does not mention the Alpinist.",
+   "sources": [
+    "https://museum.seiko.co.jp/en/about/",
+    "https://www.seiko.co.jp/en/news/holdings/2020/202008051202.html"
+   ],
+   "verified": true,
+   "verification_note": "Museum About page fetched and confirmed; the holdings news release was not fetched separately."
+  },
+  {
+   "id": "seiko-expeditions",
+   "category": "seiko-documented",
+   "claim": "Seiko's heritage page says its 1965 diver's watch was worn by Japanese Antarctic Research Expedition members (four times since 1966), adventurers crossing the Arctic, and mountaineers summiting Everest. This is the diver's watch, NOT the Alpinist. Seiko also says Naomi Uemura (first Japanese to summit Everest, 1970) wore a 1970 diver's watch on his 1974-76 solo dog-sled journey from Greenland to Alaska.",
+   "sources": [
+    "https://www.seikowatches.com/sg-en/special/heritage/",
+    "https://www.seikowatches.com/us-en/news/20230308-2"
+   ],
+   "verified": true,
+   "verification_note": "Both pages fetched. No Seiko source ties the Alpinist to a specific expedition."
+  },
+  {
+   "id": "noguchi-ssass",
+   "category": "third-party",
+   "claim": "A 500-piece aqua-dial Alpinist (SBCJ023, 8F56 quartz) is reported as a tribute to mountaineer Ken Noguchi and his Seven Summits Actions for Sustainable Society (SSASS).",
+   "sources": [
+    "https://hairspring.com/finds/1-of-500-seiko-ssass-alpinist-sbcj023"
+   ],
+   "verified": false,
+   "verification_note": "Only retailer and forum sources found; no Seiko source. The release year is not given (a '2003' date from a retailer conflicts with the 8F56 SBCJ series timing)."
+  },
+  {
+   "id": "compass-method",
+   "category": "japanese-context",
+   "claim": "Using an analog watch and the sun to find direction. Northern Hemisphere: hold the watch level and point the hour hand at the sun; south lies halfway between the hour hand and 12. Southern Hemisphere: point 12 at the sun; north lies halfway between 12 and the hour hand. Limitations: (1) Hemisphere: the procedure flips, and using the wrong one gives the opposite direction. (2) Daylight saving time: set the watch back one hour first, or use 1 instead of 12. (3) Time-zone offset: the method assumes the sun is due south at 12:00, but that is only true on the zone's reference meridian (for Japan Standard Time, 135°E at Akashi). Elsewhere in the zone, and through the equation of time, solar noon drifts from clock noon. (4) Latitude and season: near the tropics the sun's direction does not change evenly through the day, and when the sun is high (low latitudes in summer, near midday) the method can fail. Seiko warns it may not work at certain times of year south of the Tropic of Cancer (or north of the Tropic of Capricorn). (5) It gives only a rough direction and should not be used where accuracy matters.",
+   "sources": [
+    "https://www.seikowatches.com/instructions/html/SEIKO_6R31_6R35_6R38_EN/BONDSYakzlcfey",
+    "https://museum.seiko.co.jp/en/knowledge/trivia11/",
+    "https://en.wikipedia.org/wiki/Direction_determination"
+   ],
+   "verified": true,
+   "verification_note": "Method, DST, hemisphere, low-latitude and accuracy cautions come from the Seiko compass-bezel manual (6R31/6R35/6R38). The Akashi/JST time-zone caveat is from the Seiko Museum page. The equation-of-time and tropics azimuth points are from Wikipedia. No sourced numeric error figure was found, so none is given."
+  },
+  {
+   "id": "compass-seiko",
+   "category": "seiko-documented",
+   "claim": "Seiko manual for compass-bezel models: use it where the sun is visible or its position is known; if daylight saving time is in effect, set the watch one hour back first. Northern Hemisphere: point the hour hand at the sun and set S on the bezel to the midpoint between 12 and the hour hand. Southern Hemisphere: point the 12 o'clock marker at the sun and set N to that midpoint. Seiko says the compass gives only a rough indication of direction and should not be used where accuracy is critical, and that it may not work properly at certain times of year at low latitudes (south of the Tropic of Cancer in the Northern Hemisphere, north of the Tropic of Capricorn in the Southern).",
+   "sources": [
+    "https://www.seikowatches.com/instructions/html/SEIKO_6R31_6R35_6R38_EN/BONDSYakzlcfey",
+    "https://www.seikowatches.com/instructions/html/SEIKO_6R51_6R55_6R5H_6R5J_EN/BONDSYakzlcfey"
+   ],
+   "verified": true,
+   "verification_note": "6R31/6R35/6R38 manual fetched and quoted; 6R5x manual not separately fetched. The manual covers several compass-bezel calibres, so check the manual for the specific Alpinist reference you describe."
+  },
+  {
+   "id": "compass-seiko-museum",
+   "category": "seiko-documented",
+   "claim": "The Seiko Museum's trivia page describes the watch-and-sun method (hour hand toward the sun, with south halfway to 12 in the Northern Hemisphere and north in the Southern). It notes that Japan treats the sun crossing the Akashi meridian as 12:00, which causes error elsewhere, and says the method should be used only as a reference because the hour hand is hard to aim accurately.",
+   "sources": [
+    "https://museum.seiko.co.jp/en/knowledge/trivia11/"
+   ],
+   "verified": true,
+   "verification_note": "Page fetched; it does not discuss DST, latitude or season."
+  }
+ ],
+ "alpinist_mountain_link": {
+  "summary": "No Seiko source reviewed links the Alpinist to a specific mountain, range or climb. Seiko documents only that the 1959 (Laurel) Alpinist was Seiko's first sports watch, made for mountain climbers and field-sports enthusiasts as trekking and mountaineering grew in Japan, with mountain-shaped markers representing the compass points. The commonly made associations (Hida/Northern Alps, Fuji, Yari) are the site author's or enthusiasts' context, not Seiko-documented, and no causal link should be claimed. The only expedition links in Seiko sources concern diver's watches (Antarctic, Arctic, Everest, Uemura), not the Alpinist. A Noguchi tribute edition is reported only by third parties. One Seiko page (German) gives 1961 and the 'Yama-otoko' story, which conflicts with Seiko's own 1959 date.",
+  "sources": [
+   "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+   "https://www.seikowatches.com/sg-en/special/heritage/",
+   "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist"
+  ],
+  "category": "seiko-documented",
+  "verified": true,
+  "verification_note": "Consistent with all fetched Seiko pages; absence of a mountain link is a negative finding limited to the pages reviewed."
+ },
+ "further_reading": [
+  {
+   "title": "Seiko Watches: Our Heritage",
+   "url": "https://www.seikowatches.com/sg-en/special/heritage/"
+  },
+  {
+   "title": "Seiko: re-creation of the 1959 Alpinist (press release)",
+   "url": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+  },
+  {
+   "title": "Seiko Museum Ginza (About)",
+   "url": "https://museum.seiko.co.jp/en/about/"
+  },
+  {
+   "title": "Seiko Museum: using a watch as a compass",
+   "url": "https://museum.seiko.co.jp/en/knowledge/trivia11/"
+  },
+  {
+   "title": "Seiko compass bezel instruction manual",
+   "url": "https://www.seikowatches.com/instructions/html/SEIKO_6R31_6R35_6R38_EN/BONDSYakzlcfey"
+  },
+  {
+   "title": "GSI: Elevations of Japan's main mountains (1003 peaks)",
+   "url": "https://www.gsi.go.jp/kihonjohochousa/kihonjohochousa41139.html"
+  },
+  {
+   "title": "National Diet Library: New-style mountain climbing (Gowland, Weston)",
+   "url": "https://www.ndl.go.jp/kaleido/e/entry/18/1.html"
+  },
+  {
+   "title": "Wikipedia: Japanese Alps",
+   "url": "https://en.wikipedia.org/wiki/Japanese_Alps"
+  },
+  {
+   "title": "Wikipedia: Walter Weston",
+   "url": "https://en.wikipedia.org/wiki/Walter_Weston"
+  },
+  {
+   "title": "nippon.com: Mountain Day",
+   "url": "https://www.nippon.com/en/guide-to-japan/gu051003/"
+  },
+  {
+   "title": "Wikipedia: Direction determination",
+   "url": "https://en.wikipedia.org/wiki/Direction_determination"
+  }
+ ]
+}

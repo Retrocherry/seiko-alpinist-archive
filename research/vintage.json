@@ -1,0 +1,1672 @@
+{
+ "generated": "2026-10-02",
+ "scope": "Seiko Alpinist 1959-2005 (vintage, revival and early-2000s compass-bezel models)",
+ "method_note": "Tier 1 = Seiko-owned pages/manuals. HODINKEE Japan article is a Seiko-sponsored feature quoting collector Yoshihiko Honda (treated as third-party). The Spring Bar is a dealer blog (archived 2021) with some known errors (e.g. 1961 date). Unverified fields are null and listed in uncertain_fields.",
+ "compass_bezel_introduction": {
+  "year": 1995,
+  "text": "The internal rotating compass ring and the 4 o'clock crown that operates it first appear on the 1995 Alpinist (SCVF005/007/009). No 1959-1960s Alpinist had a compass.",
+  "sources": [
+   "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+   "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+   "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html",
+   "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+  ],
+  "category": "third-party"
+ },
+ "design_evolution": [
+  {
+   "era": "1959 Laurel Alpinist",
+   "case": "35mm (or about 34mm) three-piece steel case, screw back, oversized crown, domed acrylic",
+   "hands": "lumed dauphine/dagger",
+   "dial": "black or white; large lumed wedge indices at 3/6/9/12; 'Alpinist' script above 6",
+   "caseback": "screw-in, engraved model and ref",
+   "logo": "SEIKO + Laurel; 'Alpinist' script"
+  },
+  {
+   "era": "1961-63 Champion Alpinist (Daini)",
+   "case": "35-35.5mm steel, multi-chamfered lugs, snap caseback",
+   "hands": "lumed dauphine; half-moon/lollipop seconds tip",
+   "dial": "sector designs, often two-tone; triangle at 12; 'Seiko Champion' script, 'Diashock 17J', 'Alpinist', 'Water Proof'",
+   "caseback": "mountain logo engraving introduced (Spring Bar says this originated with the Champion series)",
+   "logo": "Seiko Champion script"
+  },
+  {
+   "era": "1963-64 Champion 850 Alpinist",
+   "case": "steel, gold-plated or chrome-plated (85899)",
+   "hands": "dauphine",
+   "dial": "J13079 sector dial with 24h markings; '850' on dial",
+   "caseback": "'Alpinist 850' with mountain logo",
+   "logo": "Seiko Champion 850"
+  },
+  {
+   "era": "1995 revival (4S15)",
+   "case": "38mm steel, 200m, screw-down crown, second crown at 4",
+   "hands": "cathedral",
+   "dial": "black (chevron indices), cream or green (gold Arabic numerals); red 'Alpinist' script; cyclops date",
+   "caseback": "screw-down with mountain and 'Alpinist'",
+   "logo": "SEIKO; red Alpinist script; no Prospex X"
+  },
+  {
+   "era": "c.2003 8F56 quartz",
+   "case": "titanium, 100m",
+   "hands": "sword",
+   "dial": "black, cream, cream Arabic, teal LE; 24h GMT scale",
+   "caseback": "screw-down with mountain logo",
+   "logo": "red Alpinist script reported (Spring Bar)"
+  }
+ ],
+ "history_facts": [
+  {
+   "year": 1959,
+   "text": "Seiko launches the Laurel Alpinist, its first sports watch, for mountaineering and skiing as both grew in popularity. It had a screw-back case against dust and sand, a leather watch pad against sweat, and luminous hands and indices.",
+   "url": "https://www.seikowatches.com/us-en/products/prospex/special/alpinist/",
+   "category": "seiko-documented"
+  },
+  {
+   "year": 1959,
+   "text": "Seiko says the large wedge-shaped indices at 3, 6, 9 and 12 gave high visibility day and night.",
+   "url": "https://www.seikowatches.com/jp-ja/products/prospex/special/1959-alpinist-recreation",
+   "category": "seiko-documented"
+  },
+  {
+   "year": 1959,
+   "text": "Seiko calls the Laurel Alpinist the starting point of its sports watches; its outdoor focus led to Japan's first diver's watch in 1965.",
+   "url": "https://www.seikowatches.com/jp-ja/special/100stories/challenge/",
+   "category": "seiko-documented"
+  },
+  {
+   "year": 1959,
+   "text": "Sadao Ryugo's book dates the launch to December 1959 and calls it Seiko's first luminescent waterproof sports watch.",
+   "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+   "category": "third-party"
+  },
+  {
+   "year": 1959,
+   "text": "Launch price 4,500 yen per the 1959 SEIKO NEWS (standard Laurel 3,900 yen); cheaper than the contemporary Marvel and Cronos.",
+   "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+   "category": "third-party"
+  },
+  {
+   "year": 1961,
+   "text": "Champion Alpinist Type 1 (J13033), planned and designed by Daini Seikosha (Ryugo's book).",
+   "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+   "category": "third-party"
+  },
+  {
+   "year": 1962,
+   "text": "Champion Alpinist J13049 example dated 1962; snap caseback with the engraved Alpinist mountain logo.",
+   "url": "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+   "category": "third-party"
+  },
+  {
+   "year": 1963,
+   "text": "Champion 850 Alpinist J13079 debuts in May 1963 with 24-hour markings unique to this reference (Ryugo's book).",
+   "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+   "category": "third-party"
+  },
+  {
+   "year": 1963,
+   "text": "Hodinkee Japan dates the Champion 850 Alpinist to about 1963, with a mountain motif on the caseback, and says Seiko named its sports models 'Alpinist' at the time.",
+   "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+   "category": "third-party"
+  },
+  {
+   "year": 1964,
+   "text": "Gold-plated and chrome-plated Champion 850 Alpinist (85899, cal. 851) reported from about 1964.",
+   "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+   "category": "third-party"
+  },
+  {
+   "year": 1965,
+   "text": "The Alpinist name drops out around the mid-1960s (about 1965 per Worn & Wound; 1964 per Time+Tide).",
+   "url": "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+   "category": "third-party"
+  },
+  {
+   "year": 1992,
+   "text": "Seiko introduces the 4S movement family, which later powered the 1995 Alpinist. 1992 is the movement family's date, not the watch's.",
+   "url": "https://reference.grail-watch.com/movement/seiko-4s15/",
+   "category": "third-party"
+  },
+  {
+   "year": 1995,
+   "text": "The Alpinist name is revived with SCVF005/007/009 (cal. 4S15), designed by Shigeo Sakai. It adds the 4 o'clock crown, internal compass ring and date magnifier.",
+   "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+   "category": "third-party"
+  },
+  {
+   "year": 1995,
+   "text": "Designer Jun Tanaka (joined Seiko 1980) pushed for mechanical watches from about 1990, which led to the 1995 Alpinist revival (Ryugo's book).",
+   "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+   "category": "third-party"
+  },
+  {
+   "year": 1995,
+   "text": "The green SCVF009 colourway was inspired by Shigeo Sakai's almond-green Mini Cooper.",
+   "url": "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html",
+   "category": "third-party"
+  },
+  {
+   "year": 2003,
+   "text": "8F56 high-accuracy quartz Alpinists (SBCJ019/021/031) with GMT, perpetual calendar and compass ring join the line, plus the 500-piece SSASS limited edition SBCJ023.",
+   "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+   "category": "third-party"
+  },
+  {
+   "year": 2006,
+   "text": "Hodinkee Japan says Ikuhiro Kuzuya's 2006 redesign (SARB series, out of scope) replaced the 1995 design; green was used in both the 1995 and 2006 models.",
+   "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+   "category": "third-party"
+  }
+ ],
+ "models": [
+  {
+   "id": "laurel-alpinist-14041",
+   "name": "Seiko Laurel Alpinist",
+   "series": "Laurel",
+   "generation": "1st (1959)",
+   "year_intro": 1959,
+   "production_period": "1959 (launched December 1959 per Sadao Ryugo) - c.1961; end date not documented",
+   "ref_primary": "14041",
+   "ref_jp": "14041",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": null,
+    "type": "manual-wind mechanical",
+    "jewels": 17,
+    "bph": 18000,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "Signed 'Seikosha 17 jewels'; dial marked 'Diashock 17J'. No caliber number on the movement per Worn & Wound (for Champion Alpinist) and The Spring Bar. 18,000 vph per Fratello and The Spring Bar. Manufacturing factory (Suwa vs Daini Seikosha) for the Laurel Alpinist not confirmed by a primary source."
+   },
+   "case": {
+    "diameter_mm": 35,
+    "thickness_mm": 11,
+    "lug_to_lug_mm": 41,
+    "lug_width_mm": 18,
+    "material": "stainless steel, three-piece case",
+    "crystal": "high-domed acrylic",
+    "water_resistance": "Screw-back 'dust-proof' case; Seiko describes it as highly airtight; Hodinkee Japan says it was called dust-proof (防塵) rather than water-resistant; no rating published",
+    "caseback": "Screw-in stainless steel; engraved 'SEIKO LAUREL ALPINIST 14041 STAINLESS STEEL' (per The Spring Bar)",
+    "crown": "Oversized crown, easy to wind (Fratello; Hodinkee Japan)"
+   },
+   "dial_colors": [
+    "black (glossy)",
+    "white/cream"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "Leather strap with a large leather watch pad (cuff) to protect the watch from sweat (Seiko official). Third parties call it a bund-style strap.",
+   "market": "Japan (domestic)",
+   "msrp": {
+    "amount": 4500,
+    "currency": "JPY",
+    "year": 1959,
+    "source": "1959 SEIKO NEWS, as cited by HODINKEE Japan (Seiko-sponsored feature); standard Laurel was 3,900 JPY"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Seiko's first sports watch, per Seiko official pages.",
+    "Large wedge-shaped (mountain-shaped) luminous indices at 3, 6, 9 and 12; rectangular indices at the other hours (Seiko; Fratello).",
+    "Lume on all indices and on the hour and minute hands (Seiko official).",
+    "Dauphine/dagger-style hands; the seconds hand tip has a reddish colour (Fratello).",
+    "'Alpinist' script above 6 o'clock. The same logotype appears on later Alpinists (Fratello).",
+    "The only Alpinist to carry the Laurel name (Fratello).",
+    "Hodinkee Japan (quoting collector Yoshihiko Honda) says it grew out of the Suwa Seikosha Marvel Dust-Proof screw-back model and lumed Laurel variants. The Spring Bar notes Marvel and Champion watches using a 14041 case."
+   ],
+   "sources": [
+    {
+     "title": "Seiko Prospex Alpinist (JP special page)",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/special/alpinist",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Seiko Prospex Alpinist Mechanical (US)",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/special/alpinist/",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "1959 Alpinist re-creation special page",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/special/1959-alpinist-recreation",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Seiko Brand 100 Stories #68",
+     "url": "https://www.seikowatches.com/jp-ja/special/100stories/challenge/",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "HODINKEE Japan: Seiko Prospex Alpinist (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "Fratello: #TBT Vintage Seiko Laurel Alpinist",
+     "url": "https://www.fratellowatches.com/seiko-watches/tbt-vintage-seiko-laurel-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Top 5 Seiko Alpinist references",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Book review, The History of the Seiko Alpinist (Sadao Ryugo)",
+     "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar: Ultimate Seiko Alpinist Collector's Guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "Impress Watch: SBEN001 news",
+     "url": "https://www.watch.impress.co.jp/docs/news/1308572.html",
+     "tier": "2-major-watch-press"
+    }
+   ],
+   "uncertain_fields": [
+    "case.diameter_mm (35 per Fratello/Spring Bar; about 34 per Hodinkee Japan)",
+    "case.thickness_mm (11 per Fratello; Impress/Seiko imply about 10.1, since SBEN001 at 11.1mm is +1mm over the original)",
+    "case.lug_to_lug_mm (single source: Fratello)",
+    "movement.caliber (no caliber number documented)",
+    "production_period end",
+    "ref format: '14041' (caseback) vs 'J14041' (some third parties)"
+   ]
+  },
+  {
+   "id": "champion-alpinist-j13033",
+   "name": "Seiko Champion Alpinist (Type 1)",
+   "series": "Champion",
+   "generation": "2nd (Champion Alpinist, early 1960s)",
+   "year_intro": 1961,
+   "production_period": "c.1961-1962",
+   "ref_primary": "J13033",
+   "ref_jp": "J13033",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": null,
+    "type": "manual-wind mechanical",
+    "jewels": 17,
+    "bph": 18000,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "17-jewel Seikosha hand-wound with Diashock; dial marked 'Diashock 17j' (The Spring Bar). Planned and designed by Daini Seikosha (Sadao Ryugo book via Fratello)."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "crystal": null,
+    "water_resistance": null,
+    "caseback": "Plain caseback stamped 'RAIN PROOF' with 'Alpinist' engraving (The Spring Bar)",
+    "crown": null
+   },
+   "dial_colors": [
+    "silver-satin centre with thick black radial ring carrying hour markers (sector-style)",
+    "variant with trapezoidal lumed indices"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "Shown with a protective strap in Ryugo's book (via Fratello); original strap details are not otherwise documented",
+   "market": "Japan (domestic)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "First Alpinist in the Champion line, which was Daini Seikosha's (Hodinkee Japan; Ryugo via Fratello).",
+    "Hodinkee Japan describes the first Champion Alpinist (c.1961) as having thick lumed hands and trapezoid indices, and a second model (c.1961) with a two-tone dial.",
+    "Seconds hand with a 'D'-shaped lollipop tip (The Spring Bar)."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: Book review (Ryugo)",
+     "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "HODINKEE Japan (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (1961 per Ryugo/Hodinkee JP 'c.1961'; The Spring Bar says 1963)",
+    "case dimensions",
+    "which dial belongs to which Hodinkee 'first/second model'"
+   ]
+  },
+  {
+   "id": "champion-alpinist-j13043",
+   "name": "Seiko Champion Alpinist",
+   "series": "Champion",
+   "generation": "2nd (Champion Alpinist, early 1960s)",
+   "year_intro": null,
+   "production_period": "early 1960s (Fratello estimates 'somewhere around 1963')",
+   "ref_primary": "J13043",
+   "ref_jp": "J13043",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": null,
+    "type": "manual-wind mechanical",
+    "jewels": 17,
+    "bph": 18000,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "'Typical Seikosha 17 jewel hand winding unit with Diashock' (Fratello)."
+   },
+   "case": {
+    "diameter_mm": 35.5,
+    "thickness_mm": 10,
+    "lug_to_lug_mm": 44,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "crystal": "domed acrylic",
+    "water_resistance": "marked WATERPROOF (The Spring Bar); no rating",
+    "caseback": "Stainless snap-on caseback engraved with the Alpinist mountain logo, stars and three concentric rings",
+    "crown": null
+   },
+   "dial_colors": [
+    "silver/grey sector dial with anthracite outer border"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "leather strap (no bracelet option documented)",
+   "market": "Japan (domestic)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Sector dial: brushed silver sectors, railroad minute track, anthracite border.",
+    "Black triangle with extra lume at 12.",
+    "Lumed dagger hands; the seconds hand has a contrasting semicircle (half-moon) counterweight/tip.",
+    "Multi-chamfered lugs and an inset bezel.",
+    "Four different fonts on the dial."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: The Magnificent Seiko Champion Alpinist J13043",
+     "url": "https://www.fratellowatches.com/seiko-watches/the-magnificent-seiko-champion-alpinist-j13043/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Top 5",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro",
+    "case.lug_width_mm (19 per Fratello; sister ref J13049 is 18 per W&W)"
+   ]
+  },
+  {
+   "id": "champion-alpinist-j13049",
+   "name": "Seiko Champion Alpinist",
+   "series": "Champion",
+   "generation": "2nd (Champion Alpinist, early 1960s)",
+   "year_intro": 1962,
+   "production_period": "c.1962",
+   "ref_primary": "J13049",
+   "ref_jp": "J13049",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": null,
+    "type": "manual-wind mechanical",
+    "jewels": 17,
+    "bph": 18000,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "Movement signed 'Seikosha' and '17 jewels', no model number; dial 'Diashock 17J' (Worn & Wound)."
+   },
+   "case": {
+    "diameter_mm": 35,
+    "thickness_mm": null,
+    "lug_to_lug_mm": 43,
+    "lug_width_mm": 18,
+    "material": "stainless steel",
+    "crystal": "domed acrylic",
+    "water_resistance": "dial marked 'Water Proof'; no rating",
+    "caseback": "Snap-on caseback with the engraved Alpinist mountain logo",
+    "crown": "About 5mm, signed 'S' over 'W' (Seiko Waterproof)"
+   },
+   "dial_colors": [
+    "champagne/silver two-tone sector dial with brown outer ring"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "leather strap; no bracelet option (Worn & Wound)",
+   "market": "Japan (domestic)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "'Seiko Champion' script under 12, 'Alpinist' logo above 6, and 'Water Proof'.",
+    "Dauphine hands with lume; half-moon lumed seconds tip.",
+    "A commenter on Fratello says it looks the same as J13043. The differences are not documented."
+   ],
+   "sources": [
+    {
+     "title": "Worn & Wound: Affordable Vintage Seiko Champion Alpinist",
+     "url": "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (W&W dates its example 1962)",
+    "thickness"
+   ]
+  },
+  {
+   "id": "champion-850-alpinist-j13079",
+   "name": "Seiko Champion 850 Alpinist",
+   "series": "Champion 850",
+   "generation": "3rd (Champion 850 Alpinist, 1963-64) - numbering disputed",
+   "year_intro": 1963,
+   "production_period": "from May 1963 (Sadao Ryugo via Fratello); mid-1960s",
+   "ref_primary": "J13079",
+   "ref_jp": "J13079",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "850 (later 851)",
+    "type": "mechanical; winding type disputed (see disputes)",
+    "jewels": 17,
+    "bph": 18000,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "'850' printed on the dial under 'Seiko Champion'. The Spring Bar notes 17J and 19J and 850/851 variants within Champion Alpinists. 18,000 bph per The Spring Bar."
+   },
+   "case": {
+    "diameter_mm": 35.6,
+    "thickness_mm": 9.5,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": 18,
+    "material": "stainless steel",
+    "crystal": null,
+    "water_resistance": "marked WATERPROOF",
+    "caseback": "Engraved mountain logo and 'Alpinist 850'; inside stamped 'CH85' (The Spring Bar)",
+    "crown": null
+   },
+   "dial_colors": [
+    "silver sector dial"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "leather",
+   "market": "Japan (domestic)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Only Alpinist reference with 24-hour markings (14, 16, 18, 20, 22) inside the chapter ring (Ryugo via Fratello; The Spring Bar).",
+    "Ryugo's book says Seiko used a microfilm drawing of the J13079 as a reference when designing the 1995 revived Alpinist (via Fratello).",
+    "J13079 dials can turn up in 85899 cases because old and new parts were mixed at changeover (Ryugo via Fratello).",
+    "Hodinkee Japan: the Champion 850 Alpinist (c.1963) has a mountain motif engraved on the caseback."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: Book review (Ryugo)",
+     "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "HODINKEE Japan (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "Timeanagram J13079 listing",
+     "url": "https://timeanagram.com/en/products/57890",
+     "tier": "4-dealer-listing"
+    }
+   ],
+   "uncertain_fields": [
+    "movement.type (automatic per The Spring Bar/Timeanagram vs manual per several dealers)",
+    "case dims (dealer listing only, rounded: 35.6 x 9.5mm, 17.9mm lugs)"
+   ]
+  },
+  {
+   "id": "champion-850-alpinist-85899",
+   "name": "Seiko Champion 850 Alpinist (gold-plated / chrome-plated)",
+   "series": "Champion 850",
+   "generation": "3rd (Champion 850 Alpinist, 1963-64)",
+   "year_intro": 1964,
+   "production_period": "c.1964",
+   "ref_primary": "85899",
+   "ref_jp": "85899",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "851",
+    "type": "mechanical",
+    "jewels": null,
+    "bph": null,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": true,
+    "accuracy": null,
+    "notes": "Caliber 851 per The Spring Bar; '85899' is an older five-digit model-number system. One chrome example's caseback reads 'STP 858990'."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "gold-plated (EGP) or chrome-plated (STP) base metal; a rare stainless version reported",
+    "crystal": null,
+    "water_resistance": null,
+    "caseback": "Etched caseback marked EGP or STP inside and out",
+    "crown": null
+   },
+   "dial_colors": [
+    "cream (gold-plated indices)",
+    "rare black",
+    "rare grey"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": null,
+   "market": "Japan (domestic)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Follows the look of the non-Alpinist Champion models, with tiny lumed spheres on the indices (The Spring Bar)."
+   ],
+   "sources": [
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "Fratello: Book review (Ryugo)",
+     "url": "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+     "tier": "2-major-watch-press"
+    }
+   ],
+   "uncertain_fields": [
+    "everything except the ref: single third-party source (The Spring Bar), partly corroborated by Ryugo's mention of 85899 cases"
+   ]
+  },
+  {
+   "series": "Alpinist (later grouped by collectors under Prospex)",
+   "generation": "Revival (1995) - first compass-bezel Alpinist",
+   "year_intro": 1995,
+   "production_period": "1995 - ? (disputed: 'two years' per The Spring Bar; catalogue appearances 1998-2001 per grail-watch; SCVF009 'held on until 2006' per SJX)",
+   "movement": {
+    "caliber": "4S15",
+    "type": "automatic mechanical",
+    "jewels": 25,
+    "bph": 28800,
+    "power_reserve_h": 40,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "-15/+25 s/day (grail-watch; not confirmed by Seiko)",
+    "notes": "Case code 4S15-6000. Bi-directional automatic winding and quick-set date. 4S family introduced 1992 and derived from the Seiko 52xx family per grail-watch and The Spring Bar."
+   },
+   "case": {
+    "diameter_mm": 38,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "crystal": "disputed: Hardlex (Fratello 2020) vs Sapphlex (Fratello 2022/2023; The Spring Bar); cyclops date magnifier at 3",
+    "water_resistance": "200 m",
+    "caseback": "Screw-down caseback with mountain picture and 'Alpinist'",
+    "crown": "Screw-down main crown at 3 for time/date; second crown at 4 rotating the internal compass ring"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal rotating compass bezel operated by a 4 o'clock crown (bi-directional per Seiko's description of later models)"
+   },
+   "gmt": false,
+   "strap_bracelet": "Stainless steel bracelet (all variants per Fratello) or brown leather strap",
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "id": "alpinist-scvf005",
+   "name": "Seiko Alpinist 'Red Alpinist' SCVF005",
+   "ref_primary": "SCVF005",
+   "ref_jp": "SCVF005",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "design_notes": [
+    "Red 'Alpinist' script on the dial gives the 'Red Alpinist' nickname.",
+    "Cathedral-style hands (Fratello).",
+    "silver chevron indices",
+    "Designed by Shigeo Sakai (Hodinkee Japan; SJX).",
+    "Revival driven by designer Jun Tanaka, who pushed for mechanical watches from about 1990 (Ryugo via Fratello).",
+    "First Alpinist with the 4 o'clock crown, internal compass ring and date magnifier (Time+Tide; The Spring Bar).",
+    "No Prospex 'X' on the dial; a Prospex label for this generation appears only in later third-party writing."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Dear Seiko, bring back SCVF007",
+     "url": "https://www.fratellowatches.com/dear-seiko-bring-back-the-stylish-scvf007-red-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Top 5",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "HODINKEE Japan (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "SJX: It's Not Easy Being Green",
+     "url": "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Time+Tide SPB503 hands-on (history section)",
+     "url": "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "grail-watch: Seiko 4S15",
+     "url": "https://reference.grail-watch.com/movement/seiko-4s15/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "production_period",
+    "case.crystal",
+    "case thickness/lug-to-lug/lug width (not found in reliable sources)",
+    "msrp",
+    "accuracy"
+   ]
+  },
+  {
+   "series": "Alpinist (later grouped by collectors under Prospex)",
+   "generation": "Revival (1995) - first compass-bezel Alpinist",
+   "year_intro": 1995,
+   "production_period": "1995 - ? (disputed: 'two years' per The Spring Bar; catalogue appearances 1998-2001 per grail-watch; SCVF009 'held on until 2006' per SJX)",
+   "movement": {
+    "caliber": "4S15",
+    "type": "automatic mechanical",
+    "jewels": 25,
+    "bph": 28800,
+    "power_reserve_h": 40,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "-15/+25 s/day (grail-watch; not confirmed by Seiko)",
+    "notes": "Case code 4S15-6000. Bi-directional automatic winding and quick-set date. 4S family introduced 1992 and derived from the Seiko 52xx family per grail-watch and The Spring Bar."
+   },
+   "case": {
+    "diameter_mm": 38,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "crystal": "disputed: Hardlex (Fratello 2020) vs Sapphlex (Fratello 2022/2023; The Spring Bar); cyclops date magnifier at 3",
+    "water_resistance": "200 m",
+    "caseback": "Screw-down caseback with mountain picture and 'Alpinist'",
+    "crown": "Screw-down main crown at 3 for time/date; second crown at 4 rotating the internal compass ring"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal rotating compass bezel operated by a 4 o'clock crown (bi-directional per Seiko's description of later models)"
+   },
+   "gmt": false,
+   "strap_bracelet": "Stainless steel bracelet (all variants per Fratello) or brown leather strap",
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "id": "alpinist-scvf007",
+   "name": "Seiko Alpinist 'Red Alpinist' SCVF007",
+   "ref_primary": "SCVF007",
+   "ref_jp": "SCVF007",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "cream"
+   ],
+   "dial_story": null,
+   "design_notes": [
+    "Red 'Alpinist' script on the dial gives the 'Red Alpinist' nickname.",
+    "Cathedral-style hands (Fratello).",
+    "applied gold Arabic numerals",
+    "Designed by Shigeo Sakai (Hodinkee Japan; SJX).",
+    "Revival driven by designer Jun Tanaka, who pushed for mechanical watches from about 1990 (Ryugo via Fratello).",
+    "First Alpinist with the 4 o'clock crown, internal compass ring and date magnifier (Time+Tide; The Spring Bar).",
+    "No Prospex 'X' on the dial; a Prospex label for this generation appears only in later third-party writing."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Dear Seiko, bring back SCVF007",
+     "url": "https://www.fratellowatches.com/dear-seiko-bring-back-the-stylish-scvf007-red-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Top 5",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "HODINKEE Japan (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "SJX: It's Not Easy Being Green",
+     "url": "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Time+Tide SPB503 hands-on (history section)",
+     "url": "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "grail-watch: Seiko 4S15",
+     "url": "https://reference.grail-watch.com/movement/seiko-4s15/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "production_period",
+    "case.crystal",
+    "case thickness/lug-to-lug/lug width (not found in reliable sources)",
+    "msrp",
+    "accuracy"
+   ]
+  },
+  {
+   "series": "Alpinist (later grouped by collectors under Prospex)",
+   "generation": "Revival (1995) - first compass-bezel Alpinist",
+   "year_intro": 1995,
+   "production_period": "1995 - ? (disputed: 'two years' per The Spring Bar; catalogue appearances 1998-2001 per grail-watch; SCVF009 'held on until 2006' per SJX)",
+   "movement": {
+    "caliber": "4S15",
+    "type": "automatic mechanical",
+    "jewels": 25,
+    "bph": 28800,
+    "power_reserve_h": 40,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "-15/+25 s/day (grail-watch; not confirmed by Seiko)",
+    "notes": "Case code 4S15-6000. Bi-directional automatic winding and quick-set date. 4S family introduced 1992 and derived from the Seiko 52xx family per grail-watch and The Spring Bar."
+   },
+   "case": {
+    "diameter_mm": 38,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "crystal": "disputed: Hardlex (Fratello 2020) vs Sapphlex (Fratello 2022/2023; The Spring Bar); cyclops date magnifier at 3",
+    "water_resistance": "200 m",
+    "caseback": "Screw-down caseback with mountain picture and 'Alpinist'",
+    "crown": "Screw-down main crown at 3 for time/date; second crown at 4 rotating the internal compass ring"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal rotating compass bezel operated by a 4 o'clock crown (bi-directional per Seiko's description of later models)"
+   },
+   "gmt": false,
+   "strap_bracelet": "Stainless steel bracelet (all variants per Fratello) or brown leather strap",
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "id": "alpinist-scvf009",
+   "name": "Seiko Alpinist 'Red Alpinist' SCVF009",
+   "ref_primary": "SCVF009",
+   "ref_jp": "SCVF009",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "green"
+   ],
+   "dial_story": "Said to be inspired by designer Shigeo Sakai's almond-green Mini Cooper (SJX; also reported by Japanese dealer RASIN as 'it is said'). Not confirmed on a Seiko-owned page.",
+   "design_notes": [
+    "Red 'Alpinist' script on the dial gives the 'Red Alpinist' nickname.",
+    "Cathedral-style hands (Fratello).",
+    "applied gold Arabic numerals",
+    "Designed by Shigeo Sakai (Hodinkee Japan; SJX).",
+    "Revival driven by designer Jun Tanaka, who pushed for mechanical watches from about 1990 (Ryugo via Fratello).",
+    "First Alpinist with the 4 o'clock crown, internal compass ring and date magnifier (Time+Tide; The Spring Bar).",
+    "No Prospex 'X' on the dial; a Prospex label for this generation appears only in later third-party writing.",
+    "Seiko's internal view was that green dials would not sell; it became the colour most associated with the line (SJX).",
+    "Hodinkee Japan (Seiko-sponsored): green was used in the 1995 and 2006 models because it is a colour familiar to alpinists facing nature."
+   ],
+   "sources": [
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Dear Seiko, bring back SCVF007",
+     "url": "https://www.fratellowatches.com/dear-seiko-bring-back-the-stylish-scvf007-red-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Fratello: Top 5",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "HODINKEE Japan (sponsored)",
+     "url": "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+     "tier": "2-major-watch-press-sponsored-by-seiko"
+    },
+    {
+     "title": "SJX: It's Not Easy Being Green",
+     "url": "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "Time+Tide SPB503 hands-on (history section)",
+     "url": "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "grail-watch: Seiko 4S15",
+     "url": "https://reference.grail-watch.com/movement/seiko-4s15/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "production_period",
+    "case.crystal",
+    "case thickness/lug-to-lug/lug width (not found in reliable sources)",
+    "msrp",
+    "accuracy"
+   ]
+  },
+  {
+   "series": "Alpinist (Seiko Prospex per third-party descriptions)",
+   "generation": "8F56 high-accuracy quartz GMT perpetual-calendar Alpinist (early 2000s)",
+   "year_intro": 2003,
+   "production_period": "from 2003 per Fratello/The Spring Bar/Hairspring (one dealer listing says September 2002); end date not documented",
+   "movement": {
+    "caliber": "8F56",
+    "type": "high-accuracy quartz (perpetual calendar, GMT/24-hour hand)",
+    "jewels": null,
+    "bph": null,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": false,
+    "accuracy": "Annual rate under ±20 s (wrist-worn about 12 h/day at 5-35°C); monthly up to about 4 s (official Seiko 8F56 manual)",
+    "notes": "Official manual: crystal 196,608 Hz; perpetual calendar valid to 28 Feb 2100; battery SEIKO CR2412, about 10 years; magnetic resistance 4,800 A/m; step motor for the hands and ultrasonic motor for the calendar; independent hour hand for dual time."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "titanium (case and bracelet)",
+    "crystal": "sapphire (third-party reports)",
+    "water_resistance": "10 bar / 100 m",
+    "caseback": "Screw-down with Alpinist mountain logo",
+    "crown": "Screw-down main crown plus a second crown for the compass ring; crown positions differ from the 4S15 models (Fratello)"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal bi-directional rotating compass ring (crown-operated)"
+   },
+   "gmt": true,
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "id": "alpinist-8f56-sbcj019",
+   "name": "Seiko Alpinist GMT Perpetual (8F56) SBCJ019",
+   "ref_primary": "SBCJ019",
+   "ref_jp": "SBCJ019",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "strap_bracelet": "titanium bracelet",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Sword-style hands rather than the cathedral hands of the 4S15 models (Fratello).",
+    "24-hour scale for the GMT hand (third-party reports).",
+    "Silver hands, lumed stick/triangle markers."
+   ],
+   "sources": [
+    {
+     "title": "Seiko 8F56 instruction manual (official PDF)",
+     "url": "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (2003 vs 2002)",
+    "case dimensions (38.5mm / 11.5mm / 19mm lugs per eBay listing; 39mm per Hairspring; not reliable)",
+    "crystal",
+    "msrp"
+   ]
+  },
+  {
+   "series": "Alpinist (Seiko Prospex per third-party descriptions)",
+   "generation": "8F56 high-accuracy quartz GMT perpetual-calendar Alpinist (early 2000s)",
+   "year_intro": 2003,
+   "production_period": "from 2003 per Fratello/The Spring Bar/Hairspring (one dealer listing says September 2002); end date not documented",
+   "movement": {
+    "caliber": "8F56",
+    "type": "high-accuracy quartz (perpetual calendar, GMT/24-hour hand)",
+    "jewels": null,
+    "bph": null,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": false,
+    "accuracy": "Annual rate under ±20 s (wrist-worn about 12 h/day at 5-35°C); monthly up to about 4 s (official Seiko 8F56 manual)",
+    "notes": "Official manual: crystal 196,608 Hz; perpetual calendar valid to 28 Feb 2100; battery SEIKO CR2412, about 10 years; magnetic resistance 4,800 A/m; step motor for the hands and ultrasonic motor for the calendar; independent hour hand for dual time."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "titanium (case and bracelet)",
+    "crystal": "sapphire (third-party reports)",
+    "water_resistance": "10 bar / 100 m",
+    "caseback": "Screw-down with Alpinist mountain logo",
+    "crown": "Screw-down main crown plus a second crown for the compass ring; crown positions differ from the 4S15 models (Fratello)"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal bi-directional rotating compass ring (crown-operated)"
+   },
+   "gmt": true,
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "id": "alpinist-8f56-sbcj021",
+   "name": "Seiko Alpinist GMT Perpetual (8F56) SBCJ021",
+   "ref_primary": "SBCJ021",
+   "ref_jp": "SBCJ021",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "cream, fully luminous"
+   ],
+   "dial_story": null,
+   "strap_bracelet": "titanium bracelet",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Sword-style hands rather than the cathedral hands of the 4S15 models (Fratello).",
+    "24-hour scale for the GMT hand (third-party reports).",
+    "Black hands, stick/triangle markers."
+   ],
+   "sources": [
+    {
+     "title": "Seiko 8F56 instruction manual (official PDF)",
+     "url": "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (2003 vs 2002)",
+    "case dimensions (38.5mm / 11.5mm / 19mm lugs per eBay listing; 39mm per Hairspring; not reliable)",
+    "crystal",
+    "msrp"
+   ]
+  },
+  {
+   "series": "Alpinist (Seiko Prospex per third-party descriptions)",
+   "generation": "8F56 high-accuracy quartz GMT perpetual-calendar Alpinist (early 2000s)",
+   "year_intro": 2003,
+   "production_period": "from 2003 per Fratello/The Spring Bar/Hairspring (one dealer listing says September 2002); end date not documented",
+   "movement": {
+    "caliber": "8F56",
+    "type": "high-accuracy quartz (perpetual calendar, GMT/24-hour hand)",
+    "jewels": null,
+    "bph": null,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": false,
+    "accuracy": "Annual rate under ±20 s (wrist-worn about 12 h/day at 5-35°C); monthly up to about 4 s (official Seiko 8F56 manual)",
+    "notes": "Official manual: crystal 196,608 Hz; perpetual calendar valid to 28 Feb 2100; battery SEIKO CR2412, about 10 years; magnetic resistance 4,800 A/m; step motor for the hands and ultrasonic motor for the calendar; independent hour hand for dual time."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "titanium (case and bracelet)",
+    "crystal": "sapphire (third-party reports)",
+    "water_resistance": "10 bar / 100 m",
+    "caseback": "Screw-down with Alpinist mountain logo",
+    "crown": "Screw-down main crown plus a second crown for the compass ring; crown positions differ from the 4S15 models (Fratello)"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal bi-directional rotating compass ring (crown-operated)"
+   },
+   "gmt": true,
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "discontinued",
+   "id": "alpinist-8f56-sbcj031",
+   "name": "Seiko Alpinist GMT Perpetual (8F56) SBCJ031",
+   "ref_primary": "SBCJ031",
+   "ref_jp": "SBCJ031",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "cream with Arabic numerals"
+   ],
+   "dial_story": null,
+   "strap_bracelet": "brown leather strap",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Sword-style hands rather than the cathedral hands of the 4S15 models (Fratello).",
+    "24-hour scale for the GMT hand (third-party reports).",
+    "Gold-coloured lumed hands and markers."
+   ],
+   "sources": [
+    {
+     "title": "Seiko 8F56 instruction manual (official PDF)",
+     "url": "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (2003 vs 2002)",
+    "case dimensions (38.5mm / 11.5mm / 19mm lugs per eBay listing; 39mm per Hairspring; not reliable)",
+    "crystal",
+    "msrp"
+   ]
+  },
+  {
+   "series": "Alpinist (Seiko Prospex per third-party descriptions)",
+   "generation": "8F56 high-accuracy quartz GMT perpetual-calendar Alpinist (early 2000s)",
+   "year_intro": 2003,
+   "production_period": "from 2003 per Fratello/The Spring Bar/Hairspring (one dealer listing says September 2002); end date not documented",
+   "movement": {
+    "caliber": "8F56",
+    "type": "high-accuracy quartz (perpetual calendar, GMT/24-hour hand)",
+    "jewels": null,
+    "bph": null,
+    "power_reserve_h": null,
+    "hacking": null,
+    "hand_winding": false,
+    "accuracy": "Annual rate under ±20 s (wrist-worn about 12 h/day at 5-35°C); monthly up to about 4 s (official Seiko 8F56 manual)",
+    "notes": "Official manual: crystal 196,608 Hz; perpetual calendar valid to 28 Feb 2100; battery SEIKO CR2412, about 10 years; magnetic resistance 4,800 A/m; step motor for the hands and ultrasonic motor for the calendar; independent hour hand for dual time."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "titanium (case and bracelet)",
+    "crystal": "sapphire (third-party reports)",
+    "water_resistance": "10 bar / 100 m",
+    "caseback": "Screw-down with Alpinist mountain logo",
+    "crown": "Screw-down main crown plus a second crown for the compass ring; crown positions differ from the 4S15 models (Fratello)"
+   },
+   "compass": {
+    "has": true,
+    "type": "internal bi-directional rotating compass ring (crown-operated)"
+   },
+   "gmt": true,
+   "market": "Japan (JDM)",
+   "msrp": null,
+   "status": "limited",
+   "id": "alpinist-8f56-sbcj023",
+   "name": "Seiko Alpinist GMT Perpetual (8F56) SBCJ023 SSASS Ken Noguchi Limited Edition",
+   "ref_primary": "SBCJ023",
+   "ref_jp": "SBCJ023",
+   "ref_intl": null,
+   "ref_us": null,
+   "dial_colors": [
+    "teal / blue-green ('aqua', meant to represent sea and sky per The Spring Bar)"
+   ],
+   "dial_story": "Aqua blue said to represent the sea and sky (The Spring Bar). Not confirmed by Seiko.",
+   "strap_bracelet": "titanium bracelet",
+   "limited": {
+    "is_limited": true,
+    "quantity": 500
+   },
+   "design_notes": [
+    "Sword-style hands rather than the cathedral hands of the 4S15 models (Fratello).",
+    "24-hour scale for the GMT hand (third-party reports).",
+    "Limited edition for SSASS (Seven Summits Actions for a Sustainable Society), the foundation of mountaineer Ken Noguchi (野口健), which campaigns to clear rubbish from mountains, including Everest.",
+    "Numbered caseback ('#/500')."
+   ],
+   "sources": [
+    {
+     "title": "Seiko 8F56 instruction manual (official PDF)",
+     "url": "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf",
+     "tier": "1-seiko-official"
+    },
+    {
+     "title": "Fratello: A Look Back On The Modern Seiko Alpinist",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "2-major-watch-press"
+    },
+    {
+     "title": "The Spring Bar guide (archived)",
+     "url": "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+     "tier": "3-database-or-dealer-blog"
+    },
+    {
+     "title": "Hairspring: 1 of 500 Seiko SSASS Alpinist SBCJ023",
+     "url": "https://hairspring.com/blogs/finds/1-of-500-seiko-ssass-alpinist-sbcj023",
+     "tier": "4-dealer-listing"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro (2003 vs 2002)",
+    "case dimensions (38.5mm / 11.5mm / 19mm lugs per eBay listing; 39mm per Hairspring; not reliable)",
+    "crystal",
+    "msrp",
+    "release year of the LE (Hairspring says 2003)",
+    "Seiko's own description of the SSASS edition not found"
+   ]
+  }
+ ],
+ "movements": [
+  {
+   "caliber": "Seikosha 17-jewel (un-numbered)",
+   "used_in": [
+    "14041 Laurel Alpinist",
+    "J13033",
+    "J13043",
+    "J13049"
+   ],
+   "type": "manual-wind mechanical",
+   "jewels": 17,
+   "bph": 18000,
+   "power_reserve_h": null,
+   "hacking": null,
+   "hand_winding": true,
+   "accuracy": null,
+   "years": "1959-early 1960s",
+   "notes": "Diashock shock protection. No caliber number per W&W. Spring Bar says the Marvel had an almost identical movement. Factory (Suwa vs Daini) for each ref not confirmed by a primary source; Ryugo credits the Champion Alpinist design to Daini Seikosha.",
+   "sources": [
+    "https://www.fratellowatches.com/seiko-watches/tbt-vintage-seiko-laurel-alpinist/",
+    "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+    "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+   ]
+  },
+  {
+   "caliber": "850 / 851",
+   "used_in": [
+    "J13079",
+    "85899"
+   ],
+   "type": "mechanical (winding type disputed)",
+   "jewels": 17,
+   "bph": 18000,
+   "power_reserve_h": null,
+   "hacking": null,
+   "hand_winding": true,
+   "accuracy": null,
+   "years": "1963-mid 1960s",
+   "notes": "Spring Bar reports 17J and 19J variants. Dealer sources say Seiko later moved to four-digit calibers (7622 lineage); not verified.",
+   "sources": [
+    "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+    "https://timeanagram.com/en/products/57890"
+   ]
+  },
+  {
+   "caliber": "4S15",
+   "used_in": [
+    "SCVF005",
+    "SCVF007",
+    "SCVF009"
+   ],
+   "type": "automatic mechanical",
+   "jewels": 25,
+   "bph": 28800,
+   "power_reserve_h": 40,
+   "hacking": true,
+   "hand_winding": true,
+   "accuracy": "-15/+25 s/day (grail-watch)",
+   "years": "1995-c.2001 (Alpinist use)",
+   "notes": "4S family introduced 1992. Derived from the 52xx family (grail-watch; Spring Bar cites 5246). 25.6mm diameter, 4.17mm height. Not chronometer-certified; Spring Bar's 'chronometer-grade' claim is unsupported.",
+   "sources": [
+    "https://reference.grail-watch.com/movement/seiko-4s15/",
+    "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+    "https://www.fratellowatches.com/dear-seiko-bring-back-the-stylish-scvf007-red-alpinist/"
+   ]
+  },
+  {
+   "caliber": "8F56",
+   "used_in": [
+    "SBCJ019",
+    "SBCJ021",
+    "SBCJ023",
+    "SBCJ031"
+   ],
+   "type": "high-accuracy quartz, perpetual calendar, dual time (24-hour hand)",
+   "jewels": null,
+   "bph": null,
+   "power_reserve_h": null,
+   "hacking": null,
+   "hand_winding": false,
+   "accuracy": "Annual rate under ±20 s; monthly about 4 s possible (official manual)",
+   "years": "c.2003 (Alpinist use)",
+   "notes": "196,608 Hz crystal; calendar to 28 Feb 2100; CR2412 battery, about 10 years; 4,800 A/m magnetic resistance; ultrasonic motor drives the calendar.",
+   "sources": [
+    "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf"
+   ]
+  }
+ ],
+ "disputes": [
+  {
+   "topic": "Year of the first Alpinist",
+   "positions": [
+    {
+     "claim": "1959",
+     "sources": [
+      "https://www.seikowatches.com/jp-ja/products/prospex/special/alpinist",
+      "https://www.seikowatches.com/us-en/products/prospex/special/alpinist/",
+      "https://www.seikowatches.com/jp-ja/special/100stories/challenge/",
+      "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+      "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored"
+     ]
+    },
+    {
+     "claim": "1961",
+     "sources": [
+      "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+      "https://seikowatches.co.in/pages/alpinist-special-page",
+      "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    }
+   ],
+   "assessment": "1959 is better supported: Seiko Japan/global pages, the 1959 SEIKO NEWS price list (per Hodinkee Japan) and Ryugo's 'December 1959'. Seiko Germany's 2020 release and Seiko India's page say 1961; the India page also wrongly says the original used cal. 6R15."
+  },
+  {
+   "topic": "Laurel Alpinist case diameter",
+   "positions": [
+    {
+     "claim": "35 mm",
+     "sources": [
+      "https://www.fratellowatches.com/seiko-watches/tbt-vintage-seiko-laurel-alpinist/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    },
+    {
+     "claim": "about 34 mm",
+     "sources": [
+      "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "Laurel Alpinist thickness",
+   "positions": [
+    {
+     "claim": "11 mm",
+     "sources": [
+      "https://www.fratellowatches.com/seiko-watches/tbt-vintage-seiko-laurel-alpinist/"
+     ]
+    },
+    {
+     "claim": "about 10.1 mm (implied: SBEN001 at 11.1mm is 1mm thicker than the hand-wound original)",
+     "sources": [
+      "https://www.watch.impress.co.jp/docs/news/1308572.html"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "Champion Alpinist introduction",
+   "positions": [
+    {
+     "claim": "1961 (J13033 Type 1)",
+     "sources": [
+      "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/",
+      "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored"
+     ]
+    },
+    {
+     "claim": "1962 renamed Champion Alpinist",
+     "sources": [
+      "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/"
+     ]
+    },
+    {
+     "claim": "1963",
+     "sources": [
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "Did the Champion Alpinist J13043 use the same movement as the Laurel Alpinist?",
+   "positions": [
+    {
+     "claim": "Same 17J movement",
+     "sources": [
+      "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    },
+    {
+     "claim": "Laurel was Suwa lineage and the Champion line was Daini, so the movements are likely different",
+     "sources": [
+      "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+      "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/"
+     ]
+    }
+   ],
+   "assessment": "Unresolved. Both are described only as 'Seikosha 17 jewels'."
+  },
+  {
+   "topic": "Cal. 850 winding type (J13079)",
+   "positions": [
+    {
+     "claim": "automatic",
+     "sources": [
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+      "https://timeanagram.com/en/products/57890"
+     ]
+    },
+    {
+     "claim": "manual (hand-wind)",
+     "sources": [
+      "https://fivefortyfive.nz/products/seiko-1964-champion-850-alpinist"
+     ]
+    }
+   ],
+   "assessment": "Unresolved. Probably manual given the Champion 850 product family, but no primary source found."
+  },
+  {
+   "topic": "1995 Alpinist crystal",
+   "positions": [
+    {
+     "claim": "Hardlex",
+     "sources": [
+      "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+     ]
+    },
+    {
+     "claim": "Sapphlex",
+     "sources": [
+      "https://www.fratellowatches.com/dear-seiko-bring-back-the-stylish-scvf007-red-alpinist/",
+      "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "1995 Alpinist production length",
+   "positions": [
+    {
+     "claim": "about 2 years",
+     "sources": [
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    },
+    {
+     "claim": "catalogued 1998-2001 (SCVF009 1998 only)",
+     "sources": [
+      "https://reference.grail-watch.com/movement/seiko-4s15/"
+     ]
+    },
+    {
+     "claim": "SCVF009 lasted until 2006",
+     "sources": [
+      "https://watchesbysjx.com/2025/11/seiko-alpinist-2025-spb503-spb505-spb507-spb532.html"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "Revival year: 1992 vs 1995",
+   "positions": [
+    {
+     "claim": "1995 for the Alpinist",
+     "sources": [
+      "https://hodinkee.jp/articles/seiko-prospex-alpinist-reproduction-and-contemporary-design-sponsored",
+      "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+      "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+      "https://www.fratellowatches.com/book-review-the-history-of-the-seiko-alpinist-5-sports-speed-timer/"
+     ]
+    },
+    {
+     "claim": "1992 is when the 4S movement family was introduced, not the Alpinist",
+     "sources": [
+      "https://reference.grail-watch.com/movement/seiko-4s15/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    }
+   ],
+   "assessment": "Resolved: the Alpinist returned in 1995; 1992 refers to the 4S calibers."
+  },
+  {
+   "topic": "8F56 Alpinist launch year",
+   "positions": [
+    {
+     "claim": "2003",
+     "sources": [
+      "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/",
+      "https://hairspring.com/blogs/finds/1-of-500-seiko-ssass-alpinist-sbcj023"
+     ]
+    },
+    {
+     "claim": "September 2002",
+     "sources": [
+      "https://www.ebay.de/itm/317218653191"
+     ]
+    }
+   ]
+  },
+  {
+   "topic": "8F56 accuracy",
+   "positions": [
+    {
+     "claim": "±20 s/year; about 4 s/month possible (official manual)",
+     "sources": [
+      "https://www.seikowatches.com/au-en/-/media/Files/Common/Seiko/instructions/English/8/8F56/8F56.pdf"
+     ]
+    },
+    {
+     "claim": "±2 s/month",
+     "sources": [
+      "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+     ]
+    }
+   ],
+   "assessment": "Use the official manual."
+  },
+  {
+   "topic": "Generation numbering",
+   "positions": [
+    {
+     "claim": "Laurel=1, Champion 850=2, 1995=3, 2003 8F56=4, 2006=5 (seven generations by about 2020)",
+     "sources": [
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    },
+    {
+     "claim": "Three generations up to 1964; 1995 revival; 2020=7th; 2025=8th",
+     "sources": [
+      "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/"
+     ]
+    }
+   ],
+   "assessment": "No Seiko-official generation count found; the site should avoid numbering generations or label any numbering as third-party."
+  },
+  {
+   "topic": "Prospex branding of 1995/2003 models",
+   "positions": [
+    {
+     "claim": "Revived 'under the Prospex line'",
+     "sources": [
+      "https://wornandwound.com/affordable-vintage-seiko-champion-alpinist/",
+      "http://web.archive.org/web/20210124210540/https://thespringbar.com/blogs/guides/the-ultimate-seiko-alpinist-collectors-guide/"
+     ]
+    }
+   ],
+   "assessment": "Not confirmed by Seiko; the 1995 dials carry no Prospex mark. Treat as unverified."
+  }
+ ]
+}

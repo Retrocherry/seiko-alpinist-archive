@@ -1,0 +1,1026 @@
+{
+ "generated": "2026-10-02",
+ "scope": "Seiko Alpinist family c. 2006–2019 (SARB era) plus 2019 SPB089",
+ "method_note": "Primary specs from Seiko Japan / Seiko USA product and lineup pages retrieved via the Internet Archive. Press used for items Seiko did not state. Unverifiable -> null.",
+ "models": [
+  {
+   "id": "sarb013",
+   "name": "Seiko Mechanical Alpinist SARB013 (cream dial)",
+   "series": "Seiko Mechanical (メカニカル) – Alpinist model group (JDM)",
+   "generation": "2006 SARB generation (successor to 1995 SCVF 'Red Alpinist')",
+   "year_intro": 2006,
+   "production_period": "2006 – c. 2009/2010 (Seiko Japan listing ends between Apr 2009 and Jun 2010)",
+   "ref_primary": "SARB013",
+   "ref_jp": "SARB013",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.0,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "Stainless steel",
+    "crystal": "Sapphire (サファイアガラス), no date magnifier",
+    "water_resistance": "20 bar / 200 m (日常生活用強化防水 20気圧)",
+    "caseback": "Screw-down solid steel caseback (スクリューバック) engraved with the mountain-range 'Alpinist' symbol",
+    "crown": "Screw-down winding crown at 3 o'clock (ねじロック式りゅうず); second crown at 4 o'clock rotates the inner compass ring",
+    "notes": "Seiko lists weight 144 g (on bracelet). Diameter and lug-to-lug taken from Seiko's 2016 SARB017 page (shared case); Seiko's SARB013 page gives only thickness 12.0 mm. Lug width from press."
+   },
+   "dial_colors": [
+    "cream/ivory"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": true,
+    "type": "Inner rotating compass ring (簡易方位計), crown-operated at 4 o'clock; used with hour hand and sun (Northern Hemisphere)"
+   },
+   "gmt": false,
+   "strap_bracelet": "Stainless steel bracelet (per Fratello; consistent with Seiko's 144 g weight vs 79 g for strap-fitted SARB017)",
+   "market": "Japan domestic (JDM)",
+   "msrp": {
+    "amount": 55000,
+    "currency": "JPY",
+    "year": 2007,
+    "source": "Seiko Japan 2007 product page: ¥57,750 incl. 5% tax (¥55,000 ex tax)"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Gold-tone Arabic numerals and cathedral hands (press descriptions)",
+    "Alpinist name moved from dial to caseback vs. SCVF; 'Automatic' on dial (Fratello)",
+    "Marked 'NEW' on Seiko Japan's Alpinist lineup page captured March 2007"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB013, archived 2007-05-17",
+     "url": "http://web.archive.org/web/20070517052611/http://www.seiko-watch.co.jp:80/p_search/detail/do.php?no=SARB013",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB013, archived 2010-03-29",
+     "url": "http://web.archive.org/web/20100329110630/http://www.seiko-watch.co.jp/p_search/detail/do.php?no=SARB013",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup – 'アルピニスト' page (SARB013/015/017 marked NEW), archived 2007-03-22",
+     "url": "http://web.archive.org/web/20070322191434/http://www.seiko-watch.co.jp/mechanical/lineup/alpinist.html",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2008-06-07 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20080607133935/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2009-04-21 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20090421024824/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2010-06-05 (アルピニストモデル: SARB059/061/015/017)",
+     "url": "http://web.archive.org/web/20100605131451/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB017, archived 2016-08-01",
+     "url": "http://web.archive.org/web/20160801102312/http://www.seiko-watch.co.jp:80/products/SARB017",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Fratello – A Look Back On The Modern Seiko Alpinist (Michael Stockton, 2020-10-08)",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello – Fratello's Top 5 Seiko Alpinist References Ever Produced",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "production_period end (bounded only by archive captures)",
+    "case.diameter_mm/lug_to_lug_mm (from SARB017 official page, assumed shared case)",
+    "case.lug_width_mm (press)",
+    "design_notes hand/numeral description (press)"
+   ]
+  },
+  {
+   "id": "sarb015",
+   "name": "Seiko Mechanical Alpinist SARB015 (black dial)",
+   "series": "Seiko Mechanical (メカニカル) – Alpinist model group (JDM)",
+   "generation": "2006 SARB generation",
+   "year_intro": 2006,
+   "production_period": "2006 – c. 2010/2011 (still listed Jun 2010; absent Nov 2011 on Seiko Japan)",
+   "ref_primary": "SARB015",
+   "ref_jp": "SARB015",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.0,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "Stainless steel",
+    "crystal": "Sapphire (サファイアガラス), no date magnifier",
+    "water_resistance": "20 bar / 200 m (日常生活用強化防水 20気圧)",
+    "caseback": "Screw-down solid steel caseback (スクリューバック) engraved with the mountain-range 'Alpinist' symbol",
+    "crown": "Screw-down winding crown at 3 o'clock (ねじロック式りゅうず); second crown at 4 o'clock rotates the inner compass ring",
+    "notes": "Seiko lists weight 144 g (on bracelet). Diameter/lug-to-lug from Seiko's SARB017 page (shared case)."
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": true,
+    "type": "Inner rotating compass ring, crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "Stainless steel bracelet (Fratello; consistent with 144 g Seiko weight)",
+   "market": "Japan domestic (JDM)",
+   "msrp": {
+    "amount": 55000,
+    "currency": "JPY",
+    "year": 2007,
+    "source": "Seiko Japan 2007 product page: ¥57,750 incl. tax (¥55,000 ex tax)"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Distinct hands and indices vs. SARB013/017 – Fratello: 'a set of unique hands and indices'; black SCVF005 predecessor used chevron indices",
+    "Some secondary sources call its hour hand 'shark tooth' (unverified)"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB015, archived 2007-05-17",
+     "url": "http://web.archive.org/web/20070517052841/http://www.seiko-watch.co.jp:80/p_search/detail/do.php?no=SARB015",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup – 'アルピニスト' page (SARB013/015/017 marked NEW), archived 2007-03-22",
+     "url": "http://web.archive.org/web/20070322191434/http://www.seiko-watch.co.jp/mechanical/lineup/alpinist.html",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2008-06-07 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20080607133935/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2009-04-21 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20090421024824/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2010-06-05 (アルピニストモデル: SARB059/061/015/017)",
+     "url": "http://web.archive.org/web/20100605131451/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2011-11-24 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20111124045331/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Fratello – A Look Back On The Modern Seiko Alpinist (Michael Stockton, 2020-10-08)",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello – Fratello's Top 5 Seiko Alpinist References Ever Produced",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "production_period end",
+    "exact hand/index description",
+    "case.diameter_mm/lug_to_lug_mm/lug_width_mm (inferred from SARB017)"
+   ]
+  },
+  {
+   "id": "sarb017",
+   "name": "Seiko Mechanical Alpinist SARB017 (green dial)",
+   "series": "Seiko Mechanical (メカニカル) – Alpinist model group (JDM)",
+   "generation": "2006 SARB generation",
+   "year_intro": 2006,
+   "production_period": "2006 – 2018 (discontinuation reported Feb/Mar 2018 via dealer Seiya Japan; Seiko Japan still listed it Jun 2015 and Aug 2016)",
+   "ref_primary": "SARB017",
+   "ref_jp": "SARB017",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.0,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "Stainless steel",
+    "crystal": "Sapphire (サファイアガラス), no date magnifier",
+    "water_resistance": "20 bar / 200 m (日常生活用強化防水 20気圧)",
+    "caseback": "Screw-down solid steel caseback (スクリューバック) engraved with the mountain-range 'Alpinist' symbol",
+    "crown": "Screw-down winding crown at 3 o'clock (ねじロック式りゅうず); second crown at 4 o'clock rotates the inner compass ring",
+    "notes": "Seiko 2016 page: size 縦46.4 mm x 横39.5 mm x 厚さ12 mm, weight 79 g (on strap). Lug width 20 mm per Worn & Wound."
+   },
+   "dial_colors": [
+    "green (sunburst, per press)"
+   ],
+   "dial_story": null,
+   "dial_story_note": "No Seiko statement found on the SARB017 dial colour. Press (SJX 2025; RASIN blog) attribute the original 1995 green Alpinist (SCVF009) to designer Shigeo Sakai's almond-green Mini Cooper – not attributed to Seiko and not specific to SARB017.",
+   "compass": {
+    "has": true,
+    "type": "Inner rotating compass ring (簡易方位計つき), crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "Calf leather strap (牛皮革(カーフ)バンド) per Seiko 2016; brown leather per press",
+   "market": "Japan domestic (JDM); widely exported by grey-market dealers",
+   "msrp": {
+    "amount": 50000,
+    "currency": "JPY",
+    "year": 2007,
+    "source": "Seiko Japan 2007 page: ¥52,500 incl. 5% tax (¥50,000 ex tax); unchanged at ¥50,000 + tax on 2016 page"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Gold-tone applied Arabic numerals and cathedral hands on green dial (press)",
+    "Most popular of the trio (Fratello)",
+    "Design credited to Yasuhiro Kuzuya by Worn & Wound (not confirmed by Seiko)",
+    "Effectively succeeded by Prospex SPB121 (2020, 6R35)"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB017, archived 2007-05-17",
+     "url": "http://web.archive.org/web/20070517052658/http://www.seiko-watch.co.jp:80/p_search/detail/do.php?no=SARB017",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Watch Corp. (Japan) product page SARB017, archived 2016-08-01",
+     "url": "http://web.archive.org/web/20160801102312/http://www.seiko-watch.co.jp:80/products/SARB017",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup – 'アルピニスト' page (SARB013/015/017 marked NEW), archived 2007-03-22",
+     "url": "http://web.archive.org/web/20070322191434/http://www.seiko-watch.co.jp/mechanical/lineup/alpinist.html",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2008-06-07 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20080607133935/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2009-04-21 (Alpinist section: SARB013/015/017)",
+     "url": "http://web.archive.org/web/20090421024824/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan concept page 'トレッキングモデル「アルピニスト」', archived 2009-10-24",
+     "url": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2010-06-05 (アルピニストモデル: SARB059/061/015/017)",
+     "url": "http://web.archive.org/web/20100605131451/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2011-11-24 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20111124045331/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2013-06-21 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20130621192813/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2015-06-12 (アルピニストモデル: SARB017 only)",
+     "url": "http://web.archive.org/web/20150612132529/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Worn & Wound – [VIDEO] Missed Review: The Seiko Alpinist SARB017",
+     "url": "https://wornandwound.com/review/video-missed-review-the-seiko-alpinist-sarb017/",
+     "tier": "press"
+    },
+    {
+     "title": "Worn & Wound – Seiko Says Goodbye to Four Iconic Watches (2018-03-01)",
+     "url": "https://wornandwound.com/seiko-says-goodbye-four-iconic-watches-sarb017-sarb033-sarb035-sbdx001/",
+     "tier": "press"
+    },
+    {
+     "title": "Gear Patrol – One of Our Favorite Affordable Watches Is Being Discontinued (2018-02-28)",
+     "url": "https://gearpatrol.com/2018/02/28/seiko-alpinist-sarb017-discontinued",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello – A Look Back On The Modern Seiko Alpinist (Michael Stockton, 2020-10-08)",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello – Fratello's Top 5 Seiko Alpinist References Ever Produced",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "press"
+    },
+    {
+     "title": "人気ブランド腕時計紹介 blog – SARB017の現在 (2018-08-24)",
+     "url": "https://seikomike-watch.blog.jp/archives/33414794.html",
+     "tier": "blog (lead only)"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro exact date (9 Nov 2006 reported only by a blog; press split 2006 vs 2007)",
+    "discontinuation date (dealer report, not Seiko)",
+    "designer attribution",
+    "case.lug_width_mm (press)"
+   ]
+  },
+  {
+   "id": "sarb059",
+   "name": "Seiko Mechanical Alpinist SARB059 (black dial, steel bracelet)",
+   "series": "Seiko Mechanical – Alpinist model group (トレッキングモデル「アルピニスト」) (JDM)",
+   "generation": "2009 external-bezel Alpinist variants",
+   "year_intro": 2009,
+   "production_period": "2009 – c. 2013/2015 (listed Jun 2013; absent Jun 2015 on Seiko Japan)",
+   "ref_primary": "SARB059",
+   "ref_jp": "SARB059",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": 13.1,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "Stainless steel",
+    "crystal": "Curved glass (カーブガラス) – mineral/Hardlex type, not sapphire",
+    "water_resistance": "20 bar / 200 m",
+    "caseback": "Screw-down; Alpinist mountain-range symbol engraved (Seiko concept page)",
+    "crown": "Screw-down (ねじロック式りゅうず); crown at 4 o'clock per WatchReport",
+    "notes": "Seiko lists weight 154 g, double-lock clasp. Diameter given as 42 mm or 43 mm by secondary sources – unresolved; lug width 22 mm per The Seiko Guy (database)."
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": true,
+    "type": "External rotating bezel with compass bearings plus 60-minute timing scale (Seiko concept page)"
+   },
+   "gmt": null,
+   "strap_bracelet": "Stainless steel bracelet with double-lock clasp (ダブルロック中留)",
+   "market": "Japan domestic (JDM)",
+   "msrp": {
+    "amount": 58000,
+    "currency": "JPY",
+    "year": 2009,
+    "source": "Seiko Japan: ¥60,900 incl. tax (¥58,000 ex tax)"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Dial prints 9 ground-to-air emergency signal codes (Seiko concept page)",
+    "Seiko's concept text mentions finding direction with the bezel and 'the 24-hour hand or the hour hand' – whether SARB059 has a 24-hour hand is not confirmed",
+    "Often mislabelled as 'not an Alpinist' – Seiko Japan itself grouped it under アルピニストモデル"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Japan product page SARB059, archived 2010-04-19",
+     "url": "http://web.archive.org/web/20100419003710/http://www.seiko-watch.co.jp/p_search/detail/do.php?no=SARB059",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan concept page 'トレッキングモデル「アルピニスト」', archived 2009-10-24",
+     "url": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan concept page 'トレッキングモデル「アルピニスト」', archived 2012-03-27",
+     "url": "http://web.archive.org/web/20120327112621/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2010-06-05 (アルピニストモデル: SARB059/061/015/017)",
+     "url": "http://web.archive.org/web/20100605131451/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2011-11-24 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20111124045331/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2013-06-21 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20130621192813/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2015-06-12 (アルピニストモデル: SARB017 only)",
+     "url": "http://web.archive.org/web/20150612132529/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "WatchReport – New Alpinist models from Seiko in August (2009-04-01)",
+     "url": "https://www.watchreport.com/new-alpinist-models-from-seiko-in-august/",
+     "tier": "blog"
+    },
+    {
+     "title": "The Seiko Guy – SARB059",
+     "url": "https://www.theseikoguy.com/watches/sarb059",
+     "tier": "database"
+    }
+   ],
+   "uncertain_fields": [
+    "case.diameter_mm",
+    "case.lug_to_lug_mm",
+    "case.lug_width_mm",
+    "gmt / 24-hour hand",
+    "release month (late July 2009 per WatchReport)"
+   ]
+  },
+  {
+   "id": "sarb061",
+   "name": "Seiko Mechanical Alpinist SARB061 (black, partially hard-coated case)",
+   "series": "Seiko Mechanical – Alpinist model group (JDM)",
+   "generation": "2009 external-bezel Alpinist variants",
+   "year_intro": 2009,
+   "production_period": "2009 – c. 2010/2011 (listed Jun 2010; absent Nov 2011; dropped from concept page by 2012)",
+   "ref_primary": "SARB061",
+   "ref_jp": "SARB061",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": 13.1,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "Stainless steel, partially hard-coated (ステンレスケース（一部硬質コーティング）)",
+    "crystal": "Curved glass (カーブガラス) – not sapphire",
+    "water_resistance": "20 bar / 200 m",
+    "caseback": "Screw-down; Alpinist symbol engraved",
+    "crown": "Screw-down",
+    "notes": "Seiko lists weight 94 g."
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": true,
+    "type": "External rotating compass bezel with 60-minute scale"
+   },
+   "gmt": null,
+   "strap_bracelet": "Strap (rubber per WatchReport; material not stated on Seiko page)",
+   "market": "Japan domestic (JDM)",
+   "msrp": {
+    "amount": 55000,
+    "currency": "JPY",
+    "year": 2009,
+    "source": "Seiko Japan: ¥57,750 incl. tax (¥55,000 ex tax)"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "design_notes": [
+    "Emergency ground-to-air signal codes on dial (Seiko concept page)"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Japan product page SARB061, archived 2010-03-29",
+     "url": "http://web.archive.org/web/20100329111331/http://www.seiko-watch.co.jp/p_search/detail/do.php?no=SARB061",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan concept page 'トレッキングモデル「アルピニスト」', archived 2009-10-24",
+     "url": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2010-06-05 (アルピニストモデル: SARB059/061/015/017)",
+     "url": "http://web.archive.org/web/20100605131451/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan Mechanical lineup, archived 2011-11-24 (アルピニストモデル: SARB059/017)",
+     "url": "http://web.archive.org/web/20111124045331/http://www.seiko-watch.co.jp/mechanical/lineup/",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "WatchReport – New Alpinist models from Seiko in August (2009-04-01)",
+     "url": "https://www.watchreport.com/new-alpinist-models-from-seiko-in-august/",
+     "tier": "blog"
+    }
+   ],
+   "uncertain_fields": [
+    "case.diameter_mm",
+    "strap material",
+    "production end"
+   ]
+  },
+  {
+   "id": "sarb063",
+   "name": "Seiko Mechanical Alpinist SARB063 – Takeshi Mizukoshi collaboration limited model",
+   "series": "Seiko Mechanical – Alpinist model group (JDM)",
+   "generation": "2009 external-bezel Alpinist variants",
+   "year_intro": 2009,
+   "production_period": "2009 (limited; not in Seiko Japan lineup by Jun 2010)",
+   "ref_primary": "SARB063",
+   "ref_jp": "SARB063",
+   "ref_intl": null,
+   "ref_us": null,
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": null,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "Black-coated stainless steel (press)",
+    "crystal": null,
+    "water_resistance": null,
+    "caseback": null,
+    "crown": null,
+    "notes": "Seiko product page not archived (redirects). Likely shares SARB059 case (13.1 mm) but unverified."
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "dial_story": null,
+   "compass": {
+    "has": true,
+    "type": "External rotating compass bezel (press: white-on-black bezel)"
+   },
+   "gmt": null,
+   "strap_bracelet": "Black bracelet (press) plus spare nylon strap supplied in special box with Mizukoshi message card (Seiko)",
+   "market": "Japan domestic (JDM)",
+   "msrp": {
+    "amount": 68000,
+    "currency": "JPY",
+    "year": 2009,
+    "source": "Seiko Japan concept page: ¥71,400 incl. tax (¥68,000 ex tax)"
+   },
+   "status": "discontinued",
+   "limited": {
+    "is_limited": true,
+    "quantity": 500
+   },
+   "design_notes": [
+    "Nature photographer Takeshi Mizukoshi (水越武) 'fully cooperated in development' (Seiko)",
+    "Seiko page showcased Mizukoshi photographs incl. Hotaka ridge (Northern Alps, 1984) and Taisho-ike, Kamikochi (1975)"
+   ],
+   "sources": [
+    {
+     "title": "Seiko Japan concept page 'トレッキングモデル「アルピニスト」', archived 2009-10-24",
+     "url": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Seiko Japan product page SARB061, archived 2010-03-29",
+     "url": "http://web.archive.org/web/20100329111331/http://www.seiko-watch.co.jp/p_search/detail/do.php?no=SARB061",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "WatchReport – New Alpinist models from Seiko in August (2009-04-01)",
+     "url": "https://www.watchreport.com/new-alpinist-models-from-seiko-in-august/",
+     "tier": "blog"
+    }
+   ],
+   "uncertain_fields": [
+    "all case fields",
+    "bracelet description (press)"
+   ]
+  },
+  {
+   "id": "spb089",
+   "name": "Seiko Alpinist SPB089 'Blue Alpinist' U.S. Limited Edition",
+   "series": "Seiko USA 'Heritage' category (later grouped with Prospex Alpinist by press)",
+   "generation": "2019 SARB-case limited edition (60th anniversary)",
+   "year_intro": 2019,
+   "production_period": "2019 (limited; announced late Feb 2019; reported sold out in under 12 hours)",
+   "ref_primary": "SPB089",
+   "ref_jp": null,
+   "ref_intl": null,
+   "ref_us": "SPB089",
+   "movement": {
+    "caliber": "6R15",
+    "type": "Mechanical automatic with hand-winding (自動巻・手巻つき)",
+    "jewels": 23,
+    "bph": 21600,
+    "power_reserve_h": 50,
+    "hacking": true,
+    "hand_winding": true,
+    "accuracy": "+25 to -15 seconds/day (Seiko spec)",
+    "notes": "Jewels, accuracy, hacking (秒針停止機能) and hand-winding from Seiko Japan product pages; 21,600 vph and ~50 h from Seiko USA SPB089 page."
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": null,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "Stainless steel",
+    "crystal": "Sapphire",
+    "water_resistance": "20 bar / 200 m (656 ft)",
+    "caseback": "Screw-down solid caseback with serial number (Seiko); Alpinist logo and 'Limited Edition' (review)",
+    "crown": "Screw-down crown at 3; non-screw crown at 4 for inner compass ring (review)",
+    "notes": "Thickness reported as 13 mm by reviews vs Seiko's 12.0 mm for SARB case – left null. Lug-to-lug and lug width from reviews."
+   },
+   "dial_colors": [
+    "blue (Seiko: 'blue-patterned dial')"
+   ],
+   "dial_story": "Seiko USA framing: 2019 limited edition of 1,959 pieces (number references the 1959 Laurel Alpinist); no colour inspiration stated.",
+   "compass": {
+    "has": true,
+    "type": "Inner rotating compass ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "Sunray-finish leather band (Seiko USA); colour reported variously as black or navy",
+   "market": "United States only",
+   "msrp": {
+    "amount": 600,
+    "currency": "USD",
+    "year": 2019,
+    "source": "Seiko USA product page"
+   },
+   "status": "discontinued (sold out)",
+   "limited": {
+    "is_limited": true,
+    "quantity": 1959
+   },
+   "design_notes": [
+    "Silver-tone hands/indices on blue dial (press)",
+    "Uses 6R15, not 6R35 – the 6R35 arrived with SPB117/119/121 in 2020",
+    "Fratello: 'send-off' edition before the 2020 Prospex Alpinist"
+   ],
+   "sources": [
+    {
+     "title": "Seiko USA product page SPB089, archived 2019-11-19",
+     "url": "http://web.archive.org/web/20191119200419/https://seikousa.com/products/spb089?_pos=1&_ss=r",
+     "tier": "official (archived)"
+    },
+    {
+     "title": "Fratello – A Look Back On The Modern Seiko Alpinist (Michael Stockton, 2020-10-08)",
+     "url": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello – Fratello's Top 5 Seiko Alpinist References Ever Produced",
+     "url": "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+     "tier": "press"
+    },
+    {
+     "title": "Wrist Enthusiast – Seiko U.S. Limited Edition Alpinist (2019-02-28)",
+     "url": "https://www.wristenthusiast.com/latest/2019/2/28/seiko-us-limited-edition-alpinist",
+     "tier": "blog"
+    },
+    {
+     "title": "Watchclicker – Seiko Alpinist Blue SPB089 review",
+     "url": "https://watchclicker.com/seiko-alpinist-blue-spb089/",
+     "tier": "blog"
+    },
+    {
+     "title": "WatchGecko – The Seiko Alpinist Blue U.S. Limited Edition SPB089",
+     "url": "https://www.watchgecko.com/the-seiko-alpinist-blue-limited-edition/",
+     "tier": "retailer blog"
+    }
+   ],
+   "uncertain_fields": [
+    "case.thickness_mm",
+    "case.lug_to_lug_mm/lug_width_mm (reviews)",
+    "strap colour",
+    "exact release date"
+   ]
+  }
+ ],
+ "related_not_profiled": [
+  {
+   "refs": [
+    "SBCJ019",
+    "SBCJ021",
+    "SBCJ031",
+    "SSASS"
+   ],
+   "note": "8F56 quartz GMT perpetual-calendar titanium Alpinists from 2003 (SSASS: 500-pc blue charity edition) per Fratello; predate SARB era, end date not verified.",
+   "source": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+  },
+  {
+   "refs": [
+    "SARB011",
+    "SARB001",
+    "SARB003",
+    "SARB005",
+    "SARB065",
+    "SARB033",
+    "SARB035"
+   ],
+   "note": "6R15 Seiko Mechanical models that are NOT Alpinists (SARB011: 10 bar see-through back; SARB065: Cocktail Time-style elegant model; SARB033/035: standard models). SARB001/003/005 appear only inside an HTML comment on the 2007 Alpinist page.",
+   "source": "http://web.archive.org/web/20090421024824/http://www.seiko-watch.co.jp/mechanical/lineup/"
+  }
+ ],
+ "history_facts": [
+  {
+   "text": "Seiko states its first Alpinist was introduced in 1959 'to meet the needs of mountain climbers and recreational field sports enthusiasts' and was 'the first Seiko watch ever produced with sports in mind'.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+   "tier": "official"
+  },
+  {
+   "text": "The Alpinist name returned in 1995 with the SCVF005 (black), SCVF007 (cream) and SCVF009 (green) on the 4S15 calibre, introducing the 4 o'clock compass crown and cathedral hands.",
+   "source": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+   "tier": "press"
+  },
+  {
+   "text": "Seiko Japan's Mechanical lineup listed SARB013, SARB015 and SARB017 under 'アルピニスト' and marked all three 'NEW' in a March 2007 capture.",
+   "source": "http://web.archive.org/web/20070322191434/http://www.seiko-watch.co.jp/mechanical/lineup/alpinist.html",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "Seiko Japan called the line a 'trekking model' (トレッキングモデル「アルピニスト」) with a simple compass, screw-lock crown and 20-bar water resistance, and described the Alpinist symbol on the caseback as based on a mountain range.",
+   "source": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "Seiko's compass method: set N on the ring to 12 o'clock, hold the watch level, point the 24-hour hand (or hour hand) at the sun, and read the bearing. Seiko notes it works only in the Northern Hemisphere and may not work seasonally south of the Tropic of Cancer.",
+   "source": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "In 2009 Seiko added SARB059 and SARB061 plus the 500-piece SARB063 made with nature photographer Takeshi Mizukoshi to the Alpinist group. Their dials print nine ground-to-air emergency signal codes.",
+   "source": "http://web.archive.org/web/20091024104924/http://www.seiko-watch.co.jp/mechanical/concept/alpinist.php",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "Seiko Japan's Alpinist group shrank over time: SARB059/061/015/017 in June 2010, SARB059/017 in November 2011 and June 2013, and SARB017 alone by June 2015.",
+   "source": "http://web.archive.org/web/20150612132529/http://www.seiko-watch.co.jp/mechanical/lineup/",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "SARB017's discontinuation was reported in February–March 2018, citing JDM dealer Seiya Japan, alongside SARB033/SARB035.",
+   "source": "https://wornandwound.com/seiko-says-goodbye-four-iconic-watches-sarb017-sarb033-sarb035-sbdx001/",
+   "tier": "press"
+  },
+  {
+   "text": "Seiko USA released the blue SPB089 in 2019, limited to 1,959 pieces at US$600, with a serial number on the caseback.",
+   "source": "http://web.archive.org/web/20191119200419/https://seikousa.com/products/spb089?_pos=1&_ss=r",
+   "tier": "official (archived)"
+  },
+  {
+   "text": "In 2020 the line moved into Prospex as SPB117/119/121 (plus SPB123) with the 6R35 (70 h), a display caseback and the Prospex 'X' on the dial instead of an Alpinist script.",
+   "source": "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/",
+   "tier": "press"
+  }
+ ],
+ "movements": [
+  {
+   "caliber": "6R15",
+   "type": "Automatic with hand-winding, hacking",
+   "jewels": 23,
+   "bph": 21600,
+   "power_reserve_h": 50,
+   "accuracy": "+25/-15 s/day",
+   "used_in": [
+    "SARB013",
+    "SARB015",
+    "SARB017",
+    "SARB059",
+    "SARB061",
+    "SARB063",
+    "SPB089"
+   ],
+   "notes": "Dimensions (27.4 mm, 5.32 mm) from databases only. Intro year not confirmed by Seiko (Fratello calls it 'then-new' in 2006).",
+   "sources": [
+    "http://web.archive.org/web/20070517052658/http://www.seiko-watch.co.jp:80/p_search/detail/do.php?no=SARB017",
+    "http://web.archive.org/web/20191119200419/https://seikousa.com/products/spb089?_pos=1&_ss=r"
+   ]
+  },
+  {
+   "caliber": "4S15",
+   "type": "Automatic with hand-winding, hacking",
+   "jewels": 25,
+   "bph": 28800,
+   "power_reserve_h": 40,
+   "accuracy": null,
+   "used_in": [
+    "SCVF005",
+    "SCVF007",
+    "SCVF009"
+   ],
+   "notes": "1995 'Red Alpinist' predecessor; specs per Fratello.",
+   "sources": [
+    "https://www.fratellowatches.com/fratellos-top-5-seiko-alpinist-references-ever-produced/",
+    "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+   ]
+  },
+  {
+   "caliber": "8F56",
+   "type": "Quartz perpetual calendar with GMT",
+   "jewels": null,
+   "bph": null,
+   "power_reserve_h": null,
+   "accuracy": "+/- 2 seconds per month (Fratello; not verified with Seiko)",
+   "used_in": [
+    "SBCJ019",
+    "SBCJ021",
+    "SBCJ031",
+    "SSASS"
+   ],
+   "notes": "2003 titanium Alpinist line; specs per Fratello only.",
+   "sources": [
+    "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+   ]
+  },
+  {
+   "caliber": "6R35",
+   "type": "Automatic with hand-winding, hacking",
+   "jewels": null,
+   "bph": null,
+   "power_reserve_h": 70,
+   "accuracy": null,
+   "used_in": [
+    "SPB117",
+    "SPB119",
+    "SPB121",
+    "SPB123"
+   ],
+   "notes": "Successor calibre (2020); listed for context only.",
+   "sources": [
+    "https://www.fratellowatches.com/a-look-back-on-the-modern-seiko-alpinist/"
+   ]
+  }
+ ],
+ "disputes": [
+  {
+   "topic": "Are SARB059/SARB061 Alpinists?",
+   "positions": [
+    "The brief (and some enthusiast lists) treats them as non-Alpinists",
+    "Seiko Japan 2009–2013 placed SARB059/061 (and limited SARB063) under 'アルピニストモデル' on its lineup and Alpinist concept pages"
+   ],
+   "resolution": "Official evidence says they were Seiko-designated Alpinists. Included, flagged as a different design family (external bezel)."
+  },
+  {
+   "topic": "SARB013/015/017 introduction year",
+   "positions": [
+    "2006 (Worn & Wound, Fratello, SJX; blog gives 9 Nov 2006)",
+    "2007 (Gear Patrol, Worn & Wound 2018 news)"
+   ],
+   "resolution": "2006 adopted. Seiko Japan marked them NEW in March 2007; no 2006 official capture found."
+  },
+  {
+   "topic": "SARB017 case diameter",
+   "positions": [
+    "39.5 mm (Seiko 2016 page; Fratello)",
+    "39 mm (Worn & Wound missed review)"
+   ],
+   "resolution": "39.5 mm (official)."
+  },
+  {
+   "topic": "SARB017 lug-to-lug",
+   "positions": [
+    "46.4 mm (Seiko 2016 '縦')",
+    "46.3 mm (Fratello)",
+    "46 mm (W&W)"
+   ],
+   "resolution": "46.4 mm (official)."
+  },
+  {
+   "topic": "SARB discontinuation",
+   "positions": [
+    "All three ended 2018 (various)",
+    "Seiko Japan archives show SARB013 gone by mid-2010 and SARB015 gone by late 2011; only SARB017 ran to 2018"
+   ],
+   "resolution": "Per-model dates from archives. The 2018 end applies to SARB017."
+  },
+  {
+   "topic": "SPB089 movement",
+   "positions": [
+    "6R15 (Seiko USA page, Fratello, Wrist Enthusiast)",
+    "6R35 / 70 h (StockX-derived listings)"
+   ],
+   "resolution": "6R15 (official)."
+  },
+  {
+   "topic": "SPB089 'Hodinkee edition'",
+   "positions": [
+    "Retail listings call it a Hodinkee collaboration/edition",
+    "Seiko USA sold it as a 'U.S. Limited Edition'; WatchGecko notes Hodinkee shop was one retailer"
+   ],
+   "resolution": "No official evidence of a Hodinkee collaboration; treat as a Seiko USA limited edition. Hodinkee.com could not be fetched to check."
+  },
+  {
+   "topic": "SPB089 Japanese/SBDC reference",
+   "positions": [
+    "Brief suggested an SBDC equivalent",
+    "No JDM ref found; SBDC089 is the 2020 SPB119 equivalent, not SPB089"
+   ],
+   "resolution": "ref_jp null."
+  },
+  {
+   "topic": "SPB089 thickness and strap colour",
+   "positions": [
+    "13 mm (reviews) vs 12.0 mm Seiko SARB-case spec",
+    "black (Wrist Enthusiast) vs navy (retail) leather; Seiko says 'Sunray finish leather band'"
+   ],
+   "resolution": "Thickness null; Seiko wording used for the strap."
+  },
+  {
+   "topic": "SCVF (1995) crystal",
+   "positions": [
+    "Hardlex mineral (Fratello look-back)",
+    "'Sapphlex' with cyclops (Fratello top-5, Strapcode)"
+   ],
+   "resolution": "Unresolved; affects predecessor context only."
+  },
+  {
+   "topic": "SARB059 diameter",
+   "positions": [
+    "42 mm (The Seiko Guy guide)",
+    "43 mm (The Seiko Guy SARB059 page)"
+   ],
+   "resolution": "null."
+  },
+  {
+   "topic": "Green dial inspiration",
+   "positions": [
+    "Shigeo Sakai's almond-green Mini Cooper inspired the 1995 green SCVF009 (SJX, RASIN)",
+    "No Seiko statement located"
+   ],
+   "resolution": "dial_story null for SARB017; story recorded as a press attribution about the 1995 model."
+  }
+ ]
+}

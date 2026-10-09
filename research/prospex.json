@@ -1,0 +1,3777 @@
+{
+ "generated": "2026-10-02",
+ "status": "COMPLETE for this pass (2026-10-02); see uncertain_fields per model and unresolved[]",
+ "method_note": "seikowatches.com returns HTTP 200 for any URL (soft-404 template). 'Live' means the page body contains the reference's spec block, checked with curl on 2026-10-02. Discontinued pages were read via Wayback Machine snapshots. Prices: launch prices only from Seiko press releases or reputable press; current prices from live Seiko pages are labelled as such.",
+ "series": [
+  {
+   "name": "Prospex Alpinist (Land)",
+   "refs": [
+    "SPB117",
+    "SPB119",
+    "SPB121",
+    "SPB123",
+    "SPB209",
+    "SPB210"
+   ],
+   "year": 2020,
+   "description": "Alpinist moved into Prospex 'Land' in 2020 with 6R35 (70h), 39.5mm case, internal compass ring, date magnifier, 20 bar.",
+   "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist"
+  },
+  {
+   "name": "1959 Alpinist Re-creation",
+   "refs": [
+    "SJE085"
+   ],
+   "year": 2021,
+   "description": "Limited 1,959 re-creation of the 1959 Laurel Alpinist with Cal. 6L35.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+  },
+  {
+   "name": "1959 Alpinist Modern Re-interpretation",
+   "refs": [
+    "SPB241",
+    "SPB243",
+    "SPB245",
+    "SPB259",
+    "SPB289",
+    "SPB249",
+    "SPB251",
+    "SPB435 (Thailand LE, retailer-sourced)"
+   ],
+   "year": 2021,
+   "description": "38mm, 6R35, no compass ring; mountain-shaped markers at 3/6/9/12 from the 1959 original.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+  },
+  {
+   "name": "Alpinist European limited editions",
+   "refs": [
+    "SPB199",
+    "SPB201",
+    "SPB531",
+    "SPB355"
+   ],
+   "year": 2020,
+   "description": "Europe-only limited runs (2,020 / 2,021 / 2,000 pieces).",
+   "source": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/"
+  },
+  {
+   "name": "Alpinist Mechanical GMT",
+   "refs": [
+    "SPB377",
+    "SPB379",
+    "SPB409",
+    "SBEJ005 (JP)",
+    "SPB493 (Asia LE)",
+    "HBC007",
+    "HBC008J/HBC009J (JP)"
+   ],
+   "year": 2023,
+   "description": "Cal. 6R54 GMT, 72h, 39.5 x 13.6mm.",
+   "source": "https://www.seikowatches.com/us-en/products/prospex/spb377j1"
+  },
+  {
+   "name": "Alpinist Mechanical (6R55)",
+   "refs": [
+    "SPB503",
+    "SPB505",
+    "SPB507",
+    "HBC006 (145th LE)"
+   ],
+   "year": 2025,
+   "description": "First Alpinists with 6R55 (72h); 'Alpinist' wordmark on dial; 12.7mm thick; super-hard coating.",
+   "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+  },
+  {
+   "name": "Prospex Alpinist 38mm (no compass)",
+   "refs": [
+    "SPB155",
+    "SPB157",
+    "SPB159",
+    "SPB211",
+    "SPB212"
+   ],
+   "year": 2020,
+   "description": "38mm, 12.9mm, 6R35, no compass crown or date magnifier.",
+   "source": "https://www.seikowatches.com/global-en/products/prospex/spb155j1"
+  },
+  {
+   "name": "The Black Series (Alpinist)",
+   "refs": [
+    "SPB337"
+   ],
+   "year": 2023,
+   "description": "Black dial with green Lumibrite Pro; 'night vision' concept; 5,500 pcs.",
+   "source": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1"
+  },
+  {
+   "name": "Seiko 145th Anniversary Limited Editions (Edo purple)",
+   "refs": [
+    "HBC006"
+   ],
+   "year": 2026,
+   "description": "Third series of 145th-anniversary LEs; Alpinist in Edo purple, 7,000 pcs, Oct 2026.",
+   "source": "https://www.seikowatches.com/us-en/news/2026/pr/20260806"
+  },
+  {
+   "name": "Asia/regional distributor limited editions",
+   "refs": [
+    "SPB435",
+    "SPB493",
+    "SPB532"
+   ],
+   "year": 2023,
+   "description": "Regional LEs (Thailand, Asia, SE Asia/HK). Documented by retailers and press only, not on Seiko-hosted pages found.",
+   "source": null
+  }
+ ],
+ "movements": [
+  {
+   "caliber": "6R15",
+   "jewels": 23,
+   "bph": 21600,
+   "power_reserve_h": 50,
+   "note": "Used in pre-2020 SARB017 era Alpinist. Figures from general knowledge NOT verified against a Seiko source in this pass.",
+   "verified": false
+  },
+  {
+   "caliber": "6R35",
+   "jewels": 24,
+   "bph": 21600,
+   "power_reserve_h": 70,
+   "accuracy": "+25/-15 s/day",
+   "hacking": true,
+   "hand_winding": true,
+   "date": true,
+   "used_in": [
+    "SPB117-123",
+    "SPB155-159",
+    "SPB199",
+    "SPB201",
+    "SPB209",
+    "SPB211",
+    "SPB241-245",
+    "SPB249",
+    "SPB251",
+    "SPB259",
+    "SPB289",
+    "SPB531"
+   ],
+   "seiko_says": "Power reserve up to 70 hours (Seiko DE press 2020).",
+   "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+   "verified": true
+  },
+  {
+   "caliber": "6R55",
+   "jewels": 24,
+   "bph": 21600,
+   "power_reserve_h": 72,
+   "accuracy": "+25/-15 s/day",
+   "hacking": true,
+   "hand_winding": true,
+   "date": true,
+   "used_in": [
+    "SPB503",
+    "SPB505",
+    "SPB507"
+   ],
+   "seiko_says": "First use in the Alpinist collection; up to 72 hours (Seiko Italy press 2025).",
+   "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+   "verified": true
+  },
+  {
+   "caliber": "6R54",
+   "jewels": 24,
+   "bph": 21600,
+   "power_reserve_h": 72,
+   "accuracy": "+25/-15 s/day",
+   "hacking": true,
+   "hand_winding": true,
+   "gmt": "24-hour hand, independently adjustable",
+   "used_in": [
+    "SPB377",
+    "SPB379",
+    "SPB409"
+   ],
+   "seiko_says": "New 6R GMT calibre with three-day power reserve; first introduced 2023.",
+   "source": "https://www.seikowatches.com/us-en/news/20230906",
+   "verified": true
+  },
+  {
+   "caliber": "6L35",
+   "jewels": 26,
+   "bph": 28800,
+   "power_reserve_h": 45,
+   "accuracy": "+15/-10 s/day",
+   "hacking": true,
+   "hand_winding": true,
+   "date": true,
+   "used_in": [
+    "SJE085"
+   ],
+   "seiko_says": "Slimline calibre; the re-creation is only 1.0mm thicker than the 1959 original despite adding a date.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+   "verified": true
+  }
+ ],
+ "history_facts": [
+  {
+   "text": "Seiko states its first Alpinist was the 1959 Seiko Laurel Alpinist, made for mountain climbers and recreational field sports, and the first Seiko watch made with sports in mind.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "The 1959 original had a screw-back case against dust/sand, a leather cuff band against sweat, luminous hands/markers, and mountain-shaped markers at 3, 6, 9, 12 that double as the four compass points.",
+   "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "Seiko Germany's 2020 press release says Japanese mountaineers were called 'Yama-otoko', which gave the watch its name, and that the first models had a simple 17-jewel hand-wound calibre and black or white dials.",
+   "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "Seiko Germany (2020) says the Alpinist had been reissued six times since 1961 and that the 'Green Alpinist' SARB017 became a collector's piece.",
+   "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "Seiko France (Oct 2020) states the Alpinist joined Prospex in 2020, bearing the Prospex 'X' logo.",
+   "source": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "Seiko Italy (2025) says the green-dial version first appeared in 1995, was updated in 2006, and was nicknamed 'Green Alpinist' in Japan.",
+   "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "Seiko's 2026 Alpinist page says the Laurel Alpinist of 1959 was Seiko's first sports watch, and that the 2025 6R55 models put the Alpinist logo under the Seiko logo at 12 o'clock, as on the original.",
+   "source": "https://www.seikowatches.com/us-en/products/prospex/special/alpinist/",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "The 6R55 Alpinist Mechanical models SPB503/505/507 were available from November 2025 (Seiko US special page).",
+   "source": "https://www.seikowatches.com/us-en/products/prospex/special/alpinist/",
+   "category": "seiko-documented"
+  },
+  {
+   "text": "From 2026, new Prospex references use an 'HBC' prefix (e.g. HBC006 Alpinist, HBC007 Alpinist GMT); in Japan the same number takes a 'J' suffix (HBC006J).",
+   "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc006j",
+   "category": "seiko-documented (inferred from product pages)"
+  },
+  {
+   "text": "The 1959 Alpinist Re-creation SJE085 went on sale in Japan on 6 August 2021 at ¥330,000 (per Impress Watch).",
+   "source": "https://www.watch.impress.co.jp/docs/news/1308572.html",
+   "category": "press"
+  }
+ ],
+ "disputes": [
+  {
+   "topic": "Origin year of the Alpinist",
+   "positions": [
+    {
+     "claim": "1959 (Laurel Alpinist)",
+     "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+    },
+    {
+     "claim": "1961",
+     "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist"
+    }
+   ],
+   "note": "Both are Seiko documents. Seiko's later global releases (2021, 2025) use 1959."
+  },
+  {
+   "topic": "2020 Alpinist case dimensions",
+   "positions": [
+    {
+     "claim": "39.5mm diameter, 13.2mm thick, 46.4mm lug-to-lug",
+     "source": "https://web.archive.org/web/20210107154325/https://www.seikowatches.com/global-en/products/prospex/spb117j1"
+    },
+    {
+     "claim": "40.0mm diameter, 12.0mm thick",
+     "source": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist"
+    }
+   ],
+   "note": "The product spec pages (39.5/13.2) are likely more reliable than the German press text."
+  },
+  {
+   "topic": "6R55 Alpinist (SPB503/505/507) compass ring",
+   "positions": [
+    {
+     "claim": "Rotating compass bezel",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb503j1"
+    },
+    {
+     "claim": "Inner rotating ring with simple compass (簡易方位計つき内転リング)",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbdc207"
+    },
+    {
+     "claim": "Internal compass bezel operated via the 4 o'clock crown",
+     "source": "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/"
+    },
+    {
+     "claim": "Rotating compass inner ring (HBC006, same case)",
+     "source": "https://www.seikowatches.com/us-en/news/2026/pr/20260806"
+    }
+   ],
+   "note": "Probably resolved: Seiko's Aug 2026 press release and HBC006 page (same 39.5 x 12.7mm 6R55 case) say 'Rotating compass inner ring', so 'bezel' on the SPB503 page is probably loose wording."
+  },
+  {
+   "topic": "6R55 Alpinist date function",
+   "positions": [
+    {
+     "claim": "Spec lists only stop-seconds (no date listed)",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb503j1"
+    },
+    {
+     "claim": "Date at 3 o'clock with magnifier",
+     "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+    }
+   ],
+   "note": "Spec also lists 'sapphire with magnifier', so the date is very likely present."
+  },
+  {
+   "topic": "SPB123 exclusivity",
+   "positions": [
+    {
+     "claim": "Seiko website exclusive",
+     "source": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020"
+    },
+    {
+     "claim": "Hodinkee & Seiko exclusive (secondary sources)",
+     "source": null
+    }
+   ],
+   "note": "Not resolved."
+  },
+  {
+   "topic": "US launch prices of SPB241/243/245",
+   "positions": [
+    {
+     "claim": "$750 / $750 / $725",
+     "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+    },
+    {
+     "claim": "$720 / $720 / $700",
+     "source": "https://fratellowatches.com/the-seiko-prospex-1959-alpinist-modern-re-interpretation-collection"
+    }
+   ],
+   "note": "Seiko US press release is preferred."
+  },
+  {
+   "topic": "SPB210 case finish",
+   "positions": [
+    {
+     "claim": "gold-plated steel case",
+     "source": "https://professionalwatches.com/2021-seiko-alpinist-spb210-and-spb209/"
+    },
+    {
+     "claim": "Case material: Stainless steel (no plating listed)",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb210j1"
+    }
+   ],
+   "note": "Not resolved; the Seiko spec may only list the base material."
+  },
+  {
+   "topic": "SPB532 launch month",
+   "positions": [
+    {
+     "claim": "Oct 2025",
+     "source": "https://www.gsmgotech.com/2025/10/seiko-unveils-frosty-masterpiece.html"
+    },
+    {
+     "claim": "Dec 2025",
+     "source": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1"
+    }
+   ],
+   "note": "Possibly announced in Oct and released in Dec."
+  },
+  {
+   "topic": "Launch year of the 38mm SPB155/157/159",
+   "positions": [
+    {
+     "claim": "2020 (Time+Tide intro dated 19 Sep 2020)",
+     "source": "https://timeandtidewatches.com/?p=7904"
+    },
+    {
+     "claim": "2021 (stated in the research brief and some secondary sources)",
+     "source": null
+    }
+   ],
+   "note": "2020 used."
+  }
+ ],
+ "unresolved": [
+  "SPB197: a retailer (Watchnation) lists 'SPB197J1 2021 European Limited Edition', but Seiko's ES page names SPB201J1 as the 2021 European LE (2,021 pcs). No Seiko page for SPB197 found, so it is excluded from models[].",
+  "'Bamboo forest' Alpinist: the only match is SPB435 'Save the Forest – Bamboo Grove' (Thailand, 1,000 pcs, ~2023), documented only by retailers and Bangkok Post (paywalled). No Seiko-hosted page found. 'Sunbeam Forest' (SPB210) and 'Mystic Forest' (SPB289) are retailer nicknames.",
+  "'Alpinist Snow': the closest match is SPB532 'Snowy Mountain' (SE Asia LE, 800 pcs). No Seiko-hosted source found.",
+  "Deep Lake / Forest Brown dial stories come from retailer copy (likely Seiko UK marketing text); no Seiko-hosted wording found.",
+  "JP refs for SPB117/119/121 (SBDC087/089/091) are matched by colour and strap from press; SBDC089 is called 'cream' by Hodinkee Japan vs SPB119 'silver'.",
+  "JP refs for the 38mm and 1959-series models were not verified (SBDC117 is likely SPB157; retailers say SPB211 = SBDC137).",
+  "Movement entry for 6R15 not verified against Seiko this pass."
+ ],
+ "verified_live_official_pages_2026-10-02": {
+  "us-en": [
+   "spb155j1",
+   "spb210j1",
+   "spb249j1",
+   "spb377j1",
+   "spb379j1",
+   "spb503j1",
+   "spb505j1",
+   "spb507j1",
+   "hbc006j1",
+   "hbc007j1"
+  ],
+  "global-en": [
+   "spb155j1",
+   "spb157j1",
+   "spb159j1",
+   "spb209j1",
+   "spb210j1",
+   "spb211j1",
+   "spb212j1",
+   "spb241j1",
+   "spb245j1",
+   "spb249j1",
+   "spb259j1",
+   "spb289j1",
+   "spb377j1",
+   "spb379j1",
+   "spb503j1",
+   "spb505j1",
+   "spb507j1",
+   "hbc006j1",
+   "hbc007j1"
+  ],
+  "jp-ja": [
+   "sbdc207",
+   "sbdc209",
+   "sbdc211",
+   "sbej005",
+   "hbc006j",
+   "hbc008j",
+   "hbc009j"
+  ],
+  "it-it": [
+   "sje085j1"
+  ],
+  "es-es special": [
+   "products/prospex/special/alpinist_limited/ (SPB199, SPB201)"
+  ]
+ },
+ "models": [
+  {
+   "id": "spb117",
+   "name": "Prospex Alpinist SPB117",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2020,
+   "production_period": "2020–?",
+   "ref_primary": "SPB117J1",
+   "ref_jp": "SBDC087",
+   "ref_intl": "SPB117J1",
+   "ref_us": "SPB117",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20210107154325/https://www.seikowatches.com/global-en/products/prospex/spb117j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier (cyclops), AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20210107154325/https://www.seikowatches.com/global-en/products/prospex/spb117j1"
+   },
+   "dial_colors": [
+    "black (gloss)"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal bidirectional rotating compass ring, operated by crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet, three-fold clasp with push button",
+   "market": "global",
+   "msrp": {
+    "amount": 750,
+    "currency": "USD",
+    "year": 2020,
+    "source": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020"
+   },
+   "msrp_other": [
+    {
+     "amount": 77000,
+     "currency": "JPY",
+     "tax": "excluding 10% tax (84,700 incl.)",
+     "year": 2020,
+     "ref": "SBDC087",
+     "source": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches"
+    }
+   ],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://web.archive.org/web/20210107154325/https://www.seikowatches.com/global-en/products/prospex/spb117j1",
+   "official_url_status": "discontinued: global-en product page no longer live (soft-404) on 2026-10-02; archived on Wayback",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page SPB117J1 (Wayback 2021-01-07)",
+     "url": "https://web.archive.org/web/20210107154325/https://www.seikowatches.com/global-en/products/prospex/spb117j1",
+     "tier": "official-archived"
+    },
+    {
+     "title": "aBlogtoWatch, 13 Dec 2019",
+     "url": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020",
+     "tier": "press"
+    },
+    {
+     "title": "Hodinkee Japan, 20 Jan 2020",
+     "url": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches",
+     "tier": "press"
+    },
+    {
+     "title": "Seiko Germany press release 6 Feb 2020",
+     "url": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (SBDC087 matched by colour/bracelet; no single Seiko document pairing SPB117=SBDC087 was found)",
+    "case.lug_width_mm (20mm taken from current Seiko pages for same 39.5mm case, not the SPB117 page)",
+    "production_period end"
+   ]
+  },
+  {
+   "id": "spb119",
+   "name": "Prospex Alpinist SPB119",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2020,
+   "production_period": "2020–?",
+   "ref_primary": "SPB119J1",
+   "ref_jp": "SBDC089",
+   "ref_intl": "SPB119J1",
+   "ref_us": "SPB119",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20210107121645/https://www.seikowatches.com/global-en/products/prospex/spb119j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier (cyclops), AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20210107121645/https://www.seikowatches.com/global-en/products/prospex/spb119j1"
+   },
+   "dial_colors": [
+    "silver/white sunburst"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal bidirectional rotating compass ring, operated by crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "black calfskin strap, three-fold clasp with push button",
+   "market": "global",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2020,
+    "source": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020"
+   },
+   "msrp_other": [
+    {
+     "amount": 75000,
+     "currency": "JPY",
+     "tax": "excluding tax (82,500 incl.)",
+     "year": 2020,
+     "ref": "SBDC089",
+     "source": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches"
+    }
+   ],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://web.archive.org/web/20210107121645/https://www.seikowatches.com/global-en/products/prospex/spb119j1",
+   "official_url_status": "discontinued: global-en product page no longer live (soft-404) on 2026-10-02; archived on Wayback",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page SPB119J1 (Wayback)",
+     "url": "https://web.archive.org/web/20210107121645/https://www.seikowatches.com/global-en/products/prospex/spb119j1",
+     "tier": "official-archived"
+    },
+    {
+     "title": "aBlogtoWatch, 13 Dec 2019",
+     "url": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020",
+     "tier": "press"
+    },
+    {
+     "title": "Hodinkee Japan, 20 Jan 2020",
+     "url": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp: SBDC089 described as 'cream' dial by Hodinkee Japan vs SPB119 'silver sunburst' by aBlogtoWatch; equivalence unconfirmed",
+    "case.lug_width_mm"
+   ]
+  },
+  {
+   "id": "spb121",
+   "name": "Prospex Alpinist SPB121 (green)",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2020,
+   "production_period": "2020–?",
+   "ref_primary": "SPB121J1",
+   "ref_jp": "SBDC091",
+   "ref_intl": "SPB121J1",
+   "ref_us": "SPB121",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20210107145328/https://www.seikowatches.com/global-en/products/prospex/spb121j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier (cyclops), AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20210107145328/https://www.seikowatches.com/global-en/products/prospex/spb121j1"
+   },
+   "dial_colors": [
+    "green sunburst",
+    "gold applied numerals/indices"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal bidirectional rotating compass ring, operated by crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "brown calfskin strap (alligator-pattern per aBlogtoWatch), three-fold clasp",
+   "market": "global",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2020,
+    "source": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020"
+   },
+   "msrp_other": [
+    {
+     "amount": 75000,
+     "currency": "JPY",
+     "tax": "excluding tax (82,500 incl.)",
+     "year": 2020,
+     "ref": "SBDC091",
+     "source": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches"
+    }
+   ],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://web.archive.org/web/20210107145328/https://www.seikowatches.com/global-en/products/prospex/spb121j1",
+   "official_url_status": "discontinued: global-en product page no longer live (soft-404) on 2026-10-02; archived on Wayback",
+   "design_notes": [
+    "Seiko Germany press (Feb 2020) singles out the earlier 'Green Alpinist' SARB017 as a collector favourite; SPB121 continues that green/gold/brown-strap look."
+   ],
+   "sources": [
+    {
+     "title": "Seiko global product page SPB121J1 (Wayback)",
+     "url": "https://web.archive.org/web/20210107145328/https://www.seikowatches.com/global-en/products/prospex/spb121j1",
+     "tier": "official-archived"
+    },
+    {
+     "title": "aBlogtoWatch",
+     "url": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020",
+     "tier": "press"
+    },
+    {
+     "title": "Hodinkee Japan",
+     "url": "https://www.hodinkee.jp/articles/three-alpinist-inspired-seiko-prospex-watches",
+     "tier": "press"
+    },
+    {
+     "title": "Seiko Germany press 6 Feb 2020",
+     "url": "https://www.seikowatches.com/de-de/news/NeuauflageSeikoProspexAlpinist",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (colour match)",
+    "case.lug_width_mm",
+    "nickname: fans call it 'Green Alpinist'; Seiko's 2025 Italian press uses 'Green Alpinist' for the green line generally, not specifically SPB121"
+   ]
+  },
+  {
+   "id": "spb123",
+   "name": "Prospex Alpinist SPB123 (champagne)",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2020,
+   "production_period": "2020–?",
+   "ref_primary": "SPB123J1",
+   "ref_jp": null,
+   "ref_intl": "SPB123J1",
+   "ref_us": "SPB123",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20211104191618/https://www.seikowatches.com/global-en/products/prospex/spb123j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier (cyclops), AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20211104191618/https://www.seikowatches.com/global-en/products/prospex/spb123j1"
+   },
+   "dial_colors": [
+    "champagne/cream with gold accents"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal bidirectional rotating compass ring, operated by crown at 4 o'clock"
+   },
+   "gmt": false,
+   "strap_bracelet": "olive green calfskin strap",
+   "market": "US-focused online exclusive (see disputes)",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2020,
+    "source": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020"
+   },
+   "msrp_other": [],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://web.archive.org/web/20211104191618/https://www.seikowatches.com/global-en/products/prospex/spb123j1",
+   "official_url_status": "discontinued: global-en product page no longer live (soft-404) on 2026-10-02; archived on Wayback",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page SPB123J1 (Wayback 2021-11-04)",
+     "url": "https://web.archive.org/web/20211104191618/https://www.seikowatches.com/global-en/products/prospex/spb123j1",
+     "tier": "official-archived"
+    },
+    {
+     "title": "aBlogtoWatch",
+     "url": "https://ablogtowatch.com/seiko-adds-four-new-alpinist-inspired-watches-to-prospex-line-for-2020",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (no JP equivalent found)",
+    "market exclusivity: aBlogtoWatch says 'Seiko website exclusive'; other secondary sources say Hodinkee + Seiko exclusive",
+    "case.lug_width_mm"
+   ]
+  },
+  {
+   "id": "spb199",
+   "name": "Prospex Alpinist Limited Edition 'Mountain Glacier' SPB199",
+   "series": "Prospex Alpinist (Land) – European limited edition",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2020,
+   "production_period": "Nov 2020 (limited)",
+   "ref_primary": "SPB199J1",
+   "ref_jp": null,
+   "ref_intl": "SPB199J1",
+   "ref_us": null,
+   "nickname": "Mountain Glacier (Seiko official name: 'Alpinist Limited Edition Mountain Glacier')",
+   "dial_story": {
+    "text": "Seiko says the emerald-green dial evokes glaciers over a mountain range, its special colouring subtly expressing how mountains change colour with the seasons.",
+    "source_url": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012",
+    "names_specific_place": false,
+    "landscape_kind": "glacier / mountain range"
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012"
+   },
+   "dial_colors": [
+    "emerald green (Seiko); described by press as grey-green sunburst"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal rotating compass ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "dark green calf leather strap + additional nylon strap, three-fold clasp",
+   "market": "Europe (also Israel, Turkey, South Africa per Seiko ES page)",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 880,
+     "currency": "EUR",
+     "country": "France",
+     "year": 2020,
+     "source": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 2020
+   },
+   "official_url": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/",
+   "official_url_status": "Seiko ES special page live 2026-10-02 (content verified: lists SPB199J1)",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko France press release 16 Oct 2020",
+     "url": "https://www.seikowatches.com/fr-fr/news/20201020-88509295012",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko Spain Alpinist Limited Edition special page",
+     "url": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/",
+     "tier": "official"
+    },
+    {
+     "title": "Fratello",
+     "url": "https://www.fratellowatches.com/seiko-alpinist-spb199j1-european-limited-edition-release/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "msrp USD (Europe-only; none)"
+   ]
+  },
+  {
+   "id": "spb201",
+   "name": "Prospex Alpinist Limited Edition 'Mountain Sunset' SPB201",
+   "series": "Prospex Alpinist (Land) – European limited edition",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Feb 2021 (limited)",
+   "ref_primary": "SPB201J1",
+   "ref_jp": null,
+   "ref_intl": "SPB201J1",
+   "ref_us": null,
+   "nickname": "Mountain Sunset (Seiko ES page: 'Atardecer en la Montaña')",
+   "dial_story": {
+    "text": "Seiko says the grey dial is an image of the sun sinking behind the mountain range, expressing the grey world of dusk.",
+    "source_url": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/",
+    "names_specific_place": false,
+    "landscape_kind": "mountain sunset / dusk"
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/"
+   },
+   "dial_colors": [
+    "grey"
+   ],
+   "compass": {
+    "has": true,
+    "type": "internal rotating compass ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "strap with three-fold clasp (details not on Seiko page); came with special plate",
+   "market": "Europe (also Israel, Turkey, South Africa)",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 2021
+   },
+   "official_url": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/",
+   "official_url_status": "Seiko ES special page live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Spain Alpinist Limited Edition special page",
+     "url": "https://www.seikowatches.com/es-es/products/prospex/special/alpinist_limited/",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "case dims assumed same as SPB199 (Seiko page gives no dims)",
+    "strap material",
+    "English name 'Mountain Sunset' is a translation of the Spanish Seiko page",
+    "price"
+   ]
+  },
+  {
+   "id": "sje085",
+   "name": "Prospex The 1959 Alpinist Re-creation SJE085",
+   "series": "Prospex Alpinist (Land) – Heritage re-creation",
+   "generation": "1959 Re-creation",
+   "year_intro": 2021,
+   "production_period": "Aug 2021 (limited)",
+   "ref_primary": "SJE085J1",
+   "ref_jp": null,
+   "ref_intl": "SJE085J1",
+   "ref_us": "SJE085",
+   "nickname": null,
+   "dial_story": {
+    "text": "Seiko describes a faithful re-creation of the 1959 Laurel Alpinist: black gloss dial, white inner minute ring, and mountain-shaped markers at 3, 6, 9 and 12 that also stand for the four compass points.",
+    "source_url": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+    "names_specific_place": false,
+    "landscape_kind": "mountains (generic, marker shapes)"
+   },
+   "movement": {
+    "caliber": "6L35",
+    "type": "automatic with manual winding",
+    "jewels": 26,
+    "bph": 28800,
+    "power_reserve_h": 45,
+    "accuracy": "+15 to -10 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/it-it/products/prospex/sje085j1"
+   },
+   "case": {
+    "diameter_mm": 36.6,
+    "thickness_mm": 11.1,
+    "lug_to_lug_mm": 43.8,
+    "lug_width_mm": 18,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "box-shaped sapphire, AR coating inner surface",
+    "water_resistance": "10 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "screw case back (solid)",
+    "source": "https://www.seikowatches.com/it-it/products/prospex/sje085j1"
+   },
+   "dial_colors": [
+    "black gloss"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "calf leather strap with cuff band (jagged stitching like the original)",
+   "market": "global (Seiko Boutiques & selected retailers)",
+   "msrp": {
+    "amount": 2900,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+   },
+   "msrp_other": [
+    {
+     "amount": 3000,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://www.seikowatches.com/global-en/news/20210225-98736939169"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 1959
+   },
+   "official_url": "https://www.seikowatches.com/it-it/products/prospex/sje085j1",
+   "official_url_status": "it-it product page live 2026-10-02 (content verified); not live on us-en/global-en",
+   "design_notes": [
+    "Date window between 4 and 5 o'clock added; case only 1.0mm thicker than the original despite the date (Seiko).",
+    "Seiko states the 1959 Laurel Alpinist was its first watch made with sports in mind."
+   ],
+   "sources": [
+    {
+     "title": "Seiko US press release 24/25 Feb 2021",
+     "url": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko Italy product page SJE085J1",
+     "url": "https://www.seikowatches.com/it-it/products/prospex/sje085j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (JP-market ref not verified)"
+   ]
+  },
+  {
+   "id": "spb241",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation SPB241",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Aug 2021–",
+   "ref_primary": "SPB241J1",
+   "ref_jp": null,
+   "ref_intl": "SPB241J1",
+   "ref_us": "SPB241",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb241j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb241j1"
+   },
+   "dial_colors": [
+    "cream"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet, three-fold clasp with push button",
+   "market": "global",
+   "msrp": {
+    "amount": 750,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+   },
+   "msrp_other": [
+    {
+     "amount": 750,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://www.seikowatches.com/global-en/news/20210225-98736939169"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb241j1",
+   "official_url_status": "global-en page live 2026-10-02 (content verified); not on us-en",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko press release Feb 2021",
+     "url": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb241j1",
+     "tier": "official"
+    },
+    {
+     "title": "Fratello",
+     "url": "https://fratellowatches.com/the-seiko-prospex-1959-alpinist-modern-re-interpretation-collection",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "dial colour from press (Seiko text silent)",
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb243",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation SPB243",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": null,
+   "ref_primary": "SPB243J1",
+   "ref_jp": null,
+   "ref_intl": "SPB243J1",
+   "ref_us": "SPB243",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20210916153513/https://www.seikowatches.com/global-en/products/prospex/spb243j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20210916153513/https://www.seikowatches.com/global-en/products/prospex/spb243j1"
+   },
+   "dial_colors": [
+    "dark grey"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet",
+   "market": "global",
+   "msrp": {
+    "amount": 750,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+   },
+   "msrp_other": [],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://web.archive.org/web/20210916153513/https://www.seikowatches.com/global-en/products/prospex/spb243j1",
+   "official_url_status": "no live product page 2026-10-02; archived global-en page (Wayback 2021-09-16) used",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko press release Feb 2021",
+     "url": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko global product page SPB243J1 (Wayback)",
+     "url": "https://web.archive.org/web/20210916153513/https://www.seikowatches.com/global-en/products/prospex/spb243j1",
+     "tier": "official-archived"
+    }
+   ],
+   "uncertain_fields": [
+    "dial colour from press (Fratello)",
+    "status (inferred)",
+    "ref_jp",
+    "lug width (19mm from sister SPB241)"
+   ]
+  },
+  {
+   "id": "spb245",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation SPB245 (green)",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Aug 2021–",
+   "ref_primary": "SPB245J1",
+   "ref_jp": null,
+   "ref_intl": "SPB245J1",
+   "ref_us": "SPB245",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb245j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb245j1"
+   },
+   "dial_colors": [
+    "green"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "horse leather strap, three-fold clasp with push button",
+   "market": "global",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://www.seikowatches.com/us-en/news/20210225-98736939169"
+   },
+   "msrp_other": [
+    {
+     "amount": 730,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://www.seikowatches.com/global-en/news/20210225-98736939169"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb245j1",
+   "official_url_status": "global-en page live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko press release Feb 2021 ('the green dial version comes with a leather strap')",
+     "url": "https://www.seikowatches.com/us-en/news/20210225-98736939169",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb245j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb259",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation – Seiko 140th Anniversary Limited Edition SPB259",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Oct 2021 (limited)",
+   "ref_primary": "SPB259J1",
+   "ref_jp": null,
+   "ref_intl": "SPB259J1",
+   "ref_us": null,
+   "nickname": "Ginza (140th anniversary)",
+   "dial_story": {
+    "text": "Seiko says the blue-grey dial, with two overlaid sunray patterns, captures the cobblestones of Ginza, Tokyo (where Seiko began), and the seconds hand is in Komparu colour, a traditional blue-green named after Ginza's Komparu Street.",
+    "source_url": "https://www.seikowatches.com/global-en/news/20210907",
+    "names_specific_place": true,
+    "landscape_kind": "urban (Ginza cobblestones) – not a natural landscape"
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb259j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb259j1"
+   },
+   "dial_colors": [
+    "blue-grey cobblestone pattern",
+    "Komparu (blue-green) seconds hand"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 750,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://www.seikowatches.com/global-en/news/20210907"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 3500
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb259j1",
+   "official_url_status": "global-en page live 2026-10-02 (marked Limited, 3,500)",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global press release 7 Sep 2021",
+     "url": "https://www.seikowatches.com/global-en/news/20210907",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb259j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "US MSRP"
+   ]
+  },
+  {
+   "id": "spb155",
+   "name": "Prospex Alpinist 38mm SPB155",
+   "series": "Prospex Alpinist (Land) – 38mm",
+   "generation": "38mm Alpinist (6R35, no compass crown)",
+   "year_intro": 2020,
+   "production_period": null,
+   "ref_primary": "SPB155J1",
+   "ref_jp": null,
+   "ref_intl": "SPB155J1",
+   "ref_us": "SPB155",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb155j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.0,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb155j1"
+   },
+   "dial_colors": [
+    "green (granulated texture, gradient per Time+Tide)",
+    "gold hands"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet",
+   "market": "global",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://timeandtidewatches.com/?p=7904"
+   },
+   "msrp_other": [
+    {
+     "amount": 725,
+     "currency": "USD",
+     "year": 2026,
+     "note": "current price on Seiko US page",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb155j1"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb155j1",
+   "official_url_status": "us-en and global-en live 2026-10-02; US price shown USD 725",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb155j1",
+     "tier": "official"
+    },
+    {
+     "title": "Time+Tide intro",
+     "url": "https://timeandtidewatches.com/?p=7904",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp",
+    "launch month (Time+Tide intro 19 Sep 2020)",
+    "launch MSRP source is press (aBlogtoWatch/Time+Tide), not Seiko"
+   ]
+  },
+  {
+   "id": "spb157",
+   "name": "Prospex Alpinist 38mm SPB157",
+   "series": "Prospex Alpinist (Land) – 38mm",
+   "generation": "38mm Alpinist (6R35, no compass crown)",
+   "year_intro": 2020,
+   "production_period": null,
+   "ref_primary": "SPB157J1",
+   "ref_jp": null,
+   "ref_intl": "SPB157J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb157j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.0,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb157j1"
+   },
+   "dial_colors": [
+    "blue"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "cow leather strap",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 1050,
+     "currency": "AUD",
+     "year": 2020,
+     "source": "https://timeandtidewatches.com/?p=7904"
+    },
+    {
+     "amount": 77000,
+     "currency": "JPY",
+     "tax": "incl.",
+     "ref": "SBDC117",
+     "year": 2022,
+     "source": "https://nlab.itmedia.co.jp/fav/articles/3919830/"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb157j1",
+   "official_url_status": "global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb157j1",
+     "tier": "official"
+    },
+    {
+     "title": "Time+Tide intro",
+     "url": "https://timeandtidewatches.com/?p=7904",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (SBDC117 = blue 38mm on leather per ITmedia, likely equivalent)",
+    "msrp USD"
+   ]
+  },
+  {
+   "id": "spb159",
+   "name": "Prospex Alpinist 38mm SPB159",
+   "series": "Prospex Alpinist (Land) – 38mm",
+   "generation": "38mm Alpinist (6R35, no compass crown)",
+   "year_intro": 2020,
+   "production_period": null,
+   "ref_primary": "SPB159J1",
+   "ref_jp": null,
+   "ref_intl": "SPB159J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb159j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.0,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb159j1"
+   },
+   "dial_colors": [
+    "charcoal grey"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "cow leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 700,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://timeandtidewatches.com/?p=7904"
+   },
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb159j1",
+   "official_url_status": "global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb159j1",
+     "tier": "official"
+    },
+    {
+     "title": "Time+Tide intro",
+     "url": "https://timeandtidewatches.com/?p=7904",
+     "tier": "press"
+    },
+    {
+     "title": "aBlogtoWatch review 15 Oct 2021",
+     "url": "https://www.ablogtowatch.com/seiko-baby-alpinist-spb155-and-spb157-review/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb211",
+   "name": "Prospex Alpinist 38mm SPB211",
+   "series": "Prospex Alpinist (Land) – 38mm",
+   "generation": "38mm Alpinist (6R35, no compass crown)",
+   "year_intro": 2020,
+   "production_period": null,
+   "ref_primary": "SPB211J1",
+   "ref_jp": null,
+   "ref_intl": "SPB211J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb211j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.0,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb211j1"
+   },
+   "dial_colors": [],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "nylon strap",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb211j1",
+   "official_url_status": "global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb211j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "dial_colors",
+    "year_intro",
+    "is it marketed as Alpinist? Seiko page lists only 'Prospex Land'"
+   ]
+  },
+  {
+   "id": "spb209",
+   "name": "Prospex Alpinist SPB209",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": null,
+   "ref_primary": "SPB209J1",
+   "ref_jp": null,
+   "ref_intl": "SPB209J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb209j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb209j1"
+   },
+   "dial_colors": [
+    "brown gradient",
+    "gilt markers"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "cow leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 725,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://professionalwatches.com/2021-seiko-alpinist-spb210-and-spb209/"
+   },
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb209j1",
+   "official_url_status": "global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb209j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "launch MSRP from dealer blog (professionalwatches.com, 5 Apr 2021)",
+    "strap colour (black per dealer)"
+   ]
+  },
+  {
+   "id": "spb289",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation SPB289 (Seiko Boutique exclusive)",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": null,
+   "production_period": null,
+   "ref_primary": "SPB289J1",
+   "ref_jp": null,
+   "ref_intl": "SPB289J1",
+   "ref_us": null,
+   "nickname": "'Mystic Forest' (retailer naming only)",
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb289j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb289j1"
+   },
+   "dial_colors": [
+    "green textured (retailer)"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "steel bracelet + brown leather strap (retailer)",
+   "market": "Seiko Boutique exclusive",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb289j1",
+   "official_url_status": "global-en live 2026-10-02, labelled 'Seiko Boutique exclusive model'",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb289j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "dial colour, strap and nickname from retailers (Belmont, Skeies)",
+    "year_intro (SPB289JC seen on Seiko JP site in Feb 2022 Wayback snapshot)",
+    "msrp (retailer says USD 875)"
+   ]
+  },
+  {
+   "id": "spb377",
+   "name": "Prospex Alpinist Mechanical GMT SPB377",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2023,
+   "production_period": "Oct 2023–",
+   "ref_primary": "SPB377J1",
+   "ref_jp": null,
+   "ref_intl": "SPB377J1",
+   "ref_us": "SPB377",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb377j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb377j1"
+   },
+   "dial_colors": [
+    "blue"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring (crown at 4)"
+   },
+   "gmt": true,
+   "strap_bracelet": "blue cow leather strap, three-fold clasp",
+   "market": "global",
+   "msrp": {
+    "amount": 1150,
+    "currency": "USD",
+    "year": 2023,
+    "source": "https://www.timeandwatches.com/2023/09/seiko-prospex-alpinist-automatic-gmt.html",
+    "note": "launch price per press; same price on live Seiko US page 2026-10-02"
+   },
+   "msrp_other": [
+    {
+     "amount": 1200,
+     "currency": "EUR",
+     "year": 2023,
+     "source": "https://www.timeandwatches.com/2023/09/seiko-prospex-alpinist-automatic-gmt.html"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb377j1",
+   "official_url_status": "us-en live 2026-10-02, USD 1,150",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb377j1",
+     "tier": "official"
+    },
+    {
+     "title": "Fratello intro",
+     "url": "https://www.fratellowatches.com/introducing-the-seiko-prospex-spb377-and-spb379-also-known-as-the-new-alpinist-gmts/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp (JP-market GMT refs HBC008J/HBC009J may correspond; SBEJ005 is the green JP model, not SPB377)",
+    "launch date (Fratello: Oct 2023; Seiko 2023-03-08 press says 6R54 introduced 2023)",
+    "launch MSRP"
+   ]
+  },
+  {
+   "id": "spb379",
+   "name": "Prospex Alpinist Mechanical GMT SPB379",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2023,
+   "production_period": "Oct 2023–",
+   "ref_primary": "SPB379J1",
+   "ref_jp": null,
+   "ref_intl": "SPB379J1",
+   "ref_us": "SPB379",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb379j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb379j1"
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring (crown at 4)"
+   },
+   "gmt": true,
+   "strap_bracelet": "black cow leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 1150,
+    "currency": "USD",
+    "year": 2023,
+    "source": "https://www.timeandwatches.com/2023/09/seiko-prospex-alpinist-automatic-gmt.html",
+    "note": "launch price per press; unchanged on Seiko US page 2026"
+   },
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb379j1",
+   "official_url_status": "us-en live 2026-10-02, USD 1,150",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb379j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "launch date",
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb409",
+   "name": "Prospex Alpinist GMT – Seiko Watchmaking 110th Anniversary Limited Edition SPB409",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2023,
+   "production_period": "Oct 2023 (limited)",
+   "ref_primary": "SPB409J1",
+   "ref_jp": null,
+   "ref_intl": "SPB409J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": {
+    "text": "Seiko says it honours the 1913 Laurel, Seiko's first wristwatch: blue hands on a light dial, with a red mark at north on the compass ring as a nod to the Laurel.",
+    "source_url": "https://www.seikowatches.com/us-en/news/20230906",
+    "names_specific_place": false,
+    "landscape_kind": "none (heritage tribute)"
+   },
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/news/20230906"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/news/20230906"
+   },
+   "dial_colors": [
+    "light (white/silver)",
+    "blue hands",
+    "red north marker"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring (crown at 4)"
+   },
+   "gmt": true,
+   "strap_bracelet": "stainless steel bracelet + extra LWG leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 1300,
+    "currency": "USD",
+    "year": 2023,
+    "source": "https://www.seikowatches.com/us-en/news/20230906"
+   },
+   "msrp_other": [],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 3000
+   },
+   "official_url": "https://www.seikowatches.com/us-en/news/20230906",
+   "official_url_status": "no product page found; press release live",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US press release 6 Sep 2023",
+     "url": "https://www.seikowatches.com/us-en/news/20230906",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb503",
+   "name": "Prospex Alpinist Mechanical SPB503 (teal)",
+   "series": "Prospex Alpinist (Land) – Alpinist Mechanical",
+   "generation": "Alpinist 6R55 (2025)",
+   "year_intro": 2025,
+   "production_period": null,
+   "ref_primary": "SPB503J1",
+   "ref_jp": "SBDC207 or SBDC209",
+   "ref_intl": "SPB503J1",
+   "ref_us": "SPB503",
+   "nickname": null,
+   "dial_story": {
+    "text": "Seiko Italy says SPB503 is inspired by a 2003 limited edition made with SSASS (Seven Summits Actions for Sustainable Society), the environmental group founded by alpinist Ken Noguchi, which cleans up Everest and Mount Fuji.",
+    "source_url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+    "names_specific_place": true,
+    "landscape_kind": "mountains (Everest / Mt Fuji link via SSASS)"
+   },
+   "movement": {
+    "caliber": "6R55",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb503j1",
+    "date_note": "Seiko product spec lists only stop-seconds, but Seiko Italy press says date at 3 with magnifier"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.7,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating (Diashield in JP)",
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb503j1"
+   },
+   "dial_colors": [
+    "teal blue (blue-green)"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass ring (Seiko US/global: 'Rotating compass bezel'; Seiko JP: inner rotating ring with simple compass; Seiko Italy: bidirectional rotating rehaut)"
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet, three-fold clasp with push button",
+   "market": "global",
+   "msrp": {
+    "amount": 995,
+    "currency": "USD",
+    "year": 2026,
+    "note": "current Seiko US page price",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb503j1"
+   },
+   "msrp_other": [
+    {
+     "amount": 990,
+     "currency": "EUR",
+     "country": "Italy",
+     "year": 2025,
+     "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+    },
+    {
+     "amount": 147400,
+     "currency": "JPY",
+     "tax": "incl.",
+     "note": "SBDC207/209 current JP price",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbdc207"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb503j1",
+   "official_url_status": "us-en live 2026-10-02",
+   "design_notes": [
+    "First Alpinist with 6R55 (Seiko Italy).",
+    "'Alpinist' logo on dial below Seiko logo, first time for the collection (Seiko Italy).",
+    "Stylised mountain on see-through caseback."
+   ],
+   "sources": [
+    {
+     "title": "Seiko Italy press release 2025 (PDF)",
+     "url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb503j1",
+     "tier": "official"
+    },
+    {
+     "title": "Time+Tide hands-on",
+     "url": "https://timeandtidewatches.com/seiko-prospex-alpinist-spb503-spb505-spb507-hands-on/",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "exact launch date (Nov 2025 per brief/press; not confirmed by Seiko document)",
+    "ref_jp mapping between SBDC207/209"
+   ]
+  },
+  {
+   "id": "spb505",
+   "name": "Prospex Alpinist Mechanical SPB505 (black)",
+   "series": "Prospex Alpinist (Land) – Alpinist Mechanical",
+   "generation": "Alpinist 6R55 (2025)",
+   "year_intro": 2025,
+   "production_period": null,
+   "ref_primary": "SPB505J1",
+   "ref_jp": "SBDC207 or SBDC209",
+   "ref_intl": "SPB505J1",
+   "ref_us": "SPB505",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R55",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb505j1",
+    "date_note": "Seiko product spec lists only stop-seconds, but Seiko Italy press says date at 3 with magnifier"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.7,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating (Diashield in JP)",
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb505j1"
+   },
+   "dial_colors": [
+    "black"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass ring (Seiko US/global: 'Rotating compass bezel'; Seiko JP: inner rotating ring with simple compass; Seiko Italy: bidirectional rotating rehaut)"
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet",
+   "market": "global",
+   "msrp": {
+    "amount": 995,
+    "currency": "USD",
+    "year": 2026,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb505j1"
+   },
+   "msrp_other": [
+    {
+     "amount": 990,
+     "currency": "EUR",
+     "country": "Italy",
+     "year": 2025,
+     "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb505j1",
+   "official_url_status": "us-en live",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Italy press release 2025",
+     "url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb505j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp mapping"
+   ]
+  },
+  {
+   "id": "spb507",
+   "name": "Prospex Alpinist Mechanical SPB507 (green)",
+   "series": "Prospex Alpinist (Land) – Alpinist Mechanical",
+   "generation": "Alpinist 6R55 (2025)",
+   "year_intro": 2025,
+   "production_period": null,
+   "ref_primary": "SPB507J1",
+   "ref_jp": "SBDC211",
+   "ref_intl": "SPB507J1",
+   "ref_us": "SPB507",
+   "nickname": "new version of the 'Green Alpinist' (Seiko Italy)",
+   "dial_story": {
+    "text": "Seiko Italy says the deep green recalls dense conifer forests and broad mountain slopes; the 2025 press also recounts that the green dial first appeared in 1995 and was nicknamed 'Green Alpinist' in Japan.",
+    "source_url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+    "names_specific_place": false,
+    "landscape_kind": "conifer forest / mountain slopes"
+   },
+   "movement": {
+    "caliber": "6R55",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb507j1",
+    "date_note": "Seiko product spec lists only stop-seconds, but Seiko Italy press says date at 3 with magnifier"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.7,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating (Diashield in JP)",
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb507j1"
+   },
+   "dial_colors": [
+    "green",
+    "gold accents"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass ring (Seiko US/global: 'Rotating compass bezel'; Seiko JP: inner rotating ring with simple compass; Seiko Italy: bidirectional rotating rehaut)"
+   },
+   "gmt": false,
+   "strap_bracelet": "brown leather strap (LWG-certified), three-fold clasp",
+   "market": "global",
+   "msrp": {
+    "amount": 900,
+    "currency": "USD",
+    "year": 2026,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb507j1"
+   },
+   "msrp_other": [
+    {
+     "amount": 950,
+     "currency": "EUR",
+     "country": "Italy",
+     "year": 2025,
+     "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+    },
+    {
+     "amount": 130900,
+     "currency": "JPY",
+     "tax": "incl.",
+     "ref": "SBDC211",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbdc211"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb507j1",
+   "official_url_status": "us-en live",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Italy press release 2025",
+     "url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb507j1",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko Japan SBDC211",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/sbdc211",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "ref_jp SBDC211 matched as the only leather 6R55 Alpinist in JP"
+   ]
+  },
+  {
+   "id": "spb531",
+   "name": "Prospex Alpinist Limited Edition SPB531 (Europe)",
+   "series": "Prospex Alpinist (Land) – European limited edition",
+   "generation": "Alpinist 2025 (6R35 variant)",
+   "year_intro": 2025,
+   "production_period": null,
+   "ref_primary": "SPB531J1",
+   "ref_jp": null,
+   "ref_intl": "SPB531J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": {
+    "text": "Seiko Italy says the deep blue dial with fine vertical texture takes its palette from the night sky over the Matterhorn (Monte Cervino), evoking clear nights at altitude.",
+    "source_url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+    "names_specific_place": true,
+    "landscape_kind": "alpine peak / night sky"
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+   },
+   "case": {
+    "diameter_mm": 39.45,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+   },
+   "dial_colors": [
+    "deep blue, vertical texture"
+   ],
+   "compass": {
+    "has": true,
+    "type": "bidirectional rotating compass rehaut"
+   },
+   "gmt": false,
+   "strap_bracelet": "navy blue leather + blue nylon strap",
+   "market": "Europe only",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 890,
+     "currency": "EUR",
+     "country": "Italy",
+     "year": 2025,
+     "source": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 2000
+   },
+   "official_url": null,
+   "official_url_status": "it-it/products/prospex/spb531j1 (linked in press) returns Seiko 404 page on 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Italy press release 2025",
+     "url": "https://www.seikowatches.com/it-it/-/media/Files/Italy/Seiko/Comunicati_Stampa_2025/Comunicato_Seiko_nuovi--Alpinist.pdf",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "thickness, lug-to-lug, lug width",
+    "launch month"
+   ]
+  },
+  {
+   "id": "spb249",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation 'Deep Lake' SPB249",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Jan 2022–",
+   "ref_primary": "SPB249J1",
+   "ref_jp": null,
+   "ref_intl": "SPB249J1",
+   "ref_us": "SPB249",
+   "nickname": "Deep Lake (name used by Seiko UK-region retail copy and press; not shown on Seiko global/US product pages)",
+   "dial_story": {
+    "text": "Retailer copy that appears to come from Seiko UK says the colour is inspired by peaceful alpine lakes deep in the mountains. Seiko's global and US product pages carry no dial-story text, and no Seiko press release was found.",
+    "source_url": "https://www.firstclasswatches.co.uk/seiko-prospex-deep-lake-alpinist-automatic-watch-spb249j1-p-81873/",
+    "names_specific_place": false,
+    "landscape_kind": "alpine lake",
+    "verified_official": false
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb249j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb249j1"
+   },
+   "dial_colors": [
+    "deep blue with vertical texture (Monochrome)"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet, three-fold clasp",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 750,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/"
+    },
+    {
+     "amount": 750,
+     "currency": "USD",
+     "year": 2026,
+     "note": "current Seiko US page price",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb249j1"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb249j1",
+   "official_url_status": "us-en and global-en live 2026-10-02 (content verified)",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb249j1",
+     "tier": "official"
+    },
+    {
+     "title": "Monochrome, 15 Dec 2021",
+     "url": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/",
+     "tier": "press"
+    },
+    {
+     "title": "First Class Watches retailer copy",
+     "url": "https://www.firstclasswatches.co.uk/seiko-prospex-deep-lake-alpinist-automatic-watch-spb249j1-p-81873/",
+     "tier": "retailer"
+    }
+   ],
+   "uncertain_fields": [
+    "dial_story (retailer copy, not a Seiko-hosted page)",
+    "nickname official status",
+    "launch US MSRP",
+    "ref_jp"
+   ]
+  },
+  {
+   "id": "spb251",
+   "name": "Prospex 1959 Alpinist Modern Re-interpretation 'Forest Brown' SPB251",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": "Jan 2022–?",
+   "ref_primary": "SPB251J1",
+   "ref_jp": null,
+   "ref_intl": "SPB251J1",
+   "ref_us": null,
+   "nickname": "Forest Brown (retailer copy and press)",
+   "dial_story": {
+    "text": "Retailer copy that appears to come from Seiko UK says the colour is inspired by the rich browns of tree bark in alpine forests. Not found on a Seiko-hosted page.",
+    "source_url": "https://www.james-porter.co.uk/prospex-forest-brown-alpinist-spb251j1-5501229.html",
+    "names_specific_place": false,
+    "landscape_kind": "alpine forest (tree bark)",
+    "verified_official": false
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.2,
+    "lug_width_mm": 19,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/"
+   },
+   "dial_colors": [
+    "brown with vertical texture"
+   ],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "brown leather strap, folding clasp",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 730,
+     "currency": "EUR",
+     "year": 2021,
+     "source": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/"
+    }
+   ],
+   "status": "discontinued",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": null,
+   "official_url_status": "no live Seiko product page found (us-en, global-en, EU locales) 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Monochrome, 15 Dec 2021",
+     "url": "https://monochrome-watches.com/seiko-prospex-1959-alpinist-modern-re-interpretation-spb249j1-spb251j1-hands-on-price/",
+     "tier": "press"
+    },
+    {
+     "title": "James Porter retailer copy",
+     "url": "https://www.james-porter.co.uk/prospex-forest-brown-alpinist-spb251j1-5501229.html",
+     "tier": "retailer"
+    }
+   ],
+   "uncertain_fields": [
+    "dial_story (retailer copy)",
+    "status (inferred from absence of page)",
+    "case dims assumed same as SPB249 per Monochrome"
+   ]
+  },
+  {
+   "id": "hbc006",
+   "name": "Prospex Alpinist Mechanical – Seiko 145th Anniversary Limited Edition (Edo purple) HBC006",
+   "series": "Prospex Alpinist (Land) – Alpinist Mechanical",
+   "generation": "Alpinist 6R55",
+   "year_intro": 2026,
+   "production_period": "Oct 2026 (limited)",
+   "ref_primary": "HBC006J1",
+   "ref_jp": "HBC006J",
+   "ref_intl": "HBC006J1",
+   "ref_us": "HBC006",
+   "nickname": "Edo purple (145th anniversary)",
+   "dial_story": {
+    "text": "Seiko says the dial colour is inspired by Edo purple, a traditional colour from the Edo period that it presents as a symbol of the culture passed from Edo to modern Tokyo; gold accents on the logo and seconds hand mark the anniversary.",
+    "source_url": "https://www.seikowatches.com/us-en/news/2026/pr/20260806",
+    "names_specific_place": true,
+    "landscape_kind": "cultural/urban (Edo/Tokyo) – not a natural landscape"
+   },
+   "movement": {
+    "caliber": "6R55",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/news/2026/pr/20260806"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 12.7,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/hbc006j1"
+   },
+   "dial_colors": [
+    "Edo purple",
+    "gold accents"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "leather strap with purple stitching (LWG), three-fold clasp",
+   "market": "global (1,000 of 7,000 for Japan)",
+   "msrp": {
+    "amount": 900,
+    "currency": "USD",
+    "year": 2026,
+    "source": "https://www.seikowatches.com/us-en/news/2026/pr/20260806"
+   },
+   "msrp_other": [
+    {
+     "amount": 130900,
+     "currency": "JPY",
+     "tax": "incl.",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc006j"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 7000
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/hbc006j1",
+   "official_url_status": "us-en live 2026-10-02, 'October 2026 Release'",
+   "design_notes": [
+    "Seiko switched to new 'HBC' reference numbers for 2026 Prospex releases (same ref in JP with 'J' suffix)."
+   ],
+   "sources": [
+    {
+     "title": "Seiko US press release 6 Aug 2026",
+     "url": "https://www.seikowatches.com/us-en/news/2026/pr/20260806",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/hbc006j1",
+     "tier": "official"
+    },
+    {
+     "title": "Seiko Japan product page",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/hbc006j",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": []
+  },
+  {
+   "id": "hbc007",
+   "name": "Prospex Alpinist Mechanical GMT HBC007 (green)",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2026,
+   "production_period": "Jul 2026– (press)",
+   "ref_primary": "HBC007J1",
+   "ref_jp": "SBEJ005 (JP, since 2023, per press)",
+   "ref_intl": "HBC007J1",
+   "ref_us": "HBC007",
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/hbc007j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/hbc007j1"
+   },
+   "dial_colors": [
+    "green",
+    "gilt accents (press)"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring; 24-hour scale on fixed bezel"
+   },
+   "gmt": true,
+   "strap_bracelet": "cow leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 1150,
+    "currency": "USD",
+    "year": 2026,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/hbc007j1"
+   },
+   "msrp_other": [
+    {
+     "amount": 1100,
+     "currency": "GBP",
+     "source": "https://www.seikowatches.com/uk-en/products/prospex/hbc007j1"
+    },
+    {
+     "amount": 1240,
+     "currency": "EUR",
+     "country": "DE/FR/IT",
+     "source": "https://www.seikowatches.com/de-de/products/prospex/hbc007j1"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/hbc007j1",
+   "official_url_status": "us-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/hbc007j1",
+     "tier": "official"
+    },
+    {
+     "title": "Mr Stateless, 10 Jun 2026",
+     "url": "https://mrstateless.com/seikos-latest-alpinist-gmt-returns-to-its-roots-with-a-green-dial/",
+     "tier": "press"
+    },
+    {
+     "title": "Notebookcheck",
+     "url": "https://notebookcheck.net/Seiko-s-iconic-green-Alpinist-GMT-finally-gets-an-international-release-as-the-Prospex-HBC007.1319182.0.html",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "equivalence to SBEJ005 (press claim; Seiko JP page has same specs/weight but colour not stated in text)",
+    "exact release month"
+   ]
+  },
+  {
+   "id": "sbej005",
+   "name": "Prospex Alpinist Mechanical GMT SBEJ005 (Japan)",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2023,
+   "production_period": null,
+   "ref_primary": "SBEJ005",
+   "ref_jp": "SBEJ005",
+   "ref_intl": null,
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbej005"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbej005"
+   },
+   "dial_colors": [
+    "green (press)"
+   ],
+   "compass": {
+    "has": true,
+    "type": "簡易方位計つき内転リング (inner rotating ring with simple compass)"
+   },
+   "gmt": true,
+   "strap_bracelet": "cow leather",
+   "market": "Japan (Seiko Global Brand Core Shops)",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 155100,
+     "currency": "JPY",
+     "tax": "incl.",
+     "note": "current JP price 2026-10-02",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/sbej005"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/jp-ja/products/prospex/sbej005",
+   "official_url_status": "jp-ja live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Japan product page",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/sbej005",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "year_intro 2023 and green dial are press claims (Japan-only green GMT per Time and Watches / Notebookcheck)",
+    "launch price"
+   ]
+  },
+  {
+   "id": "hbc008j",
+   "name": "Prospex Alpinist Mechanical GMT HBC008J (Japan)",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2026,
+   "production_period": null,
+   "ref_primary": "HBC008J",
+   "ref_jp": "HBC008J",
+   "ref_intl": null,
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc008j"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc008j"
+   },
+   "dial_colors": [],
+   "compass": {
+    "has": true,
+    "type": "inner rotating compass ring"
+   },
+   "gmt": true,
+   "strap_bracelet": "cow leather",
+   "market": "Japan",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 155100,
+     "currency": "JPY",
+     "tax": "incl.",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc008j"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/jp-ja/products/prospex/hbc008j",
+   "official_url_status": "jp-ja live 2026-10-02, marked New",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Japan product page",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/hbc008j",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "dial colour",
+    "whether these are JP re-numberings of SPB377/SPB379",
+    "year_intro (marked New in 2026)"
+   ]
+  },
+  {
+   "id": "hbc009j",
+   "name": "Prospex Alpinist Mechanical GMT HBC009J (Japan)",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2026,
+   "production_period": null,
+   "ref_primary": "HBC009J",
+   "ref_jp": "HBC009J",
+   "ref_intl": null,
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc009j"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.6,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "super hard coating",
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc009j"
+   },
+   "dial_colors": [],
+   "compass": {
+    "has": true,
+    "type": "inner rotating compass ring"
+   },
+   "gmt": true,
+   "strap_bracelet": "cow leather",
+   "market": "Japan",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 155100,
+     "currency": "JPY",
+     "tax": "incl.",
+     "source": "https://www.seikowatches.com/jp-ja/products/prospex/hbc009j"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/jp-ja/products/prospex/hbc009j",
+   "official_url_status": "jp-ja live 2026-10-02, marked New",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko Japan product page",
+     "url": "https://www.seikowatches.com/jp-ja/products/prospex/hbc009j",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "dial colour",
+    "whether these are JP re-numberings of SPB377/SPB379",
+    "year_intro (marked New in 2026)"
+   ]
+  },
+  {
+   "id": "spb337",
+   "name": "Prospex Alpinist The Black Series Limited Edition 'Night Vision' SPB337",
+   "series": "Prospex Alpinist (Land) – The Black Series",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2023,
+   "production_period": "2023 (limited)",
+   "ref_primary": "SPB337J1",
+   "ref_jp": null,
+   "ref_intl": "SPB337J1",
+   "ref_us": null,
+   "nickname": "Night Vision (Seiko: 'The Black Series. A concept of night vision')",
+   "dial_story": {
+    "text": "Seiko says the green Lumibrite Pro glowing on the black dial gives the impression of looking through a night-vision scope.",
+    "source_url": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1",
+    "names_specific_place": false,
+    "landscape_kind": "none (night/night-vision concept)"
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": "hard coating",
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": "4,800 A/m",
+    "caseback": "see-through screw case back",
+    "source": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1"
+   },
+   "dial_colors": [
+    "black",
+    "green Lumibrite Pro"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet, three-fold clasp",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 5500
+   },
+   "official_url": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1",
+   "official_url_status": "not live 2026-10-02; Wayback 2023-11-13 snapshot",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page SPB337J1 (Wayback)",
+     "url": "https://web.archive.org/web/20231113044729/https://www.seikowatches.com/global-en/products/prospex/spb337j1",
+     "tier": "official-archived"
+    }
+   ],
+   "uncertain_fields": [
+    "launch date (retailers: April 2023)",
+    "msrp",
+    "case colour/PVD (retailers say black PVD; Seiko spec says 'stainless steel (hard coating)')"
+   ]
+  },
+  {
+   "id": "spb355",
+   "name": "Prospex Alpinist Limited Edition 'Rock Face' SPB355",
+   "series": "Prospex Alpinist (Land) – European limited edition",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2022,
+   "production_period": "Nov 2022 (limited)",
+   "ref_primary": "SPB355J1",
+   "ref_jp": null,
+   "ref_intl": "SPB355J1",
+   "ref_us": null,
+   "nickname": "Rock Face",
+   "dial_story": {
+    "text": "Press reports say the textured silver dial is inspired by mountain rock walls. Monochrome links the name to climber Stefano Ghisolfi, who wore the watch on the granite route 'Silence' in Flatanger, Norway. No Seiko-hosted text was found.",
+    "source_url": "https://monochrome-watches.com/the-european-only-seiko-prospex-alpinist-rock-face-spb355j1-live-pics-price/",
+    "names_specific_place": true,
+    "landscape_kind": "rock face / climbing wall",
+    "verified_official": false
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://monochrome-watches.com/the-european-only-seiko-prospex-alpinist-rock-face-spb355j1-live-pics-price/"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with date magnifier",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://monochrome-watches.com/the-european-only-seiko-prospex-alpinist-rock-face-spb355j1-live-pics-price/"
+   },
+   "dial_colors": [
+    "silver textured",
+    "blue hands and indices"
+   ],
+   "compass": {
+    "has": true,
+    "type": "inner rotating compass ring (anthracite, white and blue scales)"
+   },
+   "gmt": false,
+   "strap_bracelet": "sand-grey textile strap + blue calfskin strap",
+   "market": "Europe only",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 930,
+     "currency": "EUR",
+     "year": 2022,
+     "source": "https://monochrome-watches.com/the-european-only-seiko-prospex-alpinist-rock-face-spb355j1-live-pics-price/"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 3000
+   },
+   "official_url": null,
+   "official_url_status": "no Seiko page found",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Monochrome, 9 Sep 2022",
+     "url": "https://monochrome-watches.com/the-european-only-seiko-prospex-alpinist-rock-face-spb355j1-live-pics-price/",
+     "tier": "press"
+    },
+    {
+     "title": "Fratello",
+     "url": "https://fratellowatches.com/seiko-prospex-alpinist-spb355j1-rock-face",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "dial_story (press only)",
+    "Ghisolfi link to the name"
+   ]
+  },
+  {
+   "id": "spb435",
+   "name": "Prospex Alpinist 'Save the Forest – Bamboo Grove' Thailand Limited Edition SPB435",
+   "series": "Prospex Alpinist (Land) – 1959 Alpinist Modern Re-interpretation (regional LE)",
+   "generation": "1959 Modern Re-interpretation (38mm, 6R35) – per retailer naming",
+   "year_intro": 2023,
+   "production_period": null,
+   "ref_primary": "SPB435J1",
+   "ref_jp": null,
+   "ref_intl": "SPB435J1",
+   "ref_us": null,
+   "nickname": "Bamboo Grove",
+   "dial_story": {
+    "text": "Retailer copy says the green dial takes its shade from young bamboo leaves, with a pattern based on woven bamboo craft, and that it honours bamboo forests in Thai culture. No Seiko-hosted page was found.",
+    "source_url": "https://www.watchoutz.com/collections/seiko-prospex-alpinist/products/seiko-prospex-automatic-alpinist-laurel-1959-re-creation-series-save-the-forest-bamboo-grove-thailand-limited-edition-spb435",
+    "names_specific_place": true,
+    "landscape_kind": "bamboo forest (Thailand)",
+    "verified_official": false
+   },
+   "movement": null,
+   "case": null,
+   "dial_colors": [
+    "bamboo green, woven-bamboo pattern",
+    "gold-coated hands"
+   ],
+   "compass": {
+    "has": null,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "stainless steel bracelet (retailer)",
+   "market": "Thailand only",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 30510,
+     "currency": "THB",
+     "note": "current King Power retail, not launch",
+     "source": "https://www.kingpower.com/product/seiko-save-the-forest-alpinist-bamboo-grove-limited-edition-model-spb-435-j"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 1000
+   },
+   "official_url": null,
+   "official_url_status": "no Seiko page found in th-th/th-en/global",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Watchoutz retailer listing",
+     "url": "https://www.watchoutz.com/collections/seiko-prospex-alpinist/products/seiko-prospex-automatic-alpinist-laurel-1959-re-creation-series-save-the-forest-bamboo-grove-thailand-limited-edition-spb435",
+     "tier": "retailer"
+    },
+    {
+     "title": "King Power Thailand listing",
+     "url": "https://www.kingpower.com/product/seiko-save-the-forest-alpinist-bamboo-grove-limited-edition-model-spb-435-j",
+     "tier": "retailer"
+    },
+    {
+     "title": "Bangkok Post 'A tribute to the forest' (paywalled, not read)",
+     "url": "https://www.bangkokpost.com/life/social-and-lifestyle/2735095/a-tribute-to-the-forest",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "ALL fields retailer-sourced; existence of the 'bamboo forest' Alpinist is confirmed only at retailer/press level",
+    "year_intro",
+    "movement/case (6R35 38mm assumed by base model; not set)"
+   ]
+  },
+  {
+   "id": "spb493",
+   "name": "Prospex Alpinist GMT Asia Limited Edition 'Hornbill' SPB493",
+   "series": "Prospex Alpinist (Land) – Mechanical GMT (regional LE)",
+   "generation": "Alpinist Mechanical GMT (6R54)",
+   "year_intro": 2025,
+   "production_period": "Feb 2025 (limited)",
+   "ref_primary": "SPB493J1",
+   "ref_jp": null,
+   "ref_intl": "SPB493J1",
+   "ref_us": null,
+   "nickname": "Hornbill",
+   "dial_story": {
+    "text": "Press quoting Seiko material says the woven texture in the centre of the black dial is inspired by the feather patterns of the hornbill, a Southeast Asian bird.",
+    "source_url": "https://teddybaldassarre.com/en-int/blogs/watches/seiko-alpinist-gmt-spb493j-limited-edition",
+    "names_specific_place": false,
+    "landscape_kind": "wildlife (hornbill), Southeast Asia",
+    "verified_official": false
+   },
+   "movement": {
+    "caliber": "6R54",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 72,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": true,
+    "date": true,
+    "source": "https://teddybaldassarre.com/en-int/blogs/watches/seiko-alpinist-gmt-spb493j-limited-edition"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": null,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": null,
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://teddybaldassarre.com/en-int/blogs/watches/seiko-alpinist-gmt-spb493j-limited-edition"
+   },
+   "dial_colors": [
+    "black woven texture",
+    "green inner ring",
+    "black bezel"
+   ],
+   "compass": {
+    "has": true,
+    "type": "green inner rotating compass ring"
+   },
+   "gmt": true,
+   "strap_bracelet": "stainless steel bracelet (retailer)",
+   "market": "Asia",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 500
+   },
+   "official_url": null,
+   "official_url_status": "no Seiko page found",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Teddy Baldassarre, 12 Feb 2025",
+     "url": "https://teddybaldassarre.com/en-int/blogs/watches/seiko-alpinist-gmt-spb493j-limited-edition",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "Seiko quote not seen on a Seiko page",
+    "price",
+    "case details"
+   ]
+  },
+  {
+   "id": "spb532",
+   "name": "Prospex Alpinist Limited Edition 'Snowy Mountain' SPB532",
+   "series": "Prospex Alpinist (Land) – regional limited edition",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2025,
+   "production_period": "Dec 2025 (limited)",
+   "ref_primary": "SPB532J1",
+   "ref_jp": null,
+   "ref_intl": "SPB532J1",
+   "ref_us": null,
+   "nickname": "Snowy Mountain",
+   "dial_story": {
+    "text": "Press says the textured white dial evokes fresh powder snow and untouched high-alpine landscapes. No specific mountain is named and no Seiko-hosted page was found.",
+    "source_url": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1",
+    "names_specific_place": false,
+    "landscape_kind": "snow-covered mountains",
+    "verified_official": false
+   },
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": null,
+    "lug_width_mm": null,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": null,
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1"
+   },
+   "dial_colors": [
+    "ice white, powder-snow texture"
+   ],
+   "compass": {
+    "has": true,
+    "type": "inner rotating compass ring (assumed from base model)"
+   },
+   "gmt": false,
+   "strap_bracelet": null,
+   "market": "Singapore, Hong Kong, Macau, Malaysia, Brunei (Thong Sia Group)",
+   "msrp": null,
+   "msrp_other": [
+    {
+     "amount": 1127.1,
+     "currency": "SGD",
+     "source": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1"
+    }
+   ],
+   "status": "limited",
+   "limited": {
+    "is_limited": true,
+    "quantity": 800
+   },
+   "official_url": null,
+   "official_url_status": "no Seiko page found",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Crown Watch Blog, 18 Dec 2025",
+     "url": "https://www.crownwatchblog.com/seiko/introducing-the-seiko-prospex-alpinist-snowy-mountain-ref-spb532j1",
+     "tier": "press"
+    }
+   ],
+   "uncertain_fields": [
+    "launch month (Notebookcheck/gsmgotech date it Oct 2025; Crown Watch Blog Dec 2025)",
+    "compass"
+   ]
+  },
+  {
+   "id": "spb210",
+   "name": "Prospex Alpinist SPB210",
+   "series": "Prospex Alpinist (Land)",
+   "generation": "Prospex Alpinist 2020 (39.5mm, 6R35)",
+   "year_intro": 2021,
+   "production_period": null,
+   "ref_primary": "SPB210J1",
+   "ref_jp": null,
+   "ref_intl": "SPB210J1",
+   "ref_us": "SPB210",
+   "nickname": "'Sunbeam Forest' (UK retailer naming only; not on Seiko pages)",
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb210j1"
+   },
+   "case": {
+    "diameter_mm": 39.5,
+    "thickness_mm": 13.2,
+    "lug_to_lug_mm": 46.4,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "sapphire with magnifier, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/us-en/products/prospex/spb210j1"
+   },
+   "dial_colors": [
+    "green gradient",
+    "gold-tone accents"
+   ],
+   "compass": {
+    "has": true,
+    "type": "rotating compass inner ring"
+   },
+   "gmt": false,
+   "strap_bracelet": "brown cow leather strap",
+   "market": "global",
+   "msrp": {
+    "amount": 775,
+    "currency": "USD",
+    "year": 2021,
+    "source": "https://professionalwatches.com/2021-seiko-alpinist-spb210-and-spb209/"
+   },
+   "msrp_other": [
+    {
+     "amount": 775,
+     "currency": "USD",
+     "year": 2026,
+     "note": "live Seiko US price",
+     "source": "https://www.seikowatches.com/us-en/products/prospex/spb210j1"
+    }
+   ],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/us-en/products/prospex/spb210j1",
+   "official_url_status": "us-en and global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko US product page",
+     "url": "https://www.seikowatches.com/us-en/products/prospex/spb210j1",
+     "tier": "official"
+    },
+    {
+     "title": "Professional Watches (dealer blog), 5 Apr 2021",
+     "url": "https://professionalwatches.com/2021-seiko-alpinist-spb210-and-spb209/",
+     "tier": "retailer"
+    }
+   ],
+   "uncertain_fields": [
+    "case finish: dealer says gold-plated case; Seiko spec says 'Stainless steel'",
+    "nickname"
+   ]
+  },
+  {
+   "id": "spb212",
+   "name": "Prospex Alpinist 38mm SPB212",
+   "series": "Prospex Alpinist (Land) – 38mm",
+   "generation": "38mm Alpinist (6R35, no compass crown)",
+   "year_intro": 2020,
+   "production_period": null,
+   "ref_primary": "SPB212J1",
+   "ref_jp": null,
+   "ref_intl": "SPB212J1",
+   "ref_us": null,
+   "nickname": null,
+   "dial_story": null,
+   "movement": {
+    "caliber": "6R35",
+    "type": "automatic with manual winding",
+    "jewels": 24,
+    "bph": 21600,
+    "power_reserve_h": 70,
+    "accuracy": "+25 to -15 sec/day",
+    "hacking": true,
+    "hand_winding": true,
+    "gmt": false,
+    "date": true,
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb212j1"
+   },
+   "case": {
+    "diameter_mm": 38.0,
+    "thickness_mm": 12.9,
+    "lug_to_lug_mm": 46.0,
+    "lug_width_mm": 20,
+    "material": "stainless steel",
+    "coating": null,
+    "crystal": "curved sapphire, AR coating inner surface",
+    "water_resistance": "20 bar",
+    "magnetic_resistance": null,
+    "caseback": "see-through screw case back",
+    "source": "https://www.seikowatches.com/global-en/products/prospex/spb212j1"
+   },
+   "dial_colors": [],
+   "compass": {
+    "has": false,
+    "type": null
+   },
+   "gmt": false,
+   "strap_bracelet": "nylon strap",
+   "market": "global",
+   "msrp": null,
+   "msrp_other": [],
+   "status": "current",
+   "limited": {
+    "is_limited": false,
+    "quantity": null
+   },
+   "official_url": "https://www.seikowatches.com/global-en/products/prospex/spb212j1",
+   "official_url_status": "global-en live 2026-10-02",
+   "design_notes": [],
+   "sources": [
+    {
+     "title": "Seiko global product page",
+     "url": "https://www.seikowatches.com/global-en/products/prospex/spb212j1",
+     "tier": "official"
+    }
+   ],
+   "uncertain_fields": [
+    "dial_colors",
+    "year_intro",
+    "Alpinist branding (Seiko lists as Prospex Land; sister of SPB211)"
+   ]
+  }
+ ]
+}

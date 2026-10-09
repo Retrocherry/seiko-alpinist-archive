@@ -1,0 +1,233 @@
+{{HEAD}}
+<body>
+<a class="skip" href="#main">Skip to content</a>
+{{NAV}}
+<div class="altimeter" aria-hidden="true"><span>3,776</span><div class="rail"><i style="top:25%"></i><i style="top:50%"></i><i style="top:75%"></i><span class="dot"></span></div><b>0m</b></div>
+
+<main id="main">
+<!-- ============ HERO ============ -->
+<section class="hero" aria-labelledby="hero-title">
+  <div class="bg"><img src="{{HERO_BG}}" alt="{{HERO_BG_ALT}}" fetchpriority="high" decoding="async"></div>
+  <div class="topo" aria-hidden="true"><svg id="hero-topo" viewBox="0 0 665 760" preserveAspectRatio="xMaxYMid meet"></svg></div>
+  <div class="wrap hero-inner">
+    <div>
+      <p class="mono" style="color:var(--gold);margin-bottom:22px;white-space:nowrap">セイコー アルピニスト · 1959 — 2026</p>
+      <h1 id="hero-title"><span class="ln">Built for</span> <span class="ln">the Mountains</span><em class="jp">山の時計</em></h1>
+      <p class="lede">Seiko’s first sports watch, made in 1959 for Japan’s mountain climbers, and every Alpinist since. Reference by reference.</p>
+      <div class="cta"><a class="btn fill" href="#timeline">Begin the ascent ↓</a><a class="btn" href="#models">Browse {{COUNT}} models</a></div>
+    </div>
+    <figure class="hero-watch">
+      <svg class="ring" viewBox="0 0 400 400" aria-hidden="true"><g fill="none" stroke="currentColor"><circle cx="200" cy="200" r="196" stroke-opacity=".35"/><circle cx="200" cy="200" r="182" stroke-opacity=".2" stroke-dasharray="1 5"/></g><g id="hero-ticks"></g></svg>
+      <div class="photo"><img class="ph" src="{{HERO_WATCH}}" alt="{{HERO_WATCH_ALT}}" decoding="async"></div>
+      <span class="callout l" style="top:22%;animation-delay:1.6s">Inner compass ring</span>
+      <span class="callout r" style="top:40%;animation-delay:1.9s">24-hour GMT hand</span>
+      <span class="callout l" style="top:66%;animation-delay:2.2s">Titanium case · 8F56</span>
+      <figcaption class="credit">{{HERO_WATCH_CREDIT}}</figcaption>
+    </figure>
+  </div>
+  <div class="hero-meta"><span>35°21′N 138°43′E</span><span>Background: {{HERO_BG_CREDIT}}</span><span>Elev. 0 m</span></div>
+</section>
+
+<!-- ============ ORIGINS ============ -->
+<section class="sec" id="origins" aria-labelledby="origins-h">
+  <span class="alt-mark">500 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">01 / ORIGINS</span><span class="jp">山と日本</span><h2 id="origins-h">A watch for a mountainous country</h2>
+      <p>Seiko’s first sports watch was made for the people who walked into Japan’s mountains.</p></header>
+    <div class="origin-grid">
+      <div class="rv">
+        <p class="drop">Seiko’s own account is short and specific. In 1959 it introduced the Laurel Alpinist as its first sports watch, for mountaineers and outdoor enthusiasts as climbing and trekking grew in popularity. Seiko lists the features: a screw-back case to keep out dust and sand, a leather pad between watch and wrist, and luminous hands and indices. Above all, the large mountain-peak markers at 3, 6, 9 and 12 stood for the four compass points.</p>
+        <p>Seiko later called that outdoor focus the starting point for its sports watches, a line that led to Japan’s first diver’s watch in 1965. The Alpinist name itself went quiet in the mid-1960s and returned in 1995. The timeline picks up the story from there.</p>
+        <div class="note-box"><strong>What is and isn’t documented.</strong> No Seiko source links the Alpinist to a specific mountain, range or climb. The map that follows is context, not provenance.</div>
+        <p class="mono" style="margin-top:22px;font-size:.62rem;color:var(--steel-d)"><span class="badge sk">Seiko-documented</span> from Seiko’s own pages &nbsp; <span class="badge ctx">Japanese context</span> broader history, not claimed by Seiko</p>
+      </div>
+      <ol class="fact-list rv" aria-label="Key facts">{{FACTS}}</ol>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MAP ============ -->
+<section class="sec dark" id="map" aria-labelledby="map-h">
+  <span class="alt-mark">1,000 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">02 / TERRAIN</span><span class="jp">日本の山岳</span><h2 id="map-h">The mountains of Japan</h2>
+      <p>The peaks at the heart of Japanese mountaineering. Select a peak or use the list.</p></header>
+    <div class="map-wrap">
+      <div class="map-stage rv">
+        <svg id="map-svg" viewBox="0 0 665 760" role="group" aria-label="Topographic map of Japan with selectable mountains"></svg>
+        <div class="map-ctl" role="group" aria-label="Map zoom"><button data-z="japan" aria-pressed="true">Japan</button><button data-z="alps" aria-pressed="false">Japanese Alps</button></div>
+      </div>
+      <div>
+        <div class="map-card" id="map-card" aria-live="polite"></div>
+        <div class="map-list" id="map-list" role="group" aria-label="Mountains"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TIMELINE ============ -->
+<section class="sec" id="timeline" aria-labelledby="tl-h">
+  <span class="alt-mark">1,500 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">03 / ASCENT</span><span class="jp">年表</span><h2 id="tl-h">Timeline of the Alpinist</h2>
+      <p>{{SERIES_COUNT}} series, in order. Each card shows a lead reference; every reference has its own page.</p></header>
+    <div class="tl" id="tl-list"></div>
+  </div>
+</section>
+
+<!-- ============ FAMILY TREE ============ -->
+<section class="sec" id="family" aria-labelledby="fam-h" style="background:rgba(29,58,47,.05)">
+  <span class="alt-mark">2,000 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">04 / LINEAGE</span><span class="jp">系譜</span><h2 id="fam-h">Family tree</h2>
+      <p>Solid lines mark direct succession. Dashed lines mark a revival or reinterpretation that returns to an earlier design across a gap in production.</p></header>
+    <div class="tree-wrap rv" id="tree"></div>
+    <p class="tree-note">Seiko has never published an official generation count; collectors number the generations differently. This tree groups references by series and calibre.</p>
+  </div>
+</section>
+
+<!-- ============ EXPLORER ============ -->
+<section class="sec" id="models" aria-labelledby="exp-h">
+  <span class="alt-mark">2,500 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">05 / FIELD GUIDE</span><span class="jp">図鑑</span><h2 id="exp-h">Models</h2><p>Filter every documented reference. Select a card to open its page, or add it to the comparison.</p></header>
+    <button class="btn sm dk filter-toggle" aria-expanded="false" aria-controls="filters">Filters</button>
+    <div class="exp-bar">
+      <form class="filters" id="filters" aria-label="Filter references" onsubmit="return false"></form>
+      <div><p class="count" id="count" aria-live="polite"></p><div class="cards" id="cards"></div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ COMPARE ============ -->
+<section class="sec" id="compare" aria-labelledby="cmp-h" style="background:rgba(29,58,47,.05)">
+  <span class="alt-mark">2,800 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">06 / COMPARE</span><span class="jp">比較</span><h2 id="cmp-h">Side by side</h2><p>Choose two to four references. Rows where the values differ are highlighted.</p></header>
+    <div class="cmp-pick" role="group" aria-label="Choose references to compare"></div>
+    <div class="cmp-tablewrap" id="cmp-table" aria-live="polite"></div>
+    <p class="legend"><i></i> Values differ across the selection</p>
+  </div>
+</section>
+
+<!-- ============ DESIGN EVOLUTION ============ -->
+<section class="sec dark" id="evolution" aria-labelledby="evo-h">
+  <span class="alt-mark">3,000 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">07 / FORM</span><span class="jp">意匠の変遷</span><h2 id="evo-h">How the design changed</h2><p>Drag the slider to move through the generations. The drawings are schematic, based on the documented features of each era; they are not photographs.</p></header>
+    <div class="evo">
+      <div class="evo-stage rv" id="evo-stage"><span class="lbl">SCHEMATIC · NOT TO SCALE</span><div class="svgh" style="width:100%;height:100%"></div></div>
+      <div>
+        <div class="evo-yr" id="evo-yr"></div><h3 id="evo-name"></h3>
+        <div class="evo-slider"><label class="vh" for="evo-range">Generation</label><input type="range" id="evo-range" min="0" value="0" step="1"><div class="evo-ticks" id="evo-ticks"></div></div>
+        <table class="evo-tab"><tbody id="evo-tab"></tbody></table>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MOVEMENTS ============ -->
+<section class="sec dark" id="movements" aria-labelledby="mv-h" style="border-top-color:var(--line-l)">
+  <span class="alt-mark">3,190 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">08 / MECHANISM</span><span class="jp">ムーブメント</span><h2 id="mv-h">Movement lineage</h2><p>From an unnumbered 17-jewel Seikosha hand-wound movement to the three-day 6R55. Scroll sideways along the chain.</p></header>
+    <div class="mv-chain" id="mv-chain" tabindex="0" aria-label="Movement generations, scrollable"></div>
+    <div class="mv-diagram">
+      <div class="mv-svg rv">
+        <svg id="mv-svg" viewBox="0 0 400 400" role="img" aria-label="Stylised diagram of an automatic movement. Select a part in the list to highlight it.">
+          <defs><linearGradient id="rotorg" x1="0" x2="1"><stop offset="0" stop-color="#e6e7e2"/><stop offset=".5" stop-color="#9ea39c"/><stop offset="1" stop-color="#d6d7d1"/></linearGradient>
+          <pattern id="perlage" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="6" fill="none" stroke="#3a403c" stroke-width=".6"/></pattern></defs>
+          <circle cx="200" cy="200" r="182" fill="#1a1d1b" stroke="#7e837d"/>
+          <circle cx="200" cy="200" r="176" fill="url(#perlage)" opacity=".7"/>
+          <g fill="none" stroke="#b89a5a" stroke-width="1.1">
+            <g class="part" data-part="mainspring"><circle cx="140" cy="250" r="56"/><path d="M140 250 m-40 0 a40 40 0 1 0 80 0 a32 32 0 1 0 -64 0 a24 24 0 1 0 48 0" opacity=".7"/></g>
+            <g class="part" data-part="train"><circle cx="232" cy="210" r="24"/><circle cx="262" cy="250" r="18"/><circle cx="200" cy="200" r="14"/></g>
+            <g class="part" data-part="escapement"><circle cx="292" cy="182" r="14"/><path d="M292 168 l8 -6 M292 196 l8 6" /><path d="M300 176 L322 156" stroke-width="2"/></g>
+            <g class="part" data-part="balance"><circle cx="300" cy="120" r="44"/><circle cx="300" cy="120" r="34" stroke-dasharray="3 3"/><path d="M300 120 m-30 0 a30 30 0 1 1 60 0 a24 24 0 1 1 -48 0 a18 18 0 1 1 36 0" opacity=".6"/><circle cx="300" cy="120" r="4" fill="#b3302b" stroke="none"/></g>
+            <g class="part" data-part="hack"><path d="M210 290 L280 300 L284 312 L214 304Z"/></g>
+            <g class="part" data-part="gmt"><circle cx="110" cy="140" r="22"/><circle cx="110" cy="140" r="12" stroke-dasharray="2 2"/></g>
+          </g>
+          <g fill="#b3302b"><circle cx="232" cy="210" r="3"/><circle cx="262" cy="250" r="3"/><circle cx="292" cy="182" r="3"/><circle cx="140" cy="250" r="3"/></g>
+          <g class="rotor part" data-part="rotor"><path d="M200 200 L40 200 A160 160 0 0 1 360 200Z" fill="url(#rotorg)" stroke="#6f746e" opacity=".94"/><text x="200" y="110" text-anchor="middle" font-family="IBM Plex Mono,monospace" font-size="11" letter-spacing="3" fill="#2a2d2b">AUTOMATIC</text><circle cx="200" cy="200" r="14" fill="#d8d8d2" stroke="#555"/></g>
+        </svg>
+      </div>
+      <ul class="mv-parts">
+        <li><button aria-pressed="false" data-part="rotor"><span class="n">01</span>Rotor — the oscillating weight<p>Swings with wrist movement to wind the mainspring. Select again to swing it aside and reveal the train beneath. Automatic Alpinists from 1995 onward use a rotor; the 1959 Laurel Alpinist was hand-wound.</p></button></li>
+        <li><button aria-pressed="false" data-part="mainspring"><span class="n">02</span>Mainspring barrel<p>Stores the energy that drives the watch. Its size largely sets the power reserve.</p></button></li>
+        <li><button aria-pressed="false" data-part="train"><span class="n">03</span>Gear train<p>Transfers energy from the barrel to the escapement and drives the hands.</p></button></li>
+        <li><button aria-pressed="false" data-part="escapement"><span class="n">04</span>Escapement<p>Releases the train in measured steps, giving the familiar tick.</p></button></li>
+        <li><button aria-pressed="false" data-part="balance"><span class="n">05</span>Balance wheel<p>The regulating organ: it swings back and forth at a fixed rate and sets the watch’s accuracy.</p></button></li>
+        <li><button aria-pressed="false" data-part="hack"><span class="n">06</span>Stop-seconds (hacking) lever<p>Stops the balance when the crown is pulled, so the seconds hand can be set precisely. A feature of the 4S15, 6R and 6L families.</p></button></li>
+        <li><button aria-pressed="false" data-part="gmt"><span class="n">07</span>GMT module (where fitted)<p>An additional 24-hour hand for a second time zone. Present on the 8F56 quartz Alpinists and the modern GMT Alpinist.</p></button></li>
+      </ul>
+    </div>
+    <p class="credit" style="text-align:left;margin-top:20px">Diagram is a stylised illustration, not an engineering drawing of any specific calibre.</p>
+  </div>
+</section>
+
+<!-- ============ COMPASS ============ -->
+<section class="sec" id="compass" aria-labelledby="cmp-lab-h">
+  <span class="alt-mark">3,500 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">09 / ORIENTATION</span><span class="jp">方位</span><h2 id="cmp-lab-h">How the compass ring works</h2>
+      <p>The Alpinist’s inner ring is not a magnetic compass. It is a rotating direction scale that you align using the sun and the hour hand. Try it: drag the sun, the hour hand or the ring, or use the sliders.</p></header>
+    <div class="cmp-grid" id="compass-lab">
+      <div class="cmp-stage rv"><svg viewBox="0 0 500 500" aria-labelledby="cl-desc"><desc id="cl-desc">Interactive watch over a compass rose. The sun sits on the outer circle; the watch, hour hand and inner compass ring can each be rotated.</desc></svg></div>
+      <div class="cmp-ctls">
+        <div class="seg" role="group" aria-label="Hemisphere"><button data-hemi="N" aria-pressed="true">Northern hemisphere</button><button data-hemi="S" aria-pressed="false">Southern</button></div>
+        <div class="ctl"><label for="cl-hour-in">Time on the watch <output id="cl-time"></output></label><input id="cl-hour-in" type="range" min="6" max="18" step="0.25" value="10"></div>
+        <div class="ctl"><label for="cl-sun-in">Sun direction (azimuth) <output id="cl-sun"></output></label><input id="cl-sun-in" type="range" min="0" max="359" step="1"></div>
+        <label class="mono" style="font-size:.66rem;display:flex;gap:8px;align-items:center"><input type="checkbox" id="cl-follow" checked> Sun follows the idealised 15°/hour path</label>
+        <div class="ctl"><label for="cl-watch-in">Rotate watch <output id="cl-watch"></output></label><input id="cl-watch-in" type="range" min="0" max="359" step="1"></div>
+        <div class="ctl"><label for="cl-ring-in">Rotate compass ring (crown at 4) <output id="cl-ring"></output></label><input id="cl-ring-in" type="range" min="0" max="359" step="1"></div>
+        <div style="display:flex;gap:12px;flex-wrap:wrap;align-items:center"><button class="btn sm dk" id="cl-auto" aria-pressed="true">Auto-solve: on</button>
+        <label class="mono" style="font-size:.66rem;display:flex;gap:8px;align-items:center"><input type="checkbox" id="cl-dst"> Clock is on daylight-saving time</label></div>
+        <div class="cmp-read" id="cl-out" aria-live="polite"></div>
+        <ol class="steps" id="cl-method"></ol>
+        <details><summary class="mono" style="font-size:.68rem;cursor:pointer">Limitations — read before relying on it</summary>
+          <ul style="font-size:.9rem;padding-left:18px;margin-top:10px">
+            <li>Seiko describes the method as giving only a rough indication of direction. It is no substitute for a magnetic compass and map.</li>
+            <li>It assumes the sun moves 15° an hour and is due south (or north) at 12:00. In reality noon varies with your longitude within the time zone and the time of year, so the result can be well off.</li>
+            <li>Near the tropics, and around midday in summer when the sun is high, the method becomes unreliable.</li>
+            <li>With daylight-saving time, use 1 o’clock instead of 12 as the reference (tick the box above to see the error).</li>
+            <li>In the southern hemisphere the method is reversed: point 12 at the sun, and the bisector gives north.</li>
+          </ul></details>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ ARCHIVE ============ -->
+<section class="sec dark" id="archive" aria-labelledby="arch-h">
+  <span class="alt-mark">3,700 m</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">10 / ARCHIVE</span><span class="jp">資料室</span><h2 id="arch-h">From the archive</h2><p>Public-domain and openly licensed historical material, with full source information.</p></header>
+    <div class="arch">
+      <div><div class="arch-view" id="arch-view"></div><p class="arch-cap" id="arch-cap" aria-live="polite"></p></div>
+      <div><ul class="arch-list" id="arch-list"></ul>
+        <p style="font-size:.86rem;color:var(--steel);margin-top:20px">Seiko’s own photographs are linked from Seiko’s website with credit, never copied. Its historical advertising and catalogues are copyrighted and are not reproduced. They can be seen at the <a href="https://museum.seiko.co.jp/en/" target="_blank" rel="noopener">Seiko Museum Ginza ↗</a> and in Seiko’s <a href="https://www.seikowatches.com/us-en/products/prospex/special/alpinist/" target="_blank" rel="noopener">official Alpinist history pages ↗</a>.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ SOURCES ============ -->
+<section class="sec" id="sources" aria-labelledby="src-h">
+  <span class="alt-mark">3,776 m · SUMMIT</span>
+  <div class="wrap">
+    <header class="sec-h rv"><span class="no">11 / SOURCES</span><span class="jp">出典</span><h2 id="src-h">Sources &amp; further reading</h2>
+      <p>Priority went to Seiko’s own pages, archived Seiko catalogue listings and instruction manuals, then the established watch press. Forums were used only to find leads. Where sources disagree, the disagreement is stated on the relevant page.</p></header>
+    {{SOURCES}}
+  </div>
+</section>
+</main>
+
+<div class="tray" role="status"><span class="mono">0 selected</span><a class="btn sm" href="#compare">Compare →</a></div>
+{{FOOTER}}
+{{SCRIPTS}}
+<script>
+/* hero topography + bezel ticks (decorative) */
+(function(){const M=window.MAPDATA,s=document.getElementById('hero-topo');if(M&&s){s.innerHTML='<path class="coast" d="'+M.land+'"/>'+M.contours.map((d,i)=>'<path class="c" style="animation-delay:'+(i*.18)+'s" d="'+d+'"/>').join('');}
+const t=document.getElementById('hero-ticks');let h='';for(let d=0;d<360;d+=6){const a=(d-90)*Math.PI/180,r1=d%30?190:184;h+='<line x1="'+(200+r1*Math.cos(a))+'" y1="'+(200+r1*Math.sin(a))+'" x2="'+(200+196*Math.cos(a))+'" y2="'+(200+196*Math.sin(a))+'" stroke="currentColor" stroke-opacity="'+(d%30?.4:.9)+'"/>';}
+['N','E','S','W'].forEach((l,i)=>{const a=(i*90-90)*Math.PI/180;h+='<text x="'+(200+170*Math.cos(a))+'" y="'+(204+170*Math.sin(a))+'" text-anchor="middle" font-family="IBM Plex Mono" font-size="11" fill="'+(l==='N'?'#e0574f':'currentColor')+'">'+l+'</text>';});t.innerHTML=h;})();
+</script>
+</body></html>

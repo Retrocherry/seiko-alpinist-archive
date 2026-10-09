@@ -1,0 +1,1367 @@
+{
+ "_note": "Editorial decisions layered over the research. Series text paraphrases sourced facts from the research files; nothing here introduces new factual claims.",
+ "hero": {
+  "bg": "assets/img/landscape/yarigatake-from-jonen.jpg",
+  "bg_alt": "Mount Yari's spear-shaped summit and the Hotaka ridge above a sea of cloud, seen from Mount Jonen in the Northern Alps",
+  "bg_credit": "Mount Yari from Mount Jonen · Wikimedia Commons, CC BY-SA 4.0",
+  "watch": "assets/img/watches/alpinist-titanium-8f56-900.jpg",
+  "watch_alt": "A titanium Seiko Alpinist with calibre 8F56 and internal compass ring",
+  "watch_credit": "Seiko Alpinist (8F56, titanium). Photo: 663highland, Wikimedia Commons, CC BY 2.5"
+ },
+ "series": [
+  {
+   "id": "laurel",
+   "name": "Laurel Alpinist",
+   "order": 0,
+   "era": "First sports watch",
+   "kicker": "Generation I · Seikosha",
+   "refs": [
+    "14041"
+   ],
+   "blurb": "Hand-wound Seikosha 17-jewel movement in a ≈35 mm steel case, and the only Alpinist to carry the Laurel name. Launched at ¥4,500, per the 1959 SEIKO NEWS cited by Hodinkee Japan.",
+   "dispute": "Seiko’s English and Japanese pages give 1959. Seiko Germany’s 2020 release and Seiko India give 1961.",
+   "lead": "laurel-alpinist-14041"
+  },
+  {
+   "id": "champion",
+   "name": "Champion Alpinist",
+   "order": 1,
+   "era": "Daini Seikosha",
+   "kicker": "Champion line",
+   "match": "^J1303|^J1304",
+   "blurb": "The Alpinist name moved to the Champion line, with sector-style dials, multi-chamfered lugs and the mountain engraving on the caseback. Several references are recorded, each with its own dial design."
+  },
+  {
+   "id": "champion850",
+   "name": "Champion 850 Alpinist",
+   "order": 2,
+   "era": "Calibre 850",
+   "kicker": "Champion line",
+   "match": "^J13079|^85899",
+   "blurb": "Named after its calibre. ‘Alpinist 850’ appears on the caseback with the mountain logo. The Alpinist name then went quiet for three decades."
+  },
+  {
+   "id": "revival95",
+   "name": "Alpinist revival (4S15)",
+   "order": 3,
+   "era": "The compass arrives",
+   "kicker": "Revival · 1995",
+   "match": "^SCVF",
+   "blurb": "The Alpinist returned in 1995 with the internal rotating compass ring and the second crown at four o’clock, the two features that define it today. Cathedral hands, a red ‘Alpinist’ script and an automatic 4S15 movement.",
+   "dispute": "Many sources say 1992; the research found 1992 is the year the 4S calibre family appeared, and 1995 the Alpinist’s return.",
+   "lead": "alpinist-scvf009"
+  },
+  {
+   "id": "gmt8f56",
+   "name": "Alpinist GMT Perpetual (8F56)",
+   "order": 4,
+   "era": "High-accuracy quartz",
+   "kicker": "Quartz branch",
+   "match": "^SBCJ",
+   "blurb": "A titanium quartz branch: perpetual calendar, a 24-hour GMT hand and Seiko’s high-accuracy 8F56 calibre (±20 s/year per Seiko’s manual). Includes the 500-piece SSASS edition for mountaineer Ken Noguchi.",
+   "dispute": "Launch year reported as both 2002 and 2003."
+  },
+  {
+   "id": "sarb",
+   "name": "SARB Alpinist",
+   "order": 5,
+   "era": "The cult classic",
+   "kicker": "Mechanical · 6R15",
+   "match": "^SARB01[357]",
+   "blurb": "Listed by Seiko Japan as new in its 2006–07 catalogue: 39.5 mm, sapphire crystal, 200 m, the 6R15 movement and an inner compass ring. The green SARB017 became one of the most talked-about Seikos of its era. The cream and black versions left the catalogue years before it did.",
+   "lead": "sarb017"
+  },
+  {
+   "id": "sarbtrek",
+   "name": "Alpinist trekking models",
+   "order": 6,
+   "era": "External compass bezel",
+   "kicker": "Seiko Japan catalogue 2009–13",
+   "match": "^SARB0(59|61|63)",
+   "blurb": "Seiko Japan listed these as Alpinist models: an external rotating compass bezel, emergency signal codes on the dial and the 6R15 movement. The 500-piece SARB063 was made with nature photographer Takeshi Mizukoshi.",
+   "dispute": "Many collector guides exclude these from the Alpinist family; Seiko Japan’s own catalogue included them."
+  },
+  {
+   "id": "spb089",
+   "name": "60th-anniversary Blue Alpinist",
+   "order": 7,
+   "era": "US limited edition",
+   "kicker": "Seiko USA · 2019",
+   "refs": [
+    "SPB089"
+   ],
+   "blurb": "A US-only 1,959-piece edition marking 60 years since 1959. It used the 6R15, a blue-patterned dial and a serial-numbered caseback, at $600 according to Seiko USA’s own page."
+  },
+  {
+   "id": "prospex39",
+   "name": "Prospex Alpinist",
+   "order": 8,
+   "era": "Into Prospex · 6R35",
+   "kicker": "Prospex ‘Land’ · 2020",
+   "match": "^SPB(117|119|121|123|209|210)",
+   "blurb": "In 2020 the Alpinist joined Seiko’s Prospex sports family. It kept the 39.5 mm case, internal compass ring, date magnifier and 200 m water resistance, and gained the 6R35 with up to 70 hours of power reserve. For the first time the line was sold worldwide.",
+   "lead": "spb121"
+  },
+  {
+   "id": "euro",
+   "name": "European limited editions",
+   "order": 9,
+   "era": "Landscape dials",
+   "kicker": "Europe-only",
+   "match": "^SPB(199|201|355|531)",
+   "blurb": "Europe-only runs whose dials are described as mountain scenes: an emerald glacier, a grey sunset, a granite rock face, a night sky at altitude. Quantities ran from 2,000 to 3,000 pieces."
+  },
+  {
+   "id": "recreation",
+   "name": "1959 Alpinist Re-creation",
+   "order": 10,
+   "era": "Faithful re-creation",
+   "kicker": "Heritage · 1,959 pieces",
+   "match": "^SJE085",
+   "blurb": "A faithful re-creation of the 1959 Laurel Alpinist with the slim 6L35. Seiko notes it is only 1.0 mm thicker than the original despite adding a date. Limited to 1,959 pieces."
+  },
+  {
+   "id": "reinterp",
+   "name": "1959 Alpinist Modern Re-interpretation",
+   "order": 11,
+   "era": "Back to the peaks",
+   "kicker": "38 mm · no compass",
+   "match": "Re-interpretation|^SPB(241|243|245|249|251|259|289)",
+   "blurb": "A 38 mm reading of the 1959 design: mountain-shaped markers at 3, 6, 9 and 12, the 6R35 and no compass ring. The family has grown through landscape-coloured dials.",
+   "lead": "spb243"
+  },
+  {
+   "id": "alp38",
+   "name": "Prospex Alpinist 38 mm",
+   "order": 12,
+   "era": "Compact compass",
+   "kicker": "38 mm · 6R35",
+   "match": "38\\s?mm|^SPB(155|157|159|211)",
+   "blurb": "A smaller 38 mm Alpinist case with the 6R35."
+  },
+  {
+   "id": "special",
+   "name": "Special & regional editions",
+   "order": 12.5,
+   "era": "Limited runs",
+   "kicker": "Global & Southeast Asia",
+   "match": "^SPB(337|532)",
+   "blurb": "Limited runs outside the main families: the 5,500-piece Black Series ‘Night Vision’, with green Lumibrite Pro on a black dial, and the 800-piece ‘Snowy Mountain’ for Southeast Asian markets."
+  },
+  {
+   "id": "gmt",
+   "name": "Alpinist Mechanical GMT",
+   "order": 13,
+   "era": "Second time zone",
+   "kicker": "6R54 · 2023",
+   "match": "GMT",
+   "blurb": "A mechanical GMT Alpinist on Seiko’s new 6R54 calibre: an independently adjustable 24-hour hand and a three-day power reserve, in a 39.5 × 13.6 mm case."
+  },
+  {
+   "id": "mech6r55",
+   "name": "Alpinist Mechanical (6R55)",
+   "order": 14,
+   "era": "Three-day reserve",
+   "kicker": "6R55 · 2025",
+   "match": "Alpinist Mechanical|^SPB(503|505|507)",
+   "blurb": "The 2025 generation, the first Alpinists with the 6R55 (up to 72 hours), a 12.7 mm case and Seiko’s super-hard coating. Seiko frames the green SPB507 as a new version of the ‘Green Alpinist’ first seen in 1995."
+  }
+ ],
+ "palettes": {
+  "green": {
+   "dial": "#24533f",
+   "deep": "#0d1f17",
+   "ink": "#f1ead9",
+   "accent": "#c9a961",
+   "paper": "#efe9d8"
+  },
+  "blue": {
+   "dial": "#1d3d63",
+   "deep": "#0a1524",
+   "ink": "#eef1f2",
+   "accent": "#a8c6de",
+   "paper": "#ecefee"
+  },
+  "brown": {
+   "dial": "#5b3b23",
+   "deep": "#1d120b",
+   "ink": "#f3ebe0",
+   "accent": "#d7a56a",
+   "paper": "#f2ebe0"
+  },
+  "black": {
+   "dial": "#1b1c1b",
+   "deep": "#0a0b0a",
+   "ink": "#efede6",
+   "accent": "#c9a961",
+   "paper": "#ecebe6"
+  },
+  "cream": {
+   "dial": "#e6dcc3",
+   "deep": "#26261f",
+   "ink": "#f4efe2",
+   "accent": "#c4a463",
+   "paper": "#f4efe2"
+  },
+  "grey": {
+   "dial": "#5d6366",
+   "deep": "#14181a",
+   "ink": "#eef0f0",
+   "accent": "#c3cbd0",
+   "paper": "#eeefee"
+  },
+  "silver": {
+   "dial": "#b8bbb7",
+   "deep": "#1a1c1c",
+   "ink": "#f0f0ee",
+   "accent": "#c9a961",
+   "paper": "#efefec"
+  },
+  "teal": {
+   "dial": "#1e5a5a",
+   "deep": "#0a1f1f",
+   "ink": "#eef3f1",
+   "accent": "#9fd3c7",
+   "paper": "#ecf1ef"
+  },
+  "unknown": {
+   "dial": "#24533f",
+   "deep": "#0d1f17",
+   "ink": "#f1ead9",
+   "accent": "#c9a961",
+   "paper": "#efe9d8"
+  },
+  "purple": {
+   "dial": "#4a2f5c",
+   "deep": "#170e1e",
+   "ink": "#f1ecf3",
+   "accent": "#d6b46a",
+   "paper": "#f1eef0"
+  }
+ },
+ "landscape_by_kind": {
+  "bamboo": {
+   "img": "arashiyama-bamboo-cc0"
+  },
+  "lake": {
+   "img": "taisho-ike-hotaka"
+  },
+  "pond": {
+   "img": "taisho-ike-hotaka"
+  },
+  "moss": {
+   "img": "shirakoma-moss"
+  },
+  "autumn": {
+   "img": "karasawa-autumn"
+  },
+  "brown": {
+   "img": "kamikochi-larch-autumn"
+  },
+  "forest": {
+   "img": "shirakoma-moss"
+  },
+  "snow": {
+   "img": "hakuba-daisekkei"
+  },
+  "glacier": {
+   "img": "hakuba-daisekkei"
+  },
+  "ice": {
+   "img": "mikurigaike-winter"
+  },
+  "winter": {
+   "img": "mikurigaike-winter"
+  },
+  "night": {
+   "img": "milkyway-tsubakuro"
+  },
+  "star": {
+   "img": "milkyway-tsubakuro"
+  },
+  "sky": {
+   "img": "milkyway-chogatake"
+  },
+  "dawn": {
+   "img": "fuji-sunset"
+  },
+  "sunrise": {
+   "img": "fuji-sunset"
+  },
+  "sunset": {
+   "img": "fuji-sunset"
+  },
+  "dusk": {
+   "img": "fuji-sunset"
+  },
+  "conifer": {
+   "img": "shirakoma-moss"
+  },
+  "mountain": {
+   "img": "yarigatake-from-jonen"
+  },
+  "bark": {
+   "img": "kamikochi-larch-autumn"
+  },
+  "rock": {
+   "img": "okuhotaka-from-cho"
+  }
+ },
+ "landscape_by_color": {
+  "green": {
+   "img": "hakuba-reflection"
+  },
+  "black": {
+   "img": "milkyway-tsubakuro"
+  },
+  "cream": {
+   "img": "mikurigaike-winter"
+  },
+  "blue": {
+   "img": "mikurigaike-tate"
+  },
+  "brown": {
+   "img": "karasawa-autumn"
+  },
+  "grey": {
+   "img": "tsurugi-from-murodo"
+  },
+  "silver": {
+   "img": "tsurugi-from-murodo"
+  },
+  "teal": {
+   "img": "myojin-ike"
+  }
+ },
+ "landscape_default": {
+  "img": "okuhotaka-from-cho"
+ },
+ "landscape_by_ref": {
+  "14041": {
+   "img": "weston-playground-3",
+   "stated": false
+  },
+  "J13033": {
+   "img": "kamikochi-kappa-bashi",
+   "stated": false
+  },
+  "J13043": {
+   "img": "kamikochi-kappa-bashi",
+   "stated": false
+  },
+  "J13049": {
+   "img": "kamikochi-kappa-bashi",
+   "stated": false
+  },
+  "J13079": {
+   "img": "tanigawa-panorama",
+   "stated": false
+  },
+  "85899": {
+   "img": "tanigawa-panorama",
+   "stated": false
+  },
+  "SJE085J1": {
+   "img": "weston-playground-3",
+   "stated": false
+  },
+  "SPB259J1": {
+   "img": null
+  },
+  "SPB503J1": {
+   "img": "fuji-sunset",
+   "stated": true,
+   "named": true
+  },
+  "HBC006J1": {
+   "img": "ginza-wako-clock",
+   "stated": true,
+   "named": true
+  },
+  "SPB251J1": {
+   "img": "kamikochi-larch-autumn",
+   "stated": true
+  },
+  "SPB337J1": {
+   "img": "milkyway-tsubakuro",
+   "stated": false
+  },
+  "SPB210J1": {
+   "img": "kamikochi-larch-autumn",
+   "stated": false
+  },
+  "SPB493J1": {
+   "img": "shirakoma-moss",
+   "stated": false
+  }
+ },
+ "watch_images": {
+  "14041": [
+   "official-laurel-alpinist-1959"
+  ]
+ },
+ "mountain_images": {
+  "Mount Fuji": "fuji-sunset",
+  "Mount Hotaka (Okuhotaka-dake)": "okuhotaka-from-cho",
+  "Mount Yari (Yari-ga-take)": "yarigatake-from-jonen",
+  "Mount Tate (Tateyama)": "mikurigaike-tate",
+  "Mount Tanigawa (Tanigawa-dake)": "tanigawa-panorama",
+  "Mount Kita (Kita-dake)": "kitadake-cc0",
+  "Mount Shirouma (Hakuba)": "hakuba-sanzan",
+  "Kamikochi": "kamikochi-kappa-bashi",
+  "Daisetsuzan / Mount Asahi (Asahi-dake)": "daisetsuzan-asahidake"
+ },
+ "mountain_short": {
+  "Mount Hotaka (Okuhotaka-dake)": "Hotaka",
+  "Mount Yari (Yari-ga-take)": "Yari",
+  "Mount Tate (Tateyama)": "Tate",
+  "Mount Tanigawa (Tanigawa-dake)": "Tanigawa",
+  "Mount Kita (Kita-dake)": "Kita",
+  "Mount Shirouma (Hakuba)": "Shirouma",
+  "Daisetsuzan / Mount Asahi (Asahi-dake)": "Asahi",
+  "Mount Fuji": "Fuji",
+  "Mount Ontake": "Ontake"
+ },
+ "mountain_labels": {
+  "Mount Yari (Yari-ga-take)": [
+   7,
+   -3
+  ],
+  "Mount Hotaka (Okuhotaka-dake)": [
+   -7,
+   3
+  ],
+  "Mount Tate (Tateyama)": [
+   7,
+   -2
+  ],
+  "Kamikochi": [
+   -7,
+   9
+  ],
+  "Mount Shirouma (Hakuba)": [
+   7,
+   -1
+  ],
+  "Mount Ontake": [
+   -7,
+   4
+  ],
+  "Mount Kita (Kita-dake)": [
+   7,
+   4
+  ],
+  "Mount Fuji": [
+   7,
+   5
+  ],
+  "Mount Tanigawa (Tanigawa-dake)": [
+   7,
+   2
+  ]
+ },
+ "context_order": [
+  "mountainous",
+  "alps-naming",
+  "jac",
+  "manaslu",
+  "seiko-yamaotoko",
+  "seiko-expeditions",
+  "seiko-museum",
+  "mountain-day"
+ ],
+ "archive": [
+  {
+   "img": "official-laurel-alpinist-1959",
+   "title": "The original 1959 Laurel Alpinist",
+   "kind": "Seiko archival photograph",
+   "date": "1959",
+   "caption": "The original Laurel Alpinist, as shown by Seiko on its 1959 Alpinist Re-creation page. Linked from Seiko’s website, not copied."
+  },
+  {
+   "img": "official-laurel-alpinist-1959-tags",
+   "title": "Original hang tags",
+   "kind": "Seiko archival photograph",
+   "date": "1959",
+   "caption": "Hang tags of the original 1959 Laurel Alpinist, as shown by Seiko. Linked from Seiko’s website, not copied."
+  },
+  {
+   "img": "laurel-1913",
+   "title": "The 1913 Laurel",
+   "kind": "Object",
+   "date": "1913",
+   "caption": "Seikosha’s 1913 Laurel, Japan’s first domestically made wristwatch. The Laurel name returned on the first Alpinist in 1959."
+  },
+  {
+   "img": "kintaro-hattori",
+   "title": "Kintarō Hattori",
+   "kind": "Portrait",
+   "date": "1916",
+   "caption": "Kintarō Hattori (1860–1934), founder of K. Hattori & Co. and Seikosha, the company that became Seiko."
+  },
+  {
+   "img": "weston-playground-3",
+   "title": "Hodaka from the Tokugō Pass",
+   "kind": "Book plate",
+   "date": "1918",
+   "caption": "From Walter Weston’s The Playground of the Far East (1918). Photograph by T. Z. Takano. Japanese mountaineering context; not connected to Seiko."
+  },
+  {
+   "img": "weston-playground-2",
+   "title": "Kamonji, Weston’s guide",
+   "kind": "Book plate",
+   "date": "1918",
+   "caption": "Kamijō Kamonji, the Kamikochi guide who led Walter Weston. From The Playground of the Far East (1918). Photograph by T. Z. Takano."
+  },
+  {
+   "img": "weston-playground-1",
+   "title": "Valley beneath the Alps",
+   "kind": "Book plate",
+   "date": "1918",
+   "caption": "Plate from The Playground of the Far East (1918). The printed caption is not included in the scan."
+  },
+  {
+   "img": "weston-relief-kamikochi",
+   "title": "Weston memorial relief",
+   "kind": "Monument",
+   "date": "photographed 2000s",
+   "caption": "The bronze relief honouring Walter Weston at Kamikochi."
+  },
+  {
+   "img": "seiko-champion-diashock",
+   "title": "Seiko Champion Diashock",
+   "kind": "Object",
+   "date": "1960s",
+   "caption": "A Seiko Champion of the kind the Alpinist name moved to in the early 1960s. This example is a 19-jewel Champion and is not itself an Alpinist."
+  },
+  {
+   "img": "ginza-wako-clock",
+   "title": "The Hattori clock tower, Ginza",
+   "kind": "Place",
+   "date": "photographed 2000s",
+   "caption": "The Wako building and clock tower at Ginza 4-chome, built as the headquarters of K. Hattori & Co., the company behind Seiko."
+  },
+  {
+   "img": "hattori-ginza-1946",
+   "title": "The Hattori building, 1946",
+   "kind": "Photograph",
+   "date": "1946",
+   "caption": "The Hattori clock-tower building in Ginza while it was requisitioned after the war."
+  }
+ ],
+ "compare_default": [
+  "sarb017",
+  "alpinist-scvf009",
+  "laurel-alpinist-14041"
+ ],
+ "movement_chain": [
+  {
+   "key": "Seikosha 17-jewel (un-numbered)",
+   "cal": "Seikosha 17J",
+   "era": "1959 · Laurel & Champion Alpinist",
+   "change": "Hand-wound, 18,000 vph, Diashock shock protection. No calibre number is marked on the movement."
+  },
+  {
+   "key": "850 / 851",
+   "cal": "850 / 851",
+   "era": "1963 · Champion 850",
+   "change": "The calibre gave the watch its name. The 17- and 19-jewel variants are reported by collectors; the winding type is disputed."
+  },
+  {
+   "key": "4S15",
+   "cal": "4S15",
+   "era": "1995 · Alpinist revival",
+   "change": "An automatic with hacking and hand-winding returns the name after a three-decade gap."
+  },
+  {
+   "key": "8F56",
+   "cal": "8F56",
+   "era": "c.2003 · Quartz branch",
+   "change": "High-accuracy quartz with perpetual calendar and GMT: a parallel branch, not a successor."
+  },
+  {
+   "key": "6R15",
+   "cal": "6R15",
+   "era": "2006 · SARB",
+   "change": "Seiko’s mid-range automatic: 23 jewels, 21,600 vph, 50 hours."
+  },
+  {
+   "key": "6R35",
+   "cal": "6R35",
+   "era": "2020 · Prospex",
+   "change": "Power reserve rises to 70 hours at the same 21,600 vph.",
+   "img": "official-cal-6r35"
+  },
+  {
+   "key": "6L35",
+   "cal": "6L35",
+   "era": "2021 · 1959 Re-creation",
+   "change": "A slim, higher-beat branch: 28,800 vph, 26 jewels, 45 hours, so the re-creation stays close to the 1959 profile.",
+   "img": "official-cal-6l35"
+  },
+  {
+   "key": "6R54",
+   "cal": "6R54 GMT",
+   "era": "2023 · Mechanical GMT",
+   "change": "The 6R architecture gains an independently adjustable 24-hour hand and 72 hours."
+  },
+  {
+   "key": "6R55",
+   "cal": "6R55",
+   "era": "2025 · Alpinist Mechanical",
+   "change": "Up to 72 hours at 21,600 vph, the longest power reserve in the Alpinist’s automatic line."
+  }
+ ],
+ "tree": {
+  "cols": 5,
+  "rows": 11,
+  "eras": [
+   {
+    "row": 0,
+    "label": "1959"
+   },
+   {
+    "row": 1,
+    "label": "1961–62"
+   },
+   {
+    "row": 2,
+    "label": "1963–64"
+   },
+   {
+    "row": 3,
+    "label": "1995"
+   },
+   {
+    "row": 4,
+    "label": "2003"
+   },
+   {
+    "row": 5,
+    "label": "2006"
+   },
+   {
+    "row": 6,
+    "label": "2009–19"
+   },
+   {
+    "row": 7,
+    "label": "2020"
+   },
+   {
+    "row": 8,
+    "label": "2021"
+   },
+   {
+    "row": 9,
+    "label": "2023"
+   },
+   {
+    "row": 10,
+    "label": "2025"
+   }
+  ],
+  "nodes": [
+   {
+    "id": "laurel",
+    "label": "Laurel Alpinist",
+    "sub": "14041 · hand-wound",
+    "col": 1,
+    "row": 0,
+    "series": "laurel"
+   },
+   {
+    "id": "champion",
+    "label": "Champion Alpinist",
+    "sub": "J13033 / 43 / 49",
+    "col": 1,
+    "row": 1,
+    "series": "champion"
+   },
+   {
+    "id": "champion850",
+    "label": "Champion 850",
+    "sub": "J13079 · 85899",
+    "col": 1,
+    "row": 2,
+    "series": "champion850"
+   },
+   {
+    "id": "revival95",
+    "label": "Alpinist revival",
+    "sub": "SCVF · 4S15 · compass",
+    "col": 1,
+    "row": 3,
+    "series": "revival95"
+   },
+   {
+    "id": "gmt8f56",
+    "label": "GMT Perpetual",
+    "sub": "SBCJ · 8F56 quartz",
+    "col": 4,
+    "row": 4,
+    "series": "gmt8f56"
+   },
+   {
+    "id": "sarb",
+    "label": "SARB Alpinist",
+    "sub": "SARB013 / 15 / 17 · 6R15",
+    "col": 1,
+    "row": 5,
+    "series": "sarb"
+   },
+   {
+    "id": "sarbtrek",
+    "label": "Trekking models",
+    "sub": "SARB059 / 61 / 63",
+    "col": 3,
+    "row": 6,
+    "series": "sarbtrek"
+   },
+   {
+    "id": "spb089",
+    "label": "Blue Alpinist LE",
+    "sub": "SPB089 · US 1,959 pcs",
+    "col": 0,
+    "row": 6,
+    "series": "spb089"
+   },
+   {
+    "id": "prospex39",
+    "label": "Prospex Alpinist",
+    "sub": "SPB117–123 · 6R35",
+    "col": 1,
+    "row": 7,
+    "series": "prospex39"
+   },
+   {
+    "id": "euro",
+    "label": "European LEs",
+    "sub": "SPB199 / 201 / 531",
+    "col": 3,
+    "row": 8,
+    "series": "euro"
+   },
+   {
+    "id": "alp38",
+    "label": "Alpinist 38 mm",
+    "sub": "SPB155–159 · 211",
+    "col": 2,
+    "row": 8,
+    "series": "alp38"
+   },
+   {
+    "id": "recreation",
+    "label": "1959 Re-creation",
+    "sub": "SJE085 · 6L35",
+    "col": 4,
+    "row": 8,
+    "series": "recreation"
+   },
+   {
+    "id": "reinterp",
+    "label": "1959 Re-interpretation",
+    "sub": "SPB241–289 · no compass",
+    "col": 0,
+    "row": 8,
+    "series": "reinterp"
+   },
+   {
+    "id": "gmt",
+    "label": "Mechanical GMT",
+    "sub": "SPB377 / 379 / 409 · 6R54",
+    "col": 2,
+    "row": 9,
+    "series": "gmt"
+   },
+   {
+    "id": "mech6r55",
+    "label": "Alpinist Mechanical",
+    "sub": "SPB503 / 505 / 507 · 6R55",
+    "col": 1,
+    "row": 10,
+    "series": "mech6r55"
+   },
+   {
+    "id": "special",
+    "label": "Special editions",
+    "sub": "SPB337 · SPB532",
+    "col": 4,
+    "row": 9,
+    "series": "special"
+   }
+  ],
+  "edges": [
+   [
+    "laurel",
+    "champion",
+    "line"
+   ],
+   [
+    "champion",
+    "champion850",
+    "line"
+   ],
+   [
+    "champion850",
+    "revival95",
+    "revival"
+   ],
+   [
+    "revival95",
+    "gmt8f56",
+    "line"
+   ],
+   [
+    "revival95",
+    "sarb",
+    "line"
+   ],
+   [
+    "sarb",
+    "sarbtrek",
+    "line"
+   ],
+   [
+    "sarb",
+    "spb089",
+    "line"
+   ],
+   [
+    "sarb",
+    "prospex39",
+    "line"
+   ],
+   [
+    "prospex39",
+    "alp38",
+    "line"
+   ],
+   [
+    "prospex39",
+    "euro",
+    "line"
+   ],
+   [
+    "laurel",
+    "recreation",
+    "revival"
+   ],
+   [
+    "laurel",
+    "reinterp",
+    "revival"
+   ],
+   [
+    "prospex39",
+    "gmt",
+    "line"
+   ],
+   [
+    "gmt8f56",
+    "gmt",
+    "revival"
+   ],
+   [
+    "prospex39",
+    "mech6r55",
+    "line"
+   ],
+   [
+    "prospex39",
+    "special",
+    "line"
+   ]
+  ]
+ },
+ "schematics": {
+  "laurel": {
+   "dial": "#151615",
+   "idx": "laurel",
+   "hands": "dauphine",
+   "compass": false,
+   "date": "none",
+   "crowns": 1,
+   "laurelText": true,
+   "alpColor": "#efe8d6",
+   "tex": "flat",
+   "size": 0.92
+  },
+  "champion": {
+   "dial": "#d9d6cc",
+   "ink": "#222",
+   "lume": "#f2ead0",
+   "idx": "champion",
+   "hands": "dauphine",
+   "compass": false,
+   "date": "none",
+   "crowns": 1,
+   "alpColor": "#7a1d17",
+   "tex": "flat",
+   "handColor": "#444",
+   "size": 0.92
+  },
+  "champion850": {
+   "dial": "#d9d6cc",
+   "ink": "#222",
+   "lume": "#f2ead0",
+   "idx": "champion",
+   "hands": "dauphine",
+   "compass": false,
+   "date": "none",
+   "crowns": 1,
+   "alpColor": "#7a1d17",
+   "tex": "flat",
+   "handColor": "#444",
+   "subText": "850",
+   "size": 0.92
+  },
+  "revival95": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "alpColor": "#e0574f"
+  },
+  "gmt8f56": {
+   "dial": "#1b1c1b",
+   "idx": "alpinist",
+   "hands": "sword",
+   "compass": true,
+   "date": "3",
+   "crowns": 2,
+   "gmt": true,
+   "metal": "#a9aca6"
+  },
+  "sarb": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "alpColor": "#e0574f",
+   "tex": "sunburst"
+  },
+  "sarbtrek": {
+   "dial": "#1b1c1b",
+   "idx": "alpinist",
+   "hands": "sword",
+   "compass": false,
+   "date": "3",
+   "crowns": 1
+  },
+  "spb089": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "tex": "vertical"
+  },
+  "prospex39": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "prospex": true,
+   "tex": "sunburst"
+  },
+  "euro": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#d8d8d0",
+   "handColor": "#e6e6de",
+   "prospex": true,
+   "tex": "vertical"
+  },
+  "alp38": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "prospex": true,
+   "size": 0.95
+  },
+  "recreation": {
+   "dial": "#151615",
+   "idx": "laurel",
+   "hands": "dauphine",
+   "compass": false,
+   "date": "4",
+   "crowns": 1,
+   "alpColor": "#efe8d6",
+   "tex": "flat",
+   "size": 0.92
+  },
+  "reinterp": {
+   "idx": "reinterp",
+   "hands": "dauphine",
+   "compass": false,
+   "date": "3",
+   "crowns": 1,
+   "prospex": true,
+   "tex": "vertical"
+  },
+  "gmt": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "3",
+   "crowns": 2,
+   "gmt": true,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "prospex": true
+  },
+  "mech6r55": {
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#c9a961",
+   "handColor": "#d9bb73",
+   "prospex": true,
+   "tex": "sunburst"
+  },
+  "special": {
+   "dial": "#141614",
+   "idx": "alpinist",
+   "hands": "cathedral",
+   "compass": true,
+   "date": "cyclops3",
+   "crowns": 2,
+   "idxColor": "#7fd18f",
+   "handColor": "#7fd18f",
+   "prospex": true
+  }
+ },
+ "evolution": [
+  {
+   "year": 1959,
+   "name": "Laurel Alpinist",
+   "cfg": {
+    "dial": "#151615",
+    "idx": "laurel",
+    "hands": "dauphine",
+    "compass": false,
+    "date": "none",
+    "crowns": 1,
+    "laurelText": true,
+    "alpColor": "#efe8d6",
+    "tex": "flat",
+    "size": 0.92
+   },
+   "rows": {
+    "case": "≈35 mm three-piece steel, screw-back; domed acrylic",
+    "hands": "Lumed dauphine",
+    "dial": "Glossy black or white",
+    "indices": "Large lumed mountain-peak wedges at 3/6/9/12",
+    "compass": "None",
+    "crown": "Single oversized crown",
+    "logo": "SEIKO with ‘Laurel’; ‘Alpinist’ script",
+    "caseback": "Screw-in, engraved model and reference",
+    "movement": "Seikosha 17J, hand-wound, 18,000 vph"
+   }
+  },
+  {
+   "year": 1961,
+   "name": "Champion Alpinist",
+   "cfg": {
+    "dial": "#d9d6cc",
+    "ink": "#222",
+    "lume": "#f2ead0",
+    "idx": "champion",
+    "hands": "dauphine",
+    "compass": false,
+    "date": "none",
+    "crowns": 1,
+    "alpColor": "#7a1d17",
+    "tex": "flat",
+    "handColor": "#444",
+    "size": 0.92
+   },
+   "rows": {
+    "case": "≈35 mm steel, multi-chamfered lugs",
+    "hands": "Lumed dauphine",
+    "dial": "Sector-style, often two-tone",
+    "indices": "Applied markers; triangle at 12",
+    "compass": "None",
+    "crown": "Single crown",
+    "logo": "‘Seiko Champion’ script; ‘Alpinist’",
+    "caseback": "Snap-on with mountain engraving",
+    "movement": "Seikosha 17J, hand-wound"
+   }
+  },
+  {
+   "year": 1963,
+   "name": "Champion 850 Alpinist",
+   "cfg": {
+    "dial": "#d9d6cc",
+    "ink": "#222",
+    "lume": "#f2ead0",
+    "idx": "champion",
+    "hands": "dauphine",
+    "compass": false,
+    "date": "none",
+    "crowns": 1,
+    "alpColor": "#7a1d17",
+    "tex": "flat",
+    "handColor": "#444",
+    "subText": "850",
+    "size": 0.92
+   },
+   "rows": {
+    "case": "Steel, also gold- or chrome-plated",
+    "hands": "Lumed dauphine",
+    "dial": "Sector-style; ‘850’ on the dial",
+    "indices": "Applied markers; triangle at 12",
+    "compass": "None",
+    "crown": "Single crown",
+    "logo": "‘Seiko Champion 850’",
+    "caseback": "‘Alpinist 850’ with mountain logo",
+    "movement": "Calibre 850 / 851"
+   }
+  },
+  {
+   "year": 1995,
+   "name": "Alpinist revival · SCVF009",
+   "cfg": {
+    "dial": "#1f4a3a",
+    "idx": "alpinist",
+    "hands": "cathedral",
+    "compass": true,
+    "date": "cyclops3",
+    "crowns": 2,
+    "idxColor": "#c9a961",
+    "handColor": "#d9bb73",
+    "alpColor": "#e0574f",
+    "tex": "flat"
+   },
+   "rows": {
+    "case": "38 mm steel, 200 m",
+    "hands": "Cathedral",
+    "dial": "Black, cream or green; date magnifier",
+    "indices": "Gold Arabic numerals with cardinal triangles",
+    "compass": "Internal rotating compass ring",
+    "crown": "Screw-down crown + second crown at 4",
+    "logo": "SEIKO; red ‘Alpinist’ script",
+    "caseback": "Screw-down with mountain and ‘Alpinist’",
+    "movement": "4S15 automatic"
+   }
+  },
+  {
+   "year": 2003,
+   "name": "GMT Perpetual · 8F56",
+   "cfg": {
+    "dial": "#1b1c1b",
+    "idx": "alpinist",
+    "hands": "sword",
+    "compass": true,
+    "date": "3",
+    "crowns": 2,
+    "gmt": true,
+    "metal": "#a9aca6"
+   },
+   "rows": {
+    "case": "Titanium, 100 m",
+    "hands": "Sword, plus a 24-hour GMT hand",
+    "dial": "Black, cream or teal (limited)",
+    "indices": "Arabic numerals; 24-hour scale",
+    "compass": "Internal rotating compass ring",
+    "crown": "Two crowns",
+    "logo": "SEIKO; red ‘Alpinist’ reported",
+    "caseback": "Screw-down with mountain logo",
+    "movement": "8F56 quartz perpetual"
+   }
+  },
+  {
+   "year": 2006,
+   "name": "SARB017",
+   "cfg": {
+    "dial": "#24533f",
+    "idx": "alpinist",
+    "hands": "cathedral",
+    "compass": true,
+    "date": "3",
+    "crowns": 2,
+    "idxColor": "#c9a961",
+    "handColor": "#d9bb73",
+    "alpColor": "#e0574f",
+    "tex": "sunburst"
+   },
+   "rows": {
+    "case": "39.5 mm steel, 12.0 mm, 200 m, sapphire",
+    "hands": "Gold cathedral",
+    "dial": "Green sunburst, cream or black; date at 3 (no magnifier)",
+    "indices": "Gold Arabic numerals with cardinal triangles",
+    "compass": "Internal rotating compass ring",
+    "crown": "Screw-down crown + second crown at 4",
+    "logo": "SEIKO; red ‘Alpinist’ script",
+    "caseback": "Screw-down with mountain-range symbol",
+    "movement": "6R15 automatic, 50 h"
+   }
+  },
+  {
+   "year": 2020,
+   "name": "Prospex Alpinist · SPB121",
+   "cfg": {
+    "dial": "#24533f",
+    "idx": "alpinist",
+    "hands": "cathedral",
+    "compass": true,
+    "date": "cyclops3",
+    "crowns": 2,
+    "idxColor": "#c9a961",
+    "handColor": "#d9bb73",
+    "prospex": true,
+    "tex": "sunburst"
+   },
+   "rows": {
+    "case": "39.5 mm steel, 200 m, sapphire",
+    "hands": "Cathedral",
+    "dial": "Green, black, cream or blue",
+    "indices": "Arabic numerals with cardinal triangles",
+    "compass": "Internal rotating compass ring",
+    "crown": "Screw-down crown + second crown at 4",
+    "logo": "SEIKO with Prospex ‘X’",
+    "caseback": "Screw-down",
+    "movement": "6R35 automatic, 70 h"
+   }
+  },
+  {
+   "year": 2021,
+   "name": "1959 Re-interpretation",
+   "cfg": {
+    "dial": "#2a4a3c",
+    "idx": "reinterp",
+    "hands": "dauphine",
+    "compass": false,
+    "date": "3",
+    "crowns": 1,
+    "prospex": true,
+    "tex": "vertical"
+   },
+   "rows": {
+    "case": "38 mm steel",
+    "hands": "Dauphine-style",
+    "dial": "Textured landscape colours",
+    "indices": "Mountain-shaped markers at 3/6/9/12",
+    "compass": "None",
+    "crown": "Single crown",
+    "logo": "SEIKO with Prospex ‘X’",
+    "caseback": "Screw-down",
+    "movement": "6R35 automatic, 70 h"
+   }
+  },
+  {
+   "year": 2023,
+   "name": "Mechanical GMT",
+   "cfg": {
+    "dial": "#1b1c1b",
+    "idx": "alpinist",
+    "hands": "cathedral",
+    "compass": true,
+    "date": "3",
+    "crowns": 2,
+    "gmt": true,
+    "idxColor": "#c9a961",
+    "handColor": "#d9bb73",
+    "prospex": true
+   },
+   "rows": {
+    "case": "39.5 × 13.6 mm steel",
+    "hands": "Cathedral + 24-hour GMT hand",
+    "dial": "Multiple colours",
+    "indices": "Arabic numerals with cardinal triangles",
+    "compass": "Internal rotating compass ring",
+    "crown": "Two crowns",
+    "logo": "SEIKO with Prospex ‘X’",
+    "caseback": "Screw-down",
+    "movement": "6R54 GMT, 72 h"
+   }
+  },
+  {
+   "year": 2025,
+   "name": "Alpinist Mechanical · SPB507",
+   "cfg": {
+    "dial": "#1f4a35",
+    "idx": "alpinist",
+    "hands": "cathedral",
+    "compass": true,
+    "date": "cyclops3",
+    "crowns": 2,
+    "idxColor": "#c9a961",
+    "handColor": "#d9bb73",
+    "prospex": true,
+    "tex": "sunburst"
+   },
+   "rows": {
+    "case": "12.7 mm thick, super-hard coating",
+    "hands": "Cathedral",
+    "dial": "Deep conifer green and others",
+    "indices": "Arabic numerals with cardinal triangles",
+    "compass": "Internal rotating compass ring",
+    "crown": "Screw-down crown + second crown at 4",
+    "logo": "SEIKO with Prospex ‘X’; ‘Alpinist’ wordmark",
+    "caseback": "Mountain pattern",
+    "movement": "6R55 automatic, 72 h"
+   }
+  }
+ ],
+ "context_years": {
+  "mountainous": "—",
+  "alps-naming": "Meiji",
+  "jac": "1905",
+  "manaslu": "1956",
+  "seiko-origin": "1959",
+  "seiko-features": "1959",
+  "seiko-yamaotoko": "1961?",
+  "seiko-expeditions": "1965",
+  "seiko-museum": "1981",
+  "mountain-day": "2016"
+ },
+ "model_overrides": {
+  "SPB249J1": {
+   "story": {
+    "text": "A deep blue inspired by the peaceful alpine lakes found deep in the mountains."
+   }
+  },
+  "SPB251J1": {
+   "story": {
+    "text": "A brown inspired by the bark of trees in alpine forests."
+   }
+  },
+  "SPB435J1": {
+   "story": {
+    "text": "A green taken from young bamboo leaves, with a dial pattern based on woven bamboo craft, honouring the bamboo forests of Thai culture."
+   }
+  },
+  "SPB532J1": {
+   "story": {
+    "text": "A textured white dial that evokes fresh powder snow and untouched high-alpine landscapes."
+   }
+  },
+  "SPB355J1": {
+   "story": {
+    "text": "A textured silver dial inspired by mountain rock walls. The press links the name to climber Stefano Ghisolfi, who wore it on the granite route ‘Silence’ in Flatanger, Norway."
+   }
+  }
+ }
+}
