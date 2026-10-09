@@ -257,9 +257,15 @@ SEARCH = [{'id': m['id'], 'ref': m['refs']['primary'], 'nick': m['nickname'], 's
 
 # ================================================================ HTML
 HEAD_FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Shippori+Mincho:wght@400;500;600&family=Zen+Kaku+Gothic+New:wght@400;500&display=swap" rel="stylesheet">'
-def head(title, desc, base='', extra=''):
+SITE = 'https://retrocherry.github.io/seiko-alpinist-archive/'
+def head(title, desc, base='', extra='', path=''):
+    og = f'''<link rel="canonical" href="{SITE}{path}"><meta property="og:type" content="website"><meta property="og:site_name" content="Seiko Alpinist Archive">
+<meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:url" content="{SITE}{path}">
+<meta property="og:image" content="{SITE}assets/img/brand/og-card.jpg"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Alpinist wordmark and the words Built for the Mountains beside an Alpinist watch in a compass ring, over Mount Yari">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title)}"><meta name="twitter:description" content="{E(desc)}"><meta name="twitter:image" content="{SITE}assets/img/brand/og-card.jpg">'''
     return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{E(title)}</title><meta name="description" content="{E(desc)}"><meta name="theme-color" content="#0f211a">
+<title>{E(title)}</title><meta name="description" content="{E(desc)}"><meta name="theme-color" content="#0f211a">{og}
 <link rel="icon" href="{base}favicon.ico" sizes="48x48"><link rel="icon" type="image/png" sizes="32x32" href="{base}assets/img/brand/favicon-32.png"><link rel="icon" type="image/png" sizes="512x512" href="{base}assets/img/brand/favicon-512.png"><link rel="apple-touch-icon" href="{base}assets/img/brand/apple-touch-icon.png">
 {HEAD_FONTS}<link rel="stylesheet" href="{base}assets/css/style.css?v={V}">{extra}</head>'''
 
@@ -394,7 +400,7 @@ for m in models:
     feats = feature_icons(m)
     page = head(f"{primary}{' “' + m['nickname'] + '”' if m['nickname'] else ''} · Seiko Alpinist Archive",
                 f"{m['name']} ({primary}) — history, specifications, movement and sources. Independent archive, not affiliated with Seiko.", '../',
-                f'<link rel="preload" as="image" href="../{E(limg["src"])}">' if limg else '')
+                f'<link rel="preload" as="image" href="../{E(limg["src"])}">' if limg else '', f"watches/{m['id']}.html")
     page += f'''<body class="watch-page" data-base="../" style="{css_vars}"><a class="skip" href="#main">Skip to content</a>{nav("../")}
 <main id="main">
 <section class="w-hero" aria-labelledby="w-title">
